@@ -8,25 +8,25 @@ A production-grade, clean-architecture artificial intelligence platform designed
 
 ```mermaid
 graph TD
-    Client UI[Streamlit HR Dashboard] -->|HTTP / REST| API[FastAPI Enterprise Layer]
-    ExtApps[Third-Party Enterprise HR System] -->|HTTP / REST| API
+    ClientUI["Streamlit HR Dashboard"] -->|HTTP / REST| API["FastAPI Enterprise Layer"]
+    ExtApps["Third-Party Enterprise HR System"] -->|HTTP / REST| API
 
     subgraph FastAPI Core Application
-        API --> Routes[API Routes & DTO Validation]
-        Routes --> Service[Prediction & Analytics Service]
+        API --> Routes["API Routes & DTO Validation"]
+        Routes --> Service["Prediction & Analytics Service"]
     end
 
     subgraph Machine Learning & XAI Core
-        Service --> Preprocessor[Custom Scikit-Learn Preprocessor]
-        Service --> Model[Gradient Boosting Classifier]
-        Service --> Explainer[SHAP TreeExplainer]
-        Service --> Recommender[HR Action Recommender]
+        Service --> Preprocessor["Custom Scikit-Learn Preprocessor"]
+        Service --> Model["Gradient Boosting Classifier"]
+        Service --> Explainer["SHAP TreeExplainer"]
+        Service --> Recommender["HR Action Recommender"]
         Explainer --> Recommender
     end
 
     subgraph Data Access Layer
-        Service --> Repository[SQLAlchemy Repository]
-        Repository --> DB[(Microsoft SQL Server / SQLite Fallback)]
+        Service --> Repository["SQLAlchemy Repository"]
+        Repository --> DB[("Microsoft SQL Server / SQLite Fallback")]
     end
 ```
 
