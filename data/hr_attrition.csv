@@ -1,0 +1,1501 @@
+EmployeeID,FullName,Age,Gender,Department,JobRole,EducationField,MonthlyIncome,DistanceFromHome,NumCompaniesWorked,TotalWorkingYears,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager,EnvironmentSatisfaction,JobSatisfaction,WorkLifeBalance,JobInvolvement,PerformanceRating,OverTime,BusinessTravel,Attrition
+EMP-0001,Employee 1,41,Female,Research & Development,Laboratory Technician,Marketing,6233.1,1,1,10,6,1,0,2,3,1,1,3,3,No,Travel_Rarely,1
+EMP-0002,Employee 2,38,Female,Research & Development,Manager,Other,12725.7,26,0,11,0,0,0,0,2,1,3,3,3,No,Travel_Frequently,1
+EMP-0003,Employee 3,44,Male,Research & Development,Laboratory Technician,Technical Degree,3543.62,1,2,2,2,2,0,0,4,4,2,1,3,No,Non-Travel,0
+EMP-0004,Employee 4,21,Female,Sales,Sales Executive,Medical,3364.34,9,2,3,3,3,3,2,1,4,3,3,3,No,Travel_Rarely,0
+EMP-0005,Employee 5,18,Male,Research & Development,Research Scientist,Technical Degree,3204.98,8,3,0,0,0,0,0,3,2,3,4,3,No,Travel_Rarely,1
+EMP-0006,Employee 6,40,Male,Sales,Sales Executive,Life Sciences,2696.66,1,1,1,1,1,0,1,3,1,2,2,3,Yes,Travel_Rarely,0
+EMP-0007,Employee 7,33,Male,Research & Development,Manager,Medical,10678.12,14,0,10,0,0,0,0,3,4,3,2,3,No,Travel_Frequently,0
+EMP-0008,Employee 8,30,Female,Research & Development,Healthcare Representative,Marketing,7317.0,7,4,12,10,1,1,3,1,4,3,2,4,No,Travel_Rarely,0
+EMP-0009,Employee 9,46,Male,Research & Development,Manufacturing Director,Marketing,9820.54,30,4,12,5,5,3,5,3,1,3,3,3,Yes,Non-Travel,1
+EMP-0010,Employee 10,29,Male,Research & Development,Manager,Other,12443.77,2,2,11,5,5,3,5,1,4,4,4,3,Yes,Travel_Rarely,1
+EMP-0011,Employee 11,35,Female,Human Resources,Human Resources,Technical Degree,7216.14,8,3,16,2,0,1,2,3,4,3,3,3,No,Travel_Rarely,0
+EMP-0012,Employee 12,38,Male,Sales,Manager,Medical,14051.39,7,3,14,14,5,4,6,3,2,3,1,3,Yes,Travel_Rarely,0
+EMP-0013,Employee 13,28,Male,Sales,Sales Executive,Technical Degree,5192.81,5,1,8,5,5,5,1,2,1,3,3,3,No,Travel_Rarely,0
+EMP-0014,Employee 14,32,Male,Research & Development,Manager,Life Sciences,8715.77,1,2,2,2,2,2,0,4,4,3,2,3,Yes,Non-Travel,0
+EMP-0015,Employee 15,34,Male,Research & Development,Research Director,Technical Degree,8997.54,7,3,2,2,2,2,2,3,3,3,3,4,No,Travel_Rarely,0
+EMP-0016,Employee 16,37,Female,Sales,Sales Executive,Human Resources,3658.78,6,3,7,0,0,0,0,4,1,3,4,3,No,Travel_Rarely,0
+EMP-0017,Employee 17,53,Female,Research & Development,Research Scientist,Other,7743.41,3,2,22,0,0,0,0,4,4,3,4,3,Yes,Non-Travel,0
+EMP-0018,Employee 18,36,Male,Research & Development,Research Director,Marketing,16475.29,4,7,18,17,2,2,4,3,2,3,4,4,No,Travel_Rarely,0
+EMP-0019,Employee 19,38,Male,Sales,Manager,Human Resources,15690.16,13,2,16,14,1,0,0,3,2,3,3,3,No,Travel_Rarely,0
+EMP-0020,Employee 20,41,Male,Sales,Sales Executive,Human Resources,7198.0,20,4,12,7,4,0,4,4,4,3,3,3,Yes,Travel_Rarely,1
+EMP-0021,Employee 21,18,Male,Research & Development,Research Scientist,Technical Degree,3200.24,18,5,0,0,0,0,0,2,4,4,2,3,Yes,Non-Travel,1
+EMP-0022,Employee 22,35,Female,Sales,Sales Executive,Life Sciences,2802.35,1,7,0,0,0,0,0,2,3,3,3,3,No,Travel_Rarely,0
+EMP-0023,Employee 23,50,Male,Sales,Sales Representative,Technical Degree,6995.38,10,0,11,11,4,0,3,1,2,3,3,3,Yes,Travel_Rarely,0
+EMP-0024,Employee 24,49,Male,Research & Development,Healthcare Representative,Other,6785.31,1,4,17,8,3,3,3,1,1,3,2,3,Yes,Travel_Rarely,0
+EMP-0025,Employee 25,55,Male,Research & Development,Manufacturing Director,Human Resources,13264.73,1,1,8,4,1,1,0,1,4,4,2,3,No,Travel_Rarely,0
+EMP-0026,Employee 26,37,Female,Research & Development,Manager,Other,8811.25,5,2,0,0,0,0,0,2,2,1,3,3,No,Travel_Rarely,1
+EMP-0027,Employee 27,52,Female,Research & Development,Healthcare Representative,Other,6536.22,30,2,17,14,5,0,3,1,1,2,2,3,No,Travel_Rarely,1
+EMP-0028,Employee 28,45,Male,Sales,Manager,Marketing,8773.58,9,1,0,0,0,0,0,3,2,3,2,3,No,Travel_Rarely,0
+EMP-0029,Employee 29,22,Male,Research & Development,Manager,Human Resources,10526.62,1,3,4,4,4,3,0,1,3,3,3,3,Yes,Non-Travel,0
+EMP-0030,Employee 30,27,Female,Research & Development,Research Director,Marketing,11238.12,1,1,9,6,6,2,5,3,2,4,3,3,No,Travel_Rarely,0
+EMP-0031,Employee 31,30,Male,Sales,Manager,Life Sciences,8665.19,3,2,0,0,0,0,0,3,3,4,3,3,Yes,Travel_Rarely,0
+EMP-0032,Employee 32,42,Male,Sales,Sales Representative,Technical Degree,9405.36,11,1,21,9,2,3,7,3,3,2,3,3,No,Travel_Rarely,0
+EMP-0033,Employee 33,20,Male,Human Resources,Manager,Medical,11082.02,4,6,2,2,2,1,2,4,3,2,4,3,No,Travel_Frequently,1
+EMP-0034,Employee 34,49,Female,Sales,Manager,Marketing,6845.14,12,3,0,0,0,0,0,3,1,2,3,3,No,Travel_Rarely,0
+EMP-0035,Employee 35,46,Female,Research & Development,Research Director,Life Sciences,7717.46,20,0,0,0,0,0,0,1,3,3,2,3,Yes,Travel_Rarely,0
+EMP-0036,Employee 36,43,Male,Research & Development,Laboratory Technician,Other,3727.76,1,2,2,2,2,1,2,3,1,2,2,3,Yes,Travel_Rarely,1
+EMP-0037,Employee 37,37,Male,Sales,Manager,Medical,13363.15,16,1,10,10,5,1,0,3,4,4,3,3,Yes,Travel_Frequently,0
+EMP-0038,Employee 38,43,Male,Research & Development,Healthcare Representative,Human Resources,9407.47,5,3,19,3,3,1,2,3,3,2,3,3,No,Travel_Rarely,0
+EMP-0039,Employee 39,39,Female,Sales,Sales Executive,Medical,8006.03,8,2,15,0,0,0,0,4,3,3,3,3,No,Travel_Rarely,0
+EMP-0040,Employee 40,45,Female,Research & Development,Healthcare Representative,Marketing,5653.64,1,5,6,0,0,0,0,1,3,3,3,3,Yes,Travel_Rarely,1
+EMP-0041,Employee 41,38,Male,Sales,Sales Representative,Life Sciences,3980.65,7,2,8,8,2,3,6,4,3,3,4,3,No,Travel_Rarely,0
+EMP-0042,Employee 42,34,Male,Human Resources,Human Resources,Medical,8019.58,8,3,16,7,5,1,7,1,4,3,3,3,Yes,Travel_Rarely,0
+EMP-0043,Employee 43,50,Male,Research & Development,Research Director,Medical,12262.33,24,0,12,5,5,2,3,1,1,1,3,3,Yes,Non-Travel,1
+EMP-0044,Employee 44,26,Male,Research & Development,Healthcare Representative,Human Resources,3136.63,1,1,0,0,0,0,0,4,4,2,3,4,No,Travel_Rarely,0
+EMP-0045,Employee 45,44,Female,Sales,Manager,Technical Degree,13215.27,2,0,12,4,4,1,2,3,2,3,3,4,No,Travel_Rarely,0
+EMP-0046,Employee 46,47,Male,Research & Development,Research Director,Life Sciences,16184.46,4,2,21,15,2,1,4,4,3,1,2,3,No,Travel_Rarely,1
+EMP-0047,Employee 47,36,Male,Research & Development,Laboratory Technician,Marketing,8150.81,19,9,18,13,0,0,5,4,1,3,3,3,No,Non-Travel,0
+EMP-0048,Employee 48,41,Female,Research & Development,Laboratory Technician,Human Resources,8863.25,7,2,12,7,0,3,5,3,4,2,4,3,No,Travel_Rarely,1
+EMP-0049,Employee 49,46,Male,Research & Development,Research Scientist,Other,5115.52,10,0,3,3,3,2,2,4,3,3,2,3,No,Travel_Rarely,0
+EMP-0050,Employee 50,36,Male,Research & Development,Manager,Technical Degree,8129.92,20,3,2,2,2,1,2,1,3,3,4,3,Yes,Travel_Rarely,0
+EMP-0051,Employee 51,39,Female,Sales,Sales Representative,Medical,6024.98,5,2,9,9,7,2,6,1,3,2,3,3,Yes,Travel_Rarely,0
+EMP-0052,Employee 52,30,Male,Research & Development,Laboratory Technician,Other,6747.6,13,2,12,10,6,3,3,3,4,1,3,3,No,Non-Travel,0
+EMP-0053,Employee 53,45,Male,Sales,Manager,Human Resources,13514.53,15,3,14,14,5,2,6,3,4,1,2,3,No,Travel_Rarely,0
+EMP-0054,Employee 54,45,Female,Research & Development,Manager,Technical Degree,14598.44,4,2,14,8,2,1,0,2,4,2,4,3,Yes,Travel_Rarely,0
+EMP-0055,Employee 55,49,Female,Research & Development,Laboratory Technician,Life Sciences,6822.78,5,5,16,16,5,1,2,4,3,3,3,3,No,Travel_Rarely,0
+EMP-0056,Employee 56,23,Male,Research & Development,Research Scientist,Other,4525.52,17,2,5,2,2,2,1,3,3,2,2,4,Yes,Travel_Rarely,1
+EMP-0057,Employee 57,31,Female,Research & Development,Research Director,Technical Degree,9994.69,10,2,0,0,0,0,0,3,3,1,4,3,No,Travel_Frequently,0
+EMP-0058,Employee 58,38,Male,Research & Development,Manufacturing Director,Other,12486.86,3,0,12,2,1,2,2,2,3,3,3,3,No,Travel_Rarely,0
+EMP-0059,Employee 59,30,Male,Sales,Sales Executive,Other,6897.57,10,6,12,6,4,3,5,3,3,2,3,4,Yes,Travel_Rarely,1
+EMP-0060,Employee 60,41,Female,Research & Development,Research Director,Life Sciences,11511.14,9,4,9,4,4,0,4,3,3,3,3,3,No,Travel_Rarely,0
+EMP-0061,Employee 61,34,Male,Research & Development,Manager,Medical,12089.61,2,3,10,7,7,3,4,3,4,3,3,3,No,Travel_Rarely,0
+EMP-0062,Employee 62,26,Female,Research & Development,Research Scientist,Technical Degree,4315.73,8,3,8,8,3,0,1,3,1,2,3,3,No,Travel_Rarely,0
+EMP-0063,Employee 63,31,Male,Research & Development,Healthcare Representative,Technical Degree,7549.64,4,5,13,13,3,0,4,2,2,3,2,3,No,Travel_Frequently,0
+EMP-0064,Employee 64,25,Female,Research & Development,Healthcare Representative,Medical,5403.54,9,1,7,0,0,0,0,2,3,3,3,4,No,Travel_Rarely,1
+EMP-0065,Employee 65,29,Male,Sales,Sales Executive,Marketing,5768.32,2,0,11,8,2,0,5,3,1,3,2,3,No,Non-Travel,0
+EMP-0066,Employee 66,27,Female,Research & Development,Research Director,Medical,11594.23,2,3,9,0,0,0,0,3,4,3,3,3,No,Non-Travel,0
+EMP-0067,Employee 67,32,Male,Human Resources,Manager,Technical Degree,8167.97,4,4,1,1,0,1,1,3,4,2,4,4,No,Travel_Rarely,0
+EMP-0068,Employee 68,26,Female,Research & Development,Healthcare Representative,Human Resources,6383.58,2,2,8,0,0,0,0,1,1,2,4,3,No,Travel_Rarely,0
+EMP-0069,Employee 69,30,Male,Research & Development,Research Scientist,Other,5118.74,1,1,12,8,3,3,6,3,4,4,2,4,No,Travel_Rarely,1
+EMP-0070,Employee 70,37,Male,Research & Development,Manufacturing Director,Marketing,10224.31,1,2,1,1,1,0,1,1,4,3,3,3,No,Travel_Rarely,0
+EMP-0071,Employee 71,31,Female,Sales,Sales Representative,Human Resources,4373.49,1,4,7,6,6,0,0,1,3,2,1,3,Yes,Travel_Rarely,0
+EMP-0072,Employee 72,18,Female,Human Resources,Manager,Life Sciences,7566.73,12,1,0,0,0,0,0,3,3,3,4,4,No,Travel_Rarely,0
+EMP-0073,Employee 73,47,Male,Research & Development,Laboratory Technician,Medical,2358.71,12,2,3,3,2,3,3,1,1,3,2,3,No,Travel_Rarely,1
+EMP-0074,Employee 74,37,Female,Sales,Sales Representative,Other,2832.51,20,1,3,0,0,0,0,4,3,1,2,3,No,Travel_Rarely,1
+EMP-0075,Employee 75,36,Female,Research & Development,Healthcare Representative,Technical Degree,6920.96,4,2,15,1,1,1,1,1,2,4,3,3,No,Travel_Rarely,1
+EMP-0076,Employee 76,38,Female,Sales,Sales Representative,Life Sciences,7284.14,3,0,13,0,0,0,0,3,4,2,3,3,No,Travel_Rarely,0
+EMP-0077,Employee 77,26,Male,Research & Development,Research Director,Human Resources,12626.81,12,2,8,8,8,2,1,2,4,3,3,3,No,Travel_Rarely,0
+EMP-0078,Employee 78,39,Female,Sales,Sales Executive,Life Sciences,6419.53,3,1,10,7,1,3,3,2,3,3,4,3,No,Travel_Frequently,0
+EMP-0079,Employee 79,52,Male,Research & Development,Healthcare Representative,Technical Degree,3625.21,15,4,5,4,4,0,4,1,2,3,3,3,No,Non-Travel,0
+EMP-0080,Employee 80,44,Male,Research & Development,Research Scientist,Life Sciences,7854.09,4,2,10,6,6,3,0,3,3,2,3,3,No,Travel_Rarely,1
+EMP-0081,Employee 81,38,Male,Human Resources,Manager,Marketing,8705.69,6,3,0,0,0,0,0,4,1,3,2,3,No,Travel_Rarely,0
+EMP-0082,Employee 82,33,Female,Research & Development,Healthcare Representative,Medical,2977.17,6,3,4,2,2,1,1,4,1,3,3,3,Yes,Non-Travel,0
+EMP-0083,Employee 83,37,Female,Research & Development,Healthcare Representative,Other,6973.24,2,4,14,10,0,2,0,3,1,4,3,3,No,Travel_Rarely,0
+EMP-0084,Employee 84,32,Male,Research & Development,Manager,Medical,8165.63,6,1,2,2,2,2,2,1,4,2,2,3,No,Travel_Rarely,0
+EMP-0085,Employee 85,38,Male,Sales,Sales Representative,Technical Degree,9438.96,21,1,20,5,5,2,3,1,3,3,3,3,No,Travel_Rarely,0
+EMP-0086,Employee 86,30,Male,Research & Development,Healthcare Representative,Technical Degree,5313.37,4,2,5,5,5,0,0,3,3,1,3,3,No,Travel_Rarely,0
+EMP-0087,Employee 87,46,Female,Sales,Sales Executive,Technical Degree,3738.08,10,2,6,2,2,1,2,4,2,3,4,3,Yes,Non-Travel,1
+EMP-0088,Employee 88,40,Female,Research & Development,Healthcare Representative,Technical Degree,3892.02,1,1,1,1,1,0,1,4,4,2,3,3,No,Travel_Rarely,0
+EMP-0089,Employee 89,44,Female,Research & Development,Research Scientist,Technical Degree,7525.74,18,2,15,4,4,0,4,1,4,3,3,4,Yes,Travel_Rarely,1
+EMP-0090,Employee 90,31,Female,Research & Development,Laboratory Technician,Marketing,4423.01,4,4,12,10,1,2,0,4,2,4,2,4,Yes,Travel_Rarely,0
+EMP-0091,Employee 91,44,Male,Sales,Sales Representative,Other,3751.9,30,1,7,0,0,0,0,4,2,3,2,3,No,Travel_Rarely,0
+EMP-0092,Employee 92,25,Female,Research & Development,Research Director,Marketing,11191.05,3,2,7,6,2,2,2,4,3,3,3,3,Yes,Travel_Rarely,0
+EMP-0093,Employee 93,43,Female,Research & Development,Laboratory Technician,Marketing,4379.81,1,2,6,6,6,0,4,2,3,1,1,3,No,Travel_Rarely,1
+EMP-0094,Employee 94,18,Male,Research & Development,Research Director,Human Resources,8305.67,3,1,0,0,0,0,0,3,4,4,2,3,No,Travel_Frequently,0
+EMP-0095,Employee 95,20,Female,Sales,Sales Executive,Life Sciences,2000.0,1,1,0,0,0,0,0,1,1,3,4,3,No,Travel_Rarely,0
+EMP-0096,Employee 96,30,Male,Research & Development,Laboratory Technician,Other,7061.5,6,1,12,8,6,2,2,3,2,3,3,3,Yes,Non-Travel,1
+EMP-0097,Employee 97,19,Female,Sales,Sales Executive,Other,5040.83,12,3,1,1,1,1,1,1,2,1,3,3,Yes,Travel_Frequently,1
+EMP-0098,Employee 98,24,Male,Research & Development,Research Director,Life Sciences,11113.32,4,0,4,4,4,1,0,3,2,2,4,3,No,Travel_Rarely,0
+EMP-0099,Employee 99,36,Male,Research & Development,Manufacturing Director,Human Resources,8941.2,3,1,2,2,2,1,2,4,2,4,3,3,No,Travel_Rarely,0
+EMP-0100,Employee 100,51,Male,Human Resources,Manager,Life Sciences,10731.3,1,4,0,0,0,0,0,2,4,3,3,3,Yes,Travel_Rarely,1
+EMP-0101,Employee 101,55,Male,Research & Development,Research Scientist,Marketing,3869.86,7,1,4,4,4,4,4,4,4,3,4,3,Yes,Travel_Frequently,0
+EMP-0102,Employee 102,31,Male,Sales,Sales Executive,Other,6271.38,8,3,11,10,4,1,0,4,4,3,3,3,No,Travel_Rarely,0
+EMP-0103,Employee 103,36,Female,Research & Development,Research Director,Life Sciences,15685.46,23,1,18,0,0,0,0,3,3,3,3,3,Yes,Travel_Frequently,0
+EMP-0104,Employee 104,44,Male,Sales,Manager,Marketing,12485.96,4,2,10,5,2,2,5,3,1,2,3,3,No,Travel_Rarely,0
+EMP-0105,Employee 105,30,Female,Research & Development,Manager,Technical Degree,13850.3,7,3,12,9,1,0,5,2,3,3,2,3,Yes,Non-Travel,0
+EMP-0106,Employee 106,39,Male,Sales,Sales Representative,Technical Degree,6033.75,22,1,13,13,0,1,0,1,4,3,3,3,No,Travel_Rarely,0
+EMP-0107,Employee 107,43,Male,Sales,Sales Representative,Life Sciences,8634.81,1,6,17,9,3,1,4,4,4,3,2,3,Yes,Travel_Rarely,0
+EMP-0108,Employee 108,41,Male,Research & Development,Manufacturing Director,Life Sciences,12080.0,9,3,13,7,3,0,3,4,1,3,3,3,No,Non-Travel,0
+EMP-0109,Employee 109,40,Female,Sales,Manager,Human Resources,13863.47,15,2,15,6,2,2,2,1,3,2,4,3,No,Travel_Rarely,0
+EMP-0110,Employee 110,34,Female,Research & Development,Manufacturing Director,Other,14647.12,30,4,16,10,3,1,4,4,4,2,2,3,Yes,Non-Travel,1
+EMP-0111,Employee 111,37,Male,Research & Development,Manufacturing Director,Human Resources,15046.75,12,3,19,7,4,2,4,4,4,3,4,3,No,Non-Travel,0
+EMP-0112,Employee 112,22,Male,Research & Development,Manufacturing Director,Medical,10146.5,3,4,4,4,4,3,0,3,4,3,2,3,No,Travel_Rarely,1
+EMP-0113,Employee 113,29,Male,Human Resources,Human Resources,Medical,5786.3,1,3,11,7,0,0,4,1,4,4,3,4,No,Travel_Rarely,0
+EMP-0114,Employee 114,36,Female,Research & Development,Manufacturing Director,Technical Degree,12507.05,29,5,11,8,2,0,1,4,1,3,3,3,No,Travel_Frequently,0
+EMP-0115,Employee 115,28,Male,Sales,Sales Representative,Technical Degree,6469.57,1,1,10,10,3,3,0,3,3,2,2,3,No,Non-Travel,0
+EMP-0116,Employee 116,43,Female,Research & Development,Research Director,Life Sciences,8333.83,16,5,5,5,0,1,5,4,1,3,2,3,No,Travel_Rarely,0
+EMP-0117,Employee 117,19,Male,Sales,Sales Executive,Technical Degree,2000.0,8,4,1,1,1,1,1,2,2,4,3,3,Yes,Travel_Rarely,0
+EMP-0118,Employee 118,27,Male,Sales,Sales Executive,Medical,5470.49,1,3,9,9,2,1,5,2,2,1,3,4,No,Travel_Rarely,1
+EMP-0119,Employee 119,31,Female,Research & Development,Research Scientist,Human Resources,4605.37,7,1,4,4,4,0,1,3,4,1,2,3,Yes,Travel_Rarely,0
+EMP-0120,Employee 120,30,Female,Research & Development,Research Scientist,Technical Degree,7660.14,1,2,12,9,4,0,6,4,1,2,4,3,Yes,Non-Travel,1
+EMP-0121,Employee 121,42,Male,Research & Development,Research Scientist,Technical Degree,3150.85,14,4,3,3,3,0,3,1,3,3,3,3,No,Travel_Frequently,0
+EMP-0122,Employee 122,39,Male,Research & Development,Manager,Human Resources,12139.06,3,1,12,8,7,4,6,4,3,2,2,3,No,Travel_Frequently,1
+EMP-0123,Employee 123,25,Male,Human Resources,Human Resources,Life Sciences,4439.67,2,1,7,7,6,0,0,4,4,2,3,3,No,Travel_Frequently,0
+EMP-0124,Employee 124,38,Female,Research & Development,Laboratory Technician,Life Sciences,4551.52,2,2,1,1,1,0,1,2,3,4,3,3,No,Travel_Rarely,1
+EMP-0125,Employee 125,36,Male,Research & Development,Healthcare Representative,Marketing,7717.66,26,3,12,0,0,0,0,4,4,4,2,3,Yes,Travel_Rarely,0
+EMP-0126,Employee 126,39,Female,Research & Development,Research Scientist,Human Resources,2165.92,1,3,0,0,0,0,0,4,4,3,2,3,No,Non-Travel,0
+EMP-0127,Employee 127,37,Female,Research & Development,Laboratory Technician,Medical,5216.23,2,1,10,4,4,2,3,3,4,3,3,3,Yes,Non-Travel,0
+EMP-0128,Employee 128,30,Female,Sales,Manager,Technical Degree,13237.29,4,1,11,10,5,0,6,3,2,3,4,3,No,Travel_Rarely,0
+EMP-0129,Employee 129,56,Male,Sales,Sales Representative,Technical Degree,2585.39,5,3,5,1,1,1,1,2,4,1,3,4,Yes,Travel_Rarely,1
+EMP-0130,Employee 130,51,Male,Sales,Sales Executive,Medical,5232.93,3,2,11,7,1,2,0,4,2,4,4,3,No,Travel_Frequently,1
+EMP-0131,Employee 131,43,Female,Research & Development,Research Scientist,Other,5362.19,10,6,11,7,7,2,3,1,1,3,3,3,Yes,Travel_Rarely,1
+EMP-0132,Employee 132,41,Male,Research & Development,Manufacturing Director,Medical,14290.27,3,1,18,16,3,1,1,4,3,3,4,3,No,Travel_Rarely,0
+EMP-0133,Employee 133,30,Male,Research & Development,Research Scientist,Medical,7449.09,13,2,12,6,6,1,6,3,4,3,3,4,No,Travel_Rarely,0
+EMP-0134,Employee 134,46,Female,Sales,Sales Representative,Technical Degree,8525.1,15,2,18,11,7,1,2,1,3,3,1,3,No,Travel_Rarely,0
+EMP-0135,Employee 135,36,Male,Sales,Manager,Technical Degree,9849.19,11,3,6,6,4,3,0,2,2,1,3,4,No,Travel_Rarely,0
+EMP-0136,Employee 136,36,Female,Sales,Sales Executive,Technical Degree,7000.11,2,3,5,5,0,5,5,3,2,3,2,3,No,Travel_Rarely,0
+EMP-0137,Employee 137,50,Female,Research & Development,Manager,Medical,12242.57,7,2,8,3,0,0,3,3,3,4,3,3,No,Travel_Rarely,0
+EMP-0138,Employee 138,44,Female,Sales,Sales Executive,Life Sciences,9996.66,13,0,20,7,0,1,7,4,4,3,3,3,No,Travel_Rarely,0
+EMP-0139,Employee 139,21,Male,Sales,Manager,Human Resources,11446.74,1,2,3,3,3,1,3,4,4,3,4,4,No,Travel_Frequently,0
+EMP-0140,Employee 140,30,Female,Research & Development,Manufacturing Director,Marketing,8463.12,3,0,0,0,0,0,0,4,4,2,2,3,Yes,Non-Travel,1
+EMP-0141,Employee 141,35,Male,Research & Development,Healthcare Representative,Human Resources,9266.95,5,4,15,13,6,0,5,4,3,4,3,4,No,Travel_Rarely,0
+EMP-0142,Employee 142,49,Male,Sales,Manager,Marketing,13217.63,1,2,11,0,0,0,0,3,4,2,1,3,No,Travel_Rarely,0
+EMP-0143,Employee 143,44,Female,Human Resources,Human Resources,Technical Degree,6592.56,8,4,14,0,0,0,0,3,2,4,4,3,No,Travel_Frequently,0
+EMP-0144,Employee 144,35,Male,Sales,Manager,Marketing,12565.37,30,0,13,7,7,1,3,4,1,3,2,3,No,Travel_Frequently,1
+EMP-0145,Employee 145,21,Male,Research & Development,Research Director,Technical Degree,9168.48,3,2,3,3,3,3,2,2,4,2,3,4,No,Non-Travel,1
+EMP-0146,Employee 146,31,Male,Research & Development,Manufacturing Director,Technical Degree,8423.91,1,0,3,3,3,1,0,4,3,3,2,3,No,Travel_Rarely,0
+EMP-0147,Employee 147,42,Female,Sales,Sales Representative,Human Resources,2226.88,3,3,0,0,0,0,0,1,2,4,2,3,No,Travel_Rarely,0
+EMP-0148,Employee 148,46,Male,Research & Development,Healthcare Representative,Technical Degree,2790.85,1,1,0,0,0,0,0,4,4,3,2,3,No,Travel_Rarely,0
+EMP-0149,Employee 149,30,Male,Sales,Manager,Human Resources,12184.82,12,2,9,9,1,0,1,2,1,3,4,3,Yes,Travel_Rarely,1
+EMP-0150,Employee 150,48,Male,Research & Development,Manufacturing Director,Human Resources,8000.27,1,5,0,0,0,0,0,3,3,4,3,3,Yes,Travel_Rarely,1
+EMP-0151,Employee 151,37,Male,Sales,Sales Executive,Technical Degree,6171.24,4,2,7,6,2,0,4,4,2,3,3,4,No,Travel_Rarely,0
+EMP-0152,Employee 152,32,Male,Research & Development,Manufacturing Director,Other,10646.82,9,0,9,4,0,0,0,2,2,3,3,3,No,Travel_Rarely,0
+EMP-0153,Employee 153,34,Male,Sales,Sales Executive,Life Sciences,7769.15,30,1,15,2,0,0,2,2,1,2,3,3,No,Travel_Rarely,1
+EMP-0154,Employee 154,39,Male,Sales,Manager,Medical,12353.35,11,4,12,10,1,0,2,4,2,2,2,3,No,Travel_Rarely,0
+EMP-0155,Employee 155,38,Female,Sales,Sales Executive,Other,5944.44,3,2,15,1,1,1,1,1,3,2,4,3,Yes,Travel_Rarely,0
+EMP-0156,Employee 156,49,Male,Research & Development,Healthcare Representative,Life Sciences,5009.47,2,1,9,5,3,2,3,3,3,4,2,4,No,Travel_Rarely,0
+EMP-0157,Employee 157,40,Male,Research & Development,Manager,Life Sciences,16844.51,12,2,22,4,2,0,4,4,1,1,3,3,Yes,Travel_Frequently,0
+EMP-0158,Employee 158,39,Male,Sales,Manager,Other,12196.97,10,1,8,5,5,2,1,3,4,2,2,3,Yes,Travel_Rarely,0
+EMP-0159,Employee 159,41,Female,Research & Development,Healthcare Representative,Marketing,5013.17,20,1,9,9,8,3,0,4,3,3,2,3,No,Travel_Rarely,0
+EMP-0160,Employee 160,20,Male,Research & Development,Manager,Technical Degree,7623.65,8,6,2,2,2,2,2,3,3,3,3,3,No,Travel_Rarely,0
+EMP-0161,Employee 161,38,Female,Research & Development,Healthcare Representative,Human Resources,9055.54,11,3,19,6,4,1,6,4,4,3,3,3,No,Travel_Rarely,0
+EMP-0162,Employee 162,40,Male,Research & Development,Manager,Life Sciences,8493.65,5,2,0,0,0,0,0,3,2,3,1,3,No,Travel_Rarely,0
+EMP-0163,Employee 163,36,Female,Human Resources,Human Resources,Life Sciences,6083.48,4,0,10,9,2,1,6,1,4,2,1,3,Yes,Travel_Rarely,1
+EMP-0164,Employee 164,32,Female,Research & Development,Manufacturing Director,Marketing,9619.93,2,3,3,3,3,3,2,1,3,3,4,3,No,Travel_Frequently,0
+EMP-0165,Employee 165,18,Male,Research & Development,Manager,Technical Degree,7693.64,4,1,0,0,0,0,0,1,3,3,2,3,No,Non-Travel,0
+EMP-0166,Employee 166,24,Female,Sales,Sales Executive,Marketing,3022.14,12,1,0,0,0,0,0,2,1,4,2,4,No,Travel_Rarely,0
+EMP-0167,Employee 167,42,Male,Sales,Manager,Human Resources,13129.99,1,3,18,5,5,5,1,3,2,3,3,3,Yes,Travel_Rarely,0
+EMP-0168,Employee 168,32,Female,Sales,Sales Representative,Technical Degree,5867.32,13,2,7,7,6,5,7,2,3,3,2,3,Yes,Travel_Rarely,1
+EMP-0169,Employee 169,46,Male,Sales,Sales Representative,Medical,8216.89,4,5,13,0,0,0,0,1,1,3,3,3,No,Travel_Rarely,1
+EMP-0170,Employee 170,41,Female,Sales,Sales Representative,Other,4052.43,2,4,4,4,4,2,4,3,3,1,3,3,Yes,Travel_Rarely,0
+EMP-0171,Employee 171,19,Male,Research & Development,Research Scientist,Other,2000.0,1,2,1,1,1,1,1,4,3,3,2,3,No,Travel_Frequently,0
+EMP-0172,Employee 172,30,Female,Research & Development,Research Scientist,Life Sciences,4938.02,10,2,6,5,5,0,5,1,3,2,3,3,No,Travel_Rarely,0
+EMP-0173,Employee 173,41,Male,Sales,Sales Executive,Marketing,9604.69,7,1,13,4,0,4,4,1,3,3,2,3,Yes,Non-Travel,0
+EMP-0174,Employee 174,31,Male,Research & Development,Manager,Other,13799.04,30,7,13,12,0,2,7,3,2,3,3,3,No,Travel_Frequently,1
+EMP-0175,Employee 175,20,Female,Research & Development,Research Scientist,Technical Degree,4713.34,5,1,2,2,2,1,2,3,4,2,2,3,No,Travel_Rarely,0
+EMP-0176,Employee 176,50,Male,Research & Development,Manufacturing Director,Technical Degree,11158.34,4,1,5,4,3,2,4,2,2,3,3,3,Yes,Travel_Rarely,1
+EMP-0177,Employee 177,46,Male,Research & Development,Manager,Medical,13295.79,3,3,12,8,0,0,0,3,3,3,3,3,No,Travel_Rarely,0
+EMP-0178,Employee 178,27,Male,Sales,Sales Representative,Human Resources,6520.25,1,1,9,9,6,1,0,3,4,4,3,3,Yes,Travel_Rarely,0
+EMP-0179,Employee 179,31,Male,Research & Development,Laboratory Technician,Technical Degree,4016.57,5,2,5,5,5,1,3,4,4,2,3,3,Yes,Travel_Frequently,1
+EMP-0180,Employee 180,36,Female,Research & Development,Manufacturing Director,Marketing,10475.03,1,2,4,4,0,4,2,4,2,2,2,4,No,Travel_Rarely,0
+EMP-0181,Employee 181,18,Male,Research & Development,Research Scientist,Life Sciences,3605.63,1,0,0,0,0,0,0,2,3,2,1,3,No,Non-Travel,0
+EMP-0182,Employee 182,45,Male,Sales,Sales Executive,Technical Degree,5783.87,14,1,11,9,1,4,0,3,4,1,2,3,No,Travel_Rarely,0
+EMP-0183,Employee 183,37,Male,Research & Development,Manufacturing Director,Marketing,11554.44,4,4,11,4,4,0,4,3,4,2,3,3,No,Travel_Rarely,0
+EMP-0184,Employee 184,40,Male,Human Resources,Human Resources,Medical,3548.69,5,2,6,1,1,1,0,2,4,1,3,3,No,Travel_Rarely,0
+EMP-0185,Employee 185,44,Male,Sales,Sales Representative,Human Resources,2000.0,11,3,3,1,1,0,0,4,1,3,2,3,Yes,Travel_Rarely,0
+EMP-0186,Employee 186,36,Male,Research & Development,Manager,Life Sciences,14011.98,2,3,12,12,4,3,3,2,3,3,3,3,Yes,Travel_Rarely,1
+EMP-0187,Employee 187,23,Male,Research & Development,Research Scientist,Technical Degree,4586.14,2,6,5,5,5,1,5,4,3,3,2,3,Yes,Travel_Rarely,0
+EMP-0188,Employee 188,34,Male,Research & Development,Research Director,Human Resources,14516.93,7,2,16,3,3,3,3,2,3,3,3,3,Yes,Travel_Rarely,0
+EMP-0189,Employee 189,29,Female,Sales,Manager,Life Sciences,10754.48,2,1,6,6,1,2,1,3,3,3,4,4,No,Non-Travel,0
+EMP-0190,Employee 190,37,Male,Sales,Sales Representative,Other,3579.1,27,3,3,3,3,2,0,4,4,4,3,4,No,Travel_Rarely,0
+EMP-0191,Employee 191,46,Female,Research & Development,Manufacturing Director,Marketing,15053.09,6,2,17,5,5,1,5,4,4,3,2,3,No,Travel_Rarely,0
+EMP-0192,Employee 192,29,Female,Research & Development,Research Scientist,Technical Degree,6052.62,25,1,6,6,6,1,6,3,1,1,3,4,No,Travel_Rarely,0
+EMP-0193,Employee 193,24,Male,Research & Development,Research Director,Human Resources,9631.45,1,4,2,2,2,0,0,4,3,3,3,4,Yes,Non-Travel,0
+EMP-0194,Employee 194,44,Male,Research & Development,Research Director,Life Sciences,8561.61,6,2,1,1,1,1,1,3,4,2,1,4,No,Travel_Rarely,0
+EMP-0195,Employee 195,36,Female,Research & Development,Research Director,Marketing,11238.41,3,4,7,7,7,2,3,2,4,3,3,3,Yes,Travel_Rarely,0
+EMP-0196,Employee 196,31,Male,Research & Development,Manufacturing Director,Other,8413.93,3,2,0,0,0,0,0,1,4,2,3,3,No,Travel_Rarely,1
+EMP-0197,Employee 197,38,Male,Human Resources,Human Resources,Human Resources,8647.8,4,5,20,5,4,5,4,3,1,2,3,3,No,Travel_Rarely,0
+EMP-0198,Employee 198,23,Female,Research & Development,Research Director,Medical,10662.11,1,0,5,3,2,1,3,1,4,2,4,3,No,Travel_Frequently,0
+EMP-0199,Employee 199,47,Male,Research & Development,Research Scientist,Life Sciences,2797.6,15,2,0,0,0,0,0,2,2,2,3,3,No,Travel_Rarely,0
+EMP-0200,Employee 200,27,Male,Sales,Sales Executive,Other,2119.9,7,1,0,0,0,0,0,2,1,2,3,3,No,Travel_Rarely,1
+EMP-0201,Employee 201,42,Male,Research & Development,Research Scientist,Technical Degree,4703.76,4,2,7,7,7,2,6,4,4,3,4,3,No,Travel_Rarely,0
+EMP-0202,Employee 202,42,Male,Research & Development,Manufacturing Director,Medical,8750.11,5,5,9,9,4,1,2,4,4,3,3,3,No,Travel_Rarely,0
+EMP-0203,Employee 203,31,Male,Sales,Sales Representative,Human Resources,5599.21,1,1,10,10,1,6,3,3,3,3,3,3,No,Travel_Rarely,0
+EMP-0204,Employee 204,59,Male,Research & Development,Manager,Medical,12247.58,12,2,11,11,2,1,3,3,4,4,3,3,No,Travel_Frequently,0
+EMP-0205,Employee 205,31,Male,Research & Development,Healthcare Representative,Marketing,8424.8,2,3,13,0,0,0,0,4,1,2,2,3,No,Travel_Rarely,0
+EMP-0206,Employee 206,27,Female,Sales,Sales Representative,Human Resources,5843.32,11,0,9,6,4,2,0,3,3,3,2,3,Yes,Travel_Rarely,0
+EMP-0207,Employee 207,37,Male,Research & Development,Manufacturing Director,Marketing,11828.09,1,2,11,11,8,8,0,3,2,3,3,4,No,Travel_Rarely,0
+EMP-0208,Employee 208,41,Male,Research & Development,Manager,Other,11729.72,30,2,10,4,4,1,4,2,3,3,2,3,No,Travel_Rarely,0
+EMP-0209,Employee 209,30,Male,Sales,Sales Representative,Medical,4374.9,8,4,6,6,3,0,0,3,2,3,4,3,No,Travel_Rarely,0
+EMP-0210,Employee 210,29,Female,Sales,Sales Representative,Technical Degree,3507.51,1,1,0,0,0,0,0,1,1,3,2,3,Yes,Travel_Rarely,1
+EMP-0211,Employee 211,37,Male,Sales,Sales Representative,Marketing,3566.72,3,0,0,0,0,0,0,4,1,3,2,3,Yes,Travel_Rarely,1
+EMP-0212,Employee 212,34,Male,Sales,Manager,Technical Degree,9055.1,3,1,2,2,2,0,0,4,2,2,2,3,No,Travel_Rarely,0
+EMP-0213,Employee 213,33,Male,Research & Development,Research Director,Life Sciences,12517.04,4,3,11,7,1,1,6,2,4,3,4,3,No,Travel_Rarely,0
+EMP-0214,Employee 214,40,Female,Research & Development,Manufacturing Director,Other,9713.11,3,2,4,1,1,1,1,3,3,3,2,3,No,Travel_Rarely,0
+EMP-0215,Employee 215,25,Male,Research & Development,Manufacturing Director,Marketing,10988.5,12,2,7,7,6,3,0,4,3,3,3,3,No,Travel_Rarely,0
+EMP-0216,Employee 216,49,Female,Research & Development,Manager,Technical Degree,14520.15,15,1,16,12,1,1,3,3,4,3,3,3,No,Travel_Rarely,0
+EMP-0217,Employee 217,35,Female,Research & Development,Laboratory Technician,Life Sciences,4121.24,5,1,6,6,2,2,2,1,4,1,3,4,No,Travel_Rarely,0
+EMP-0218,Employee 218,40,Male,Research & Development,Laboratory Technician,Other,5717.94,27,3,11,7,6,1,4,3,4,3,3,3,No,Travel_Rarely,0
+EMP-0219,Employee 219,53,Male,Research & Development,Research Scientist,Life Sciences,3258.04,1,4,9,5,4,1,0,3,3,2,3,3,No,Travel_Frequently,0
+EMP-0220,Employee 220,44,Female,Research & Development,Research Scientist,Other,4252.7,14,3,6,6,0,0,6,3,2,1,3,3,Yes,Travel_Rarely,1
+EMP-0221,Employee 221,37,Female,Research & Development,Research Director,Medical,14397.63,2,1,14,8,7,0,8,2,2,4,4,3,No,Travel_Frequently,1
+EMP-0222,Employee 222,34,Male,Sales,Manager,Technical Degree,11467.36,12,0,8,5,3,2,4,3,3,3,3,3,No,Travel_Rarely,0
+EMP-0223,Employee 223,36,Male,Research & Development,Research Director,Medical,6981.55,2,3,0,0,0,0,0,4,2,3,3,3,No,Non-Travel,0
+EMP-0224,Employee 224,36,Male,Sales,Manager,Marketing,8854.29,1,5,6,6,3,1,4,3,2,3,3,3,No,Non-Travel,0
+EMP-0225,Employee 225,32,Female,Sales,Manager,Human Resources,8299.53,3,2,0,0,0,0,0,3,3,3,1,3,No,Travel_Frequently,0
+EMP-0226,Employee 226,21,Male,Research & Development,Healthcare Representative,Life Sciences,3385.26,20,2,3,3,0,2,0,1,3,3,2,3,No,Travel_Rarely,0
+EMP-0227,Employee 227,36,Male,Research & Development,Manufacturing Director,Technical Degree,15688.77,15,1,18,4,4,2,4,1,1,2,2,3,No,Non-Travel,0
+EMP-0228,Employee 228,40,Female,Research & Development,Laboratory Technician,Marketing,3735.44,10,0,4,4,0,4,4,4,4,1,3,3,No,Travel_Frequently,0
+EMP-0229,Employee 229,40,Female,Sales,Sales Representative,Technical Degree,2841.56,23,1,4,4,2,3,4,3,1,4,3,3,No,Travel_Rarely,0
+EMP-0230,Employee 230,18,Female,Sales,Sales Representative,Technical Degree,2870.81,24,4,0,0,0,0,0,3,2,2,3,3,No,Travel_Rarely,0
+EMP-0231,Employee 231,59,Female,Research & Development,Research Scientist,Other,8199.67,1,1,13,9,8,1,2,4,2,3,3,3,Yes,Travel_Rarely,1
+EMP-0232,Employee 232,39,Female,Research & Development,Healthcare Representative,Human Resources,2745.24,15,4,3,3,1,1,3,4,4,4,1,3,No,Travel_Rarely,0
+EMP-0233,Employee 233,45,Male,Human Resources,Manager,Human Resources,9270.7,6,3,1,1,1,0,1,3,2,2,3,3,No,Travel_Rarely,0
+EMP-0234,Employee 234,31,Male,Research & Development,Manufacturing Director,Human Resources,10279.41,21,2,4,0,0,0,0,3,4,3,2,3,Yes,Travel_Frequently,1
+EMP-0235,Employee 235,35,Female,Research & Development,Manager,Marketing,9579.72,2,1,4,4,4,0,4,1,1,2,3,3,Yes,Non-Travel,1
+EMP-0236,Employee 236,28,Male,Research & Development,Laboratory Technician,Technical Degree,5265.29,1,4,10,5,0,3,1,3,4,4,2,3,No,Non-Travel,0
+EMP-0237,Employee 237,33,Male,Research & Development,Research Scientist,Other,6853.67,1,2,15,14,0,2,3,4,4,2,2,3,No,Travel_Rarely,0
+EMP-0238,Employee 238,38,Female,Research & Development,Healthcare Representative,Human Resources,4378.46,30,4,6,5,5,0,1,1,1,2,3,4,No,Travel_Rarely,1
+EMP-0239,Employee 239,35,Female,Sales,Manager,Life Sciences,15414.42,3,1,17,7,7,2,0,4,4,2,4,3,No,Travel_Frequently,0
+EMP-0240,Employee 240,40,Male,Research & Development,Research Director,Marketing,7630.81,10,2,0,0,0,0,0,3,3,2,3,3,No,Travel_Rarely,0
+EMP-0241,Employee 241,33,Female,Research & Development,Healthcare Representative,Human Resources,7096.7,10,1,15,3,3,3,3,4,3,3,2,3,Yes,Travel_Frequently,0
+EMP-0242,Employee 242,37,Female,Research & Development,Laboratory Technician,Marketing,5093.76,23,4,16,14,6,0,0,2,1,3,4,4,No,Travel_Rarely,0
+EMP-0243,Employee 243,34,Male,Sales,Manager,Life Sciences,9024.11,6,0,4,4,4,2,3,2,3,4,3,4,Yes,Travel_Rarely,0
+EMP-0244,Employee 244,35,Male,Research & Development,Research Scientist,Marketing,5313.94,1,3,5,5,0,4,3,3,1,2,4,3,No,Travel_Frequently,0
+EMP-0245,Employee 245,47,Male,Research & Development,Healthcare Representative,Medical,8926.41,7,1,18,9,2,1,6,4,1,2,1,3,No,Non-Travel,0
+EMP-0246,Employee 246,26,Female,Sales,Sales Executive,Technical Degree,4496.85,9,2,0,0,0,0,0,3,1,4,3,3,Yes,Travel_Frequently,1
+EMP-0247,Employee 247,43,Female,Human Resources,Human Resources,Human Resources,5703.93,17,1,6,6,3,2,0,2,4,2,3,3,Yes,Non-Travel,0
+EMP-0248,Employee 248,34,Male,Sales,Sales Executive,Human Resources,7070.83,6,3,16,2,2,2,2,3,4,3,3,4,No,Travel_Frequently,0
+EMP-0249,Employee 249,27,Female,Sales,Sales Representative,Life Sciences,2000.0,5,3,0,0,0,0,0,2,3,3,3,3,No,Non-Travel,0
+EMP-0250,Employee 250,32,Male,Research & Development,Research Scientist,Other,7063.66,12,3,14,5,5,0,3,2,4,3,3,3,Yes,Travel_Frequently,0
+EMP-0251,Employee 251,35,Male,Research & Development,Research Director,Other,11864.53,2,1,9,2,2,1,2,4,4,3,3,3,Yes,Travel_Rarely,0
+EMP-0252,Employee 252,52,Female,Research & Development,Research Director,Medical,10937.69,12,5,6,2,2,2,2,3,4,2,3,3,Yes,Non-Travel,0
+EMP-0253,Employee 253,55,Male,Sales,Manager,Marketing,10938.15,7,0,11,6,6,3,4,3,2,3,2,4,No,Travel_Rarely,1
+EMP-0254,Employee 254,34,Female,Research & Development,Laboratory Technician,Medical,5755.13,4,0,11,11,1,1,0,1,1,2,4,3,Yes,Travel_Rarely,1
+EMP-0255,Employee 255,37,Male,Sales,Sales Representative,Technical Degree,8601.54,7,4,17,0,0,0,0,2,3,3,3,3,Yes,Travel_Rarely,1
+EMP-0256,Employee 256,21,Female,Research & Development,Healthcare Representative,Life Sciences,3174.37,7,5,3,3,0,2,3,3,1,3,3,3,No,Travel_Rarely,0
+EMP-0257,Employee 257,32,Male,Research & Development,Manufacturing Director,Marketing,9939.17,1,2,3,3,3,1,3,2,4,1,3,3,No,Travel_Rarely,0
+EMP-0258,Employee 258,37,Male,Research & Development,Manager,Technical Degree,13048.3,6,1,19,7,1,2,0,4,4,3,4,3,Yes,Travel_Rarely,0
+EMP-0259,Employee 259,47,Male,Research & Development,Manufacturing Director,Marketing,16843.03,2,3,18,4,4,0,1,4,3,3,1,3,Yes,Travel_Frequently,0
+EMP-0260,Employee 260,39,Male,Research & Development,Manager,Medical,8488.34,1,1,2,2,2,2,0,4,3,2,3,3,No,Travel_Rarely,0
+EMP-0261,Employee 261,38,Male,Sales,Sales Representative,Human Resources,8872.95,2,2,12,5,5,3,3,3,1,4,3,3,No,Travel_Rarely,0
+EMP-0262,Employee 262,43,Female,Research & Development,Research Director,Human Resources,11086.58,7,3,12,11,2,2,3,4,4,4,2,3,Yes,Travel_Rarely,0
+EMP-0263,Employee 263,47,Female,Sales,Sales Executive,Medical,6589.98,4,1,9,5,5,2,0,3,4,3,3,4,Yes,Travel_Rarely,0
+EMP-0264,Employee 264,33,Male,Research & Development,Manager,Life Sciences,10335.39,1,2,5,5,5,3,5,1,4,1,3,3,No,Travel_Rarely,0
+EMP-0265,Employee 265,30,Male,Sales,Manager,Medical,10723.66,10,0,10,0,0,0,0,4,1,3,2,4,No,Travel_Rarely,0
+EMP-0266,Employee 266,29,Female,Sales,Sales Representative,Other,5354.7,1,2,11,11,4,0,4,3,3,3,3,3,No,Travel_Frequently,0
+EMP-0267,Employee 267,34,Male,Research & Development,Research Scientist,Human Resources,4420.5,14,2,4,4,3,2,4,4,4,4,2,3,No,Travel_Rarely,0
+EMP-0268,Employee 268,40,Female,Research & Development,Research Director,Human Resources,10123.33,14,3,8,8,4,4,6,3,1,3,3,3,No,Travel_Rarely,0
+EMP-0269,Employee 269,39,Male,Research & Development,Laboratory Technician,Life Sciences,3049.68,4,2,0,0,0,0,0,1,1,4,2,3,No,Travel_Rarely,0
+EMP-0270,Employee 270,53,Male,Research & Development,Manufacturing Director,Life Sciences,13001.07,3,2,15,8,4,4,0,3,3,3,4,3,Yes,Travel_Rarely,0
+EMP-0271,Employee 271,35,Male,Human Resources,Manager,Marketing,13854.48,10,3,17,0,0,0,0,3,3,2,2,3,No,Travel_Rarely,0
+EMP-0272,Employee 272,38,Female,Sales,Sales Representative,Technical Degree,5047.96,5,3,8,6,6,0,6,3,3,2,3,3,No,Travel_Rarely,1
+EMP-0273,Employee 273,21,Female,Research & Development,Research Scientist,Medical,3673.9,7,3,3,0,0,0,0,3,4,2,2,4,No,Travel_Frequently,0
+EMP-0274,Employee 274,34,Female,Research & Development,Manager,Technical Degree,9548.92,4,3,1,1,1,1,0,1,4,2,3,3,No,Travel_Rarely,0
+EMP-0275,Employee 275,44,Male,Sales,Sales Representative,Life Sciences,9914.48,15,6,19,14,5,0,1,1,3,2,2,3,No,Travel_Rarely,1
+EMP-0276,Employee 276,28,Female,Research & Development,Research Scientist,Medical,5824.23,1,2,10,7,3,1,3,1,4,3,3,4,No,Travel_Rarely,0
+EMP-0277,Employee 277,35,Female,Human Resources,Human Resources,Life Sciences,8378.66,1,2,17,7,0,0,4,1,4,3,3,3,No,Travel_Rarely,0
+EMP-0278,Employee 278,44,Male,Research & Development,Research Director,Technical Degree,14070.8,13,3,19,9,6,0,3,3,3,3,2,3,No,Travel_Frequently,0
+EMP-0279,Employee 279,29,Female,Research & Development,Research Scientist,Life Sciences,4951.49,6,6,4,4,1,0,4,4,3,3,3,4,Yes,Travel_Rarely,0
+EMP-0280,Employee 280,42,Female,Research & Development,Manager,Medical,9361.79,9,2,3,3,3,3,3,3,4,3,3,3,No,Travel_Rarely,0
+EMP-0281,Employee 281,37,Male,Sales,Manager,Life Sciences,8702.66,2,4,0,0,0,0,0,2,2,2,2,3,Yes,Travel_Rarely,0
+EMP-0282,Employee 282,39,Male,Research & Development,Manufacturing Director,Life Sciences,8054.55,24,1,1,1,1,1,1,3,3,3,3,3,Yes,Travel_Frequently,0
+EMP-0283,Employee 283,27,Male,Sales,Sales Representative,Other,5154.73,21,3,9,9,3,2,6,4,3,3,3,3,Yes,Non-Travel,0
+EMP-0284,Employee 284,47,Male,Sales,Manager,Human Resources,17673.0,1,2,25,10,0,0,6,3,3,3,2,3,No,Non-Travel,0
+EMP-0285,Employee 285,42,Male,Sales,Manager,Medical,11468.05,3,3,8,8,3,1,1,4,3,3,4,4,No,Travel_Frequently,0
+EMP-0286,Employee 286,18,Male,Research & Development,Manager,Other,9118.73,1,0,0,0,0,0,0,4,4,2,3,3,No,Travel_Frequently,1
+EMP-0287,Employee 287,29,Male,Sales,Sales Representative,Life Sciences,2666.88,16,3,5,5,2,0,5,2,1,2,3,3,Yes,Travel_Rarely,1
+EMP-0288,Employee 288,26,Male,Sales,Manager,Marketing,12073.2,11,1,8,8,1,4,5,1,4,2,3,3,No,Non-Travel,0
+EMP-0289,Employee 289,42,Male,Research & Development,Laboratory Technician,Other,2000.0,5,1,0,0,0,0,0,4,3,3,3,3,Yes,Travel_Rarely,1
+EMP-0290,Employee 290,44,Male,Research & Development,Research Director,Marketing,8875.29,3,2,1,1,1,1,1,3,2,1,4,3,Yes,Travel_Rarely,0
+EMP-0291,Employee 291,31,Male,Research & Development,Research Director,Medical,12314.58,1,5,10,0,0,0,0,2,1,3,2,3,No,Travel_Rarely,0
+EMP-0292,Employee 292,31,Female,Research & Development,Laboratory Technician,Other,5447.52,22,1,1,1,1,1,1,4,4,3,3,3,Yes,Travel_Frequently,1
+EMP-0293,Employee 293,50,Female,Research & Development,Research Director,Life Sciences,14925.78,12,3,21,12,0,0,1,3,3,3,3,3,Yes,Travel_Frequently,0
+EMP-0294,Employee 294,46,Male,Sales,Manager,Technical Degree,15114.84,30,2,18,4,1,1,4,3,3,3,2,3,Yes,Travel_Rarely,0
+EMP-0295,Employee 295,44,Female,Sales,Sales Executive,Human Resources,7535.8,4,2,16,6,5,2,0,1,2,3,2,3,No,Travel_Rarely,0
+EMP-0296,Employee 296,23,Female,Human Resources,Human Resources,Life Sciences,3825.93,1,3,5,5,5,2,5,4,2,2,3,3,No,Travel_Rarely,0
+EMP-0297,Employee 297,37,Female,Sales,Sales Representative,Marketing,6297.27,4,5,8,8,0,0,1,1,1,3,3,4,No,Travel_Rarely,1
+EMP-0298,Employee 298,32,Male,Research & Development,Laboratory Technician,Medical,7249.98,1,0,8,8,4,1,7,3,3,2,4,4,No,Travel_Rarely,0
+EMP-0299,Employee 299,25,Female,Research & Development,Healthcare Representative,Marketing,5916.54,1,2,7,7,0,1,0,2,2,1,4,3,No,Travel_Rarely,0
+EMP-0300,Employee 300,30,Male,Human Resources,Manager,Technical Degree,7883.37,2,2,0,0,0,0,0,3,2,2,1,3,No,Travel_Frequently,0
+EMP-0301,Employee 301,43,Male,Sales,Manager,Life Sciences,15448.3,1,3,11,0,0,0,0,4,2,4,3,3,No,Travel_Frequently,0
+EMP-0302,Employee 302,34,Female,Research & Development,Manager,Human Resources,13258.18,6,1,16,5,5,4,4,1,3,2,4,3,No,Travel_Rarely,0
+EMP-0303,Employee 303,31,Female,Research & Development,Research Director,Other,10530.22,8,1,9,9,9,3,5,3,3,3,3,3,Yes,Travel_Rarely,1
+EMP-0304,Employee 304,46,Male,Research & Development,Research Director,Technical Degree,7890.61,5,1,0,0,0,0,0,1,3,3,3,3,Yes,Travel_Rarely,0
+EMP-0305,Employee 305,28,Male,Research & Development,Manufacturing Director,Technical Degree,11570.95,20,5,10,7,7,1,7,3,1,2,4,4,No,Travel_Rarely,1
+EMP-0306,Employee 306,41,Female,Sales,Sales Executive,Life Sciences,9824.07,7,2,18,7,5,2,0,1,3,1,2,3,No,Travel_Frequently,0
+EMP-0307,Employee 307,38,Male,Sales,Sales Executive,Marketing,5121.47,30,2,7,7,6,0,1,2,3,2,4,3,Yes,Travel_Rarely,1
+EMP-0308,Employee 308,18,Male,Research & Development,Laboratory Technician,Medical,2000.0,8,3,0,0,0,0,0,3,2,1,2,3,No,Travel_Rarely,1
+EMP-0309,Employee 309,41,Female,Research & Development,Laboratory Technician,Human Resources,7383.43,15,2,16,0,0,0,0,3,3,3,3,3,No,Travel_Frequently,0
+EMP-0310,Employee 310,44,Male,Research & Development,Laboratory Technician,Other,3871.72,12,1,5,5,4,5,3,3,4,4,3,3,Yes,Travel_Rarely,1
+EMP-0311,Employee 311,54,Male,Sales,Manager,Life Sciences,12024.67,8,3,13,9,6,3,0,2,1,4,3,3,No,Travel_Rarely,0
+EMP-0312,Employee 312,42,Male,Sales,Manager,Life Sciences,12635.37,4,1,15,1,1,1,1,1,3,4,3,4,Yes,Travel_Rarely,0
+EMP-0313,Employee 313,45,Female,Research & Development,Research Director,Human Resources,12518.21,15,2,11,10,7,1,0,1,4,2,4,3,No,Travel_Rarely,0
+EMP-0314,Employee 314,45,Male,Research & Development,Manager,Life Sciences,11630.88,23,3,8,8,2,3,4,3,4,3,2,3,Yes,Travel_Rarely,0
+EMP-0315,Employee 315,41,Female,Research & Development,Manufacturing Director,Technical Degree,16263.5,10,3,22,1,1,1,1,1,3,1,2,3,No,Travel_Rarely,0
+EMP-0316,Employee 316,32,Male,Research & Development,Research Director,Marketing,9901.54,23,1,5,5,2,2,0,4,3,3,2,4,Yes,Travel_Rarely,0
+EMP-0317,Employee 317,44,Male,Research & Development,Manufacturing Director,Technical Degree,11145.25,15,4,8,1,1,0,1,3,3,4,3,3,No,Travel_Rarely,1
+EMP-0318,Employee 318,27,Male,Research & Development,Manufacturing Director,Technical Degree,9574.17,12,3,9,7,5,4,2,3,4,3,2,3,No,Travel_Rarely,0
+EMP-0319,Employee 319,30,Female,Research & Development,Research Director,Life Sciences,8930.17,1,2,0,0,0,0,0,3,3,2,3,4,Yes,Travel_Frequently,1
+EMP-0320,Employee 320,44,Male,Sales,Sales Representative,Life Sciences,8756.26,8,2,23,0,0,0,0,4,3,4,4,3,No,Travel_Rarely,0
+EMP-0321,Employee 321,23,Male,Sales,Sales Representative,Other,2891.68,16,2,0,0,0,0,0,1,4,2,3,3,Yes,Travel_Frequently,1
+EMP-0322,Employee 322,29,Male,Research & Development,Laboratory Technician,Human Resources,6086.9,5,2,11,8,0,0,4,3,4,3,3,3,No,Travel_Rarely,0
+EMP-0323,Employee 323,36,Male,Research & Development,Manager,Other,12544.58,2,4,8,5,4,5,5,3,4,4,3,3,Yes,Travel_Rarely,0
+EMP-0324,Employee 324,39,Male,Sales,Manager,Human Resources,11647.68,5,5,6,6,0,0,5,3,4,1,3,3,No,Travel_Rarely,0
+EMP-0325,Employee 325,39,Male,Research & Development,Healthcare Representative,Human Resources,6208.5,2,2,5,5,2,1,1,4,4,3,3,3,Yes,Travel_Frequently,1
+EMP-0326,Employee 326,44,Male,Sales,Sales Representative,Marketing,9707.05,2,2,16,3,0,3,3,4,2,3,1,3,Yes,Non-Travel,0
+EMP-0327,Employee 327,49,Male,Research & Development,Laboratory Technician,Human Resources,7027.11,2,2,15,5,5,3,5,4,1,3,3,3,Yes,Travel_Rarely,0
+EMP-0328,Employee 328,33,Male,Research & Development,Healthcare Representative,Human Resources,7810.4,14,2,12,3,3,1,3,2,2,3,3,3,Yes,Travel_Rarely,0
+EMP-0329,Employee 329,42,Male,Research & Development,Manufacturing Director,Medical,14084.43,19,3,14,8,4,2,5,4,2,3,3,3,Yes,Travel_Rarely,1
+EMP-0330,Employee 330,36,Female,Sales,Manager,Human Resources,10190.39,4,1,6,6,5,0,6,1,2,3,2,3,No,Travel_Rarely,1
+EMP-0331,Employee 331,33,Male,Research & Development,Laboratory Technician,Medical,6273.09,2,4,12,8,8,4,2,3,1,2,4,3,No,Travel_Rarely,0
+EMP-0332,Employee 332,41,Male,Research & Development,Laboratory Technician,Medical,3402.01,1,2,6,6,3,3,5,4,2,3,3,3,No,Travel_Rarely,0
+EMP-0333,Employee 333,36,Male,Research & Development,Research Scientist,Human Resources,6939.6,10,2,10,7,2,5,7,3,3,1,3,3,No,Travel_Frequently,1
+EMP-0334,Employee 334,23,Male,Sales,Manager,Life Sciences,9646.43,10,2,5,1,1,1,1,3,4,4,2,3,No,Travel_Rarely,0
+EMP-0335,Employee 335,50,Male,Research & Development,Healthcare Representative,Life Sciences,8051.59,4,4,19,2,1,1,2,2,3,1,2,3,No,Travel_Rarely,0
+EMP-0336,Employee 336,31,Male,Sales,Sales Representative,Life Sciences,3935.31,3,3,5,4,4,0,4,2,1,4,3,3,No,Travel_Frequently,1
+EMP-0337,Employee 337,39,Male,Research & Development,Research Director,Life Sciences,11147.07,5,2,4,3,3,0,2,3,1,3,3,3,No,Travel_Rarely,0
+EMP-0338,Employee 338,44,Male,Research & Development,Laboratory Technician,Life Sciences,4770.49,1,2,11,8,5,0,7,4,3,3,3,3,No,Travel_Rarely,0
+EMP-0339,Employee 339,45,Female,Research & Development,Laboratory Technician,Medical,2983.78,2,2,0,0,0,0,0,1,2,2,3,3,No,Travel_Rarely,0
+EMP-0340,Employee 340,41,Male,Research & Development,Research Director,Medical,8925.13,10,1,0,0,0,0,0,1,4,2,4,4,Yes,Travel_Rarely,0
+EMP-0341,Employee 341,43,Female,Research & Development,Laboratory Technician,Human Resources,10003.26,12,3,20,10,3,0,0,3,3,4,1,4,No,Non-Travel,0
+EMP-0342,Employee 342,36,Male,Research & Development,Manufacturing Director,Life Sciences,10096.76,14,3,6,6,5,1,2,1,3,3,3,3,No,Travel_Rarely,0
+EMP-0343,Employee 343,32,Male,Research & Development,Laboratory Technician,Human Resources,3812.83,28,4,6,6,1,1,5,4,3,3,4,4,No,Travel_Rarely,0
+EMP-0344,Employee 344,38,Female,Research & Development,Laboratory Technician,Other,2460.84,1,2,0,0,0,0,0,4,1,3,2,3,No,Travel_Rarely,1
+EMP-0345,Employee 345,33,Male,Human Resources,Manager,Life Sciences,8581.24,7,2,5,0,0,0,0,2,2,2,4,3,Yes,Travel_Frequently,1
+EMP-0346,Employee 346,39,Female,Sales,Manager,Life Sciences,14182.44,3,3,14,5,5,0,5,1,1,1,1,4,No,Travel_Frequently,0
+EMP-0347,Employee 347,39,Female,Research & Development,Research Director,Other,16235.36,1,0,21,2,2,0,1,4,4,4,4,3,No,Non-Travel,0
+EMP-0348,Employee 348,32,Male,Research & Development,Research Scientist,Life Sciences,7782.02,30,2,12,12,6,2,7,3,4,1,2,3,No,Travel_Frequently,0
+EMP-0349,Employee 349,29,Male,Research & Development,Research Director,Human Resources,10284.31,7,4,1,1,0,1,1,4,3,4,3,3,No,Travel_Rarely,0
+EMP-0350,Employee 350,39,Female,Research & Development,Manager,Technical Degree,13557.89,9,2,14,8,3,2,4,3,4,2,2,3,No,Travel_Frequently,0
+EMP-0351,Employee 351,25,Male,Research & Development,Laboratory Technician,Human Resources,4283.39,1,1,7,2,0,0,2,4,4,3,2,3,No,Travel_Rarely,0
+EMP-0352,Employee 352,34,Female,Sales,Sales Executive,Marketing,3747.56,6,3,2,0,0,0,0,2,3,3,4,3,Yes,Travel_Rarely,0
+EMP-0353,Employee 353,37,Female,Research & Development,Healthcare Representative,Marketing,7983.11,2,2,19,8,4,4,5,4,4,3,4,3,No,Travel_Rarely,0
+EMP-0354,Employee 354,18,Male,Research & Development,Research Director,Technical Degree,8015.33,4,1,0,0,0,0,0,2,3,3,2,3,Yes,Travel_Rarely,0
+EMP-0355,Employee 355,19,Male,Research & Development,Manager,Medical,8498.85,8,0,0,0,0,0,0,4,4,4,4,3,Yes,Travel_Rarely,0
+EMP-0356,Employee 356,25,Male,Research & Development,Research Director,Medical,11756.93,9,3,7,7,2,1,3,4,3,2,3,3,No,Travel_Frequently,0
+EMP-0357,Employee 357,41,Female,Research & Development,Healthcare Representative,Human Resources,6863.68,1,6,15,9,3,3,6,4,2,3,3,3,No,Travel_Rarely,0
+EMP-0358,Employee 358,53,Male,Research & Development,Manager,Other,15706.4,16,4,16,2,2,1,2,3,4,3,3,3,No,Travel_Rarely,0
+EMP-0359,Employee 359,29,Male,Research & Development,Research Director,Human Resources,11174.2,3,3,5,5,0,0,3,1,3,3,1,3,No,Travel_Rarely,0
+EMP-0360,Employee 360,30,Male,Research & Development,Research Scientist,Other,2000.0,7,2,0,0,0,0,0,2,3,2,3,3,No,Travel_Rarely,1
+EMP-0361,Employee 361,37,Male,Research & Development,Healthcare Representative,Marketing,4637.8,9,3,8,8,0,0,5,3,2,2,3,3,Yes,Travel_Rarely,1
+EMP-0362,Employee 362,38,Male,Research & Development,Research Director,Life Sciences,12339.0,5,5,11,0,0,0,0,4,4,3,3,3,Yes,Travel_Frequently,0
+EMP-0363,Employee 363,46,Female,Research & Development,Laboratory Technician,Human Resources,9390.58,4,6,20,7,6,2,2,1,4,2,3,3,Yes,Travel_Rarely,1
+EMP-0364,Employee 364,30,Female,Research & Development,Healthcare Representative,Life Sciences,5041.26,1,1,7,2,2,1,2,1,4,1,3,3,No,Travel_Rarely,0
+EMP-0365,Employee 365,50,Male,Sales,Manager,Human Resources,15365.79,1,1,15,7,7,4,4,4,1,3,3,3,Yes,Travel_Rarely,0
+EMP-0366,Employee 366,31,Male,Research & Development,Research Director,Marketing,12957.13,17,2,13,0,0,0,0,2,3,3,1,3,No,Travel_Frequently,0
+EMP-0367,Employee 367,50,Male,Research & Development,Research Scientist,Technical Degree,8481.9,9,4,15,0,0,0,0,3,2,4,3,3,No,Non-Travel,0
+EMP-0368,Employee 368,48,Male,Research & Development,Healthcare Representative,Technical Degree,9944.34,1,2,18,0,0,0,0,3,3,4,2,3,No,Travel_Frequently,0
+EMP-0369,Employee 369,22,Female,Sales,Manager,Technical Degree,11214.07,4,2,4,4,0,4,0,4,1,4,3,3,No,Travel_Rarely,0
+EMP-0370,Employee 370,28,Male,Human Resources,Manager,Technical Degree,11664.51,3,5,10,10,0,3,1,4,4,3,2,3,No,Travel_Frequently,0
+EMP-0371,Employee 371,35,Female,Research & Development,Research Director,Human Resources,13924.49,12,1,15,8,1,3,6,3,4,3,4,3,No,Travel_Rarely,0
+EMP-0372,Employee 372,40,Male,Research & Development,Research Director,Other,14562.63,1,2,17,8,3,0,8,4,3,3,2,3,No,Travel_Frequently,0
+EMP-0373,Employee 373,46,Male,Research & Development,Healthcare Representative,Medical,12358.04,2,4,25,0,0,0,0,3,4,3,4,3,No,Travel_Rarely,0
+EMP-0374,Employee 374,47,Male,Research & Development,Manager,Marketing,13172.75,3,3,12,0,0,0,0,1,4,3,2,3,Yes,Travel_Rarely,0
+EMP-0375,Employee 375,18,Male,Research & Development,Manager,Human Resources,8104.55,10,1,0,0,0,0,0,2,2,4,3,3,No,Travel_Frequently,0
+EMP-0376,Employee 376,33,Female,Research & Development,Manager,Marketing,12472.46,4,2,12,12,4,0,6,4,2,2,3,3,Yes,Travel_Rarely,1
+EMP-0377,Employee 377,48,Male,Research & Development,Manager,Other,17886.6,4,5,22,11,11,2,3,3,3,3,3,3,Yes,Travel_Rarely,0
+EMP-0378,Employee 378,34,Male,Sales,Sales Executive,Other,7073.43,30,3,12,0,0,0,0,4,3,3,2,3,Yes,Travel_Rarely,0
+EMP-0379,Employee 379,41,Male,Research & Development,Research Director,Other,12199.06,25,0,11,2,2,2,0,4,4,3,3,3,No,Non-Travel,0
+EMP-0380,Employee 380,30,Male,Research & Development,Laboratory Technician,Life Sciences,6682.73,2,2,12,7,3,1,7,2,2,3,3,3,No,Travel_Rarely,0
+EMP-0381,Employee 381,50,Female,Research & Development,Manager,Medical,8852.71,11,4,2,2,2,1,2,3,2,3,4,3,Yes,Travel_Rarely,0
+EMP-0382,Employee 382,28,Male,Research & Development,Research Scientist,Life Sciences,6314.13,13,0,10,8,3,0,3,4,3,3,3,3,No,Travel_Rarely,0
+EMP-0383,Employee 383,37,Male,Sales,Sales Representative,Technical Degree,2000.0,6,3,0,0,0,0,0,2,3,3,4,4,No,Travel_Frequently,1
+EMP-0384,Employee 384,47,Female,Research & Development,Research Scientist,Other,7029.18,4,2,10,5,2,1,0,2,3,2,3,3,Yes,Travel_Rarely,1
+EMP-0385,Employee 385,30,Male,Research & Development,Manager,Other,13237.18,15,4,10,10,4,6,7,2,2,2,3,3,Yes,Travel_Rarely,1
+EMP-0386,Employee 386,34,Female,Research & Development,Laboratory Technician,Other,5882.32,1,3,11,6,0,2,5,2,4,1,3,3,No,Travel_Frequently,1
+EMP-0387,Employee 387,22,Female,Sales,Sales Executive,Human Resources,5630.6,4,1,4,4,4,0,4,3,3,2,1,3,Yes,Travel_Rarely,1
+EMP-0388,Employee 388,47,Male,Research & Development,Healthcare Representative,Human Resources,5276.94,6,4,11,0,0,0,0,4,2,3,2,3,No,Travel_Rarely,0
+EMP-0389,Employee 389,38,Male,Research & Development,Research Scientist,Life Sciences,3729.07,16,1,2,2,1,0,2,3,4,2,3,3,No,Travel_Rarely,0
+EMP-0390,Employee 390,36,Male,Research & Development,Manufacturing Director,Life Sciences,13497.42,1,2,18,2,0,2,0,4,1,4,3,3,Yes,Travel_Rarely,0
+EMP-0391,Employee 391,54,Male,Sales,Sales Executive,Technical Degree,4817.32,11,4,11,0,0,0,0,2,2,3,2,3,No,Non-Travel,0
+EMP-0392,Employee 392,26,Female,Research & Development,Manager,Technical Degree,12783.74,3,2,8,4,0,2,2,1,4,2,1,3,Yes,Travel_Rarely,0
+EMP-0393,Employee 393,36,Male,Sales,Sales Executive,Human Resources,8625.64,12,3,18,8,3,2,6,3,4,1,3,3,No,Travel_Rarely,0
+EMP-0394,Employee 394,30,Male,Sales,Manager,Medical,12011.93,10,1,10,5,3,1,0,3,2,2,2,3,No,Travel_Rarely,1
+EMP-0395,Employee 395,61,Female,Research & Development,Laboratory Technician,Marketing,9172.93,1,0,16,8,7,0,1,4,3,3,3,3,Yes,Travel_Rarely,0
+EMP-0396,Employee 396,29,Male,Human Resources,Manager,Marketing,7947.43,3,2,0,0,0,0,0,4,3,3,4,3,No,Travel_Frequently,0
+EMP-0397,Employee 397,43,Male,Sales,Sales Executive,Human Resources,4873.1,4,4,5,5,4,2,5,1,4,1,3,3,Yes,Travel_Rarely,1
+EMP-0398,Employee 398,26,Male,Sales,Sales Representative,Human Resources,5758.82,3,2,7,4,3,4,4,1,4,3,2,3,No,Non-Travel,0
+EMP-0399,Employee 399,35,Male,Research & Development,Healthcare Representative,Marketing,8699.15,30,5,14,3,1,2,0,2,1,3,3,3,Yes,Travel_Rarely,1
+EMP-0400,Employee 400,43,Female,Research & Development,Manufacturing Director,Technical Degree,9443.48,6,1,2,0,0,0,0,3,1,2,3,3,Yes,Travel_Rarely,0
+EMP-0401,Employee 401,27,Female,Sales,Sales Representative,Technical Degree,6473.7,1,2,9,0,0,0,0,4,4,1,3,3,Yes,Travel_Rarely,0
+EMP-0402,Employee 402,25,Female,Sales,Sales Representative,Marketing,2688.84,1,0,0,0,0,0,0,1,4,3,3,3,No,Travel_Rarely,0
+EMP-0403,Employee 403,42,Male,Research & Development,Research Scientist,Medical,5720.0,7,1,14,14,4,1,7,4,3,3,1,3,No,Travel_Frequently,0
+EMP-0404,Employee 404,25,Male,Sales,Sales Representative,Other,5973.07,1,3,5,5,3,0,5,4,1,2,3,3,No,Travel_Frequently,0
+EMP-0405,Employee 405,45,Male,Sales,Sales Executive,Medical,9091.95,1,3,17,6,3,2,0,4,1,2,1,3,No,Travel_Rarely,0
+EMP-0406,Employee 406,34,Female,Research & Development,Research Director,Life Sciences,9592.43,1,3,4,4,2,1,4,2,2,2,3,3,No,Travel_Rarely,0
+EMP-0407,Employee 407,27,Male,Research & Development,Healthcare Representative,Marketing,7358.96,1,4,9,9,6,0,6,1,4,4,2,3,No,Travel_Rarely,0
+EMP-0408,Employee 408,41,Male,Sales,Manager,Marketing,16209.95,15,2,19,0,0,0,0,3,4,2,4,4,No,Travel_Rarely,0
+EMP-0409,Employee 409,24,Male,Research & Development,Research Director,Other,9381.02,7,4,6,6,3,0,3,3,4,4,3,3,No,Travel_Frequently,1
+EMP-0410,Employee 410,53,Female,Research & Development,Healthcare Representative,Marketing,4764.78,13,2,6,2,2,2,2,4,1,2,3,3,No,Travel_Rarely,1
+EMP-0411,Employee 411,34,Female,Sales,Sales Executive,Technical Degree,7736.12,1,1,10,5,5,0,4,3,2,4,3,4,No,Travel_Rarely,0
+EMP-0412,Employee 412,39,Female,Research & Development,Manager,Other,10760.21,3,1,5,5,5,2,0,3,1,3,2,3,No,Travel_Rarely,0
+EMP-0413,Employee 413,27,Male,Human Resources,Manager,Life Sciences,8760.51,3,3,1,0,0,0,0,3,3,3,2,3,No,Travel_Rarely,0
+EMP-0414,Employee 414,23,Male,Sales,Sales Representative,Marketing,4225.71,5,4,5,5,4,3,5,1,3,3,3,3,Yes,Non-Travel,0
+EMP-0415,Employee 415,35,Female,Sales,Sales Representative,Marketing,7356.85,5,3,16,7,4,0,3,4,4,3,3,3,Yes,Travel_Rarely,0
+EMP-0416,Employee 416,24,Male,Research & Development,Manager,Life Sciences,11051.95,4,4,3,3,0,2,2,4,4,2,2,3,No,Travel_Rarely,0
+EMP-0417,Employee 417,45,Male,Research & Development,Manufacturing Director,Marketing,14179.05,30,2,16,4,1,0,2,3,4,3,3,3,No,Travel_Rarely,0
+EMP-0418,Employee 418,34,Male,Sales,Manager,Human Resources,11555.11,14,3,11,5,5,3,2,2,4,2,3,3,No,Travel_Rarely,0
+EMP-0419,Employee 419,26,Female,Research & Development,Research Director,Marketing,9941.9,18,1,4,1,1,1,1,3,3,4,3,3,Yes,Travel_Rarely,0
+EMP-0420,Employee 420,60,Male,Research & Development,Manager,Other,9614.78,4,2,2,0,0,0,0,1,1,3,2,3,No,Travel_Frequently,1
+EMP-0421,Employee 421,34,Male,Sales,Sales Representative,Human Resources,6076.99,30,4,11,4,3,1,4,1,4,3,3,3,No,Travel_Frequently,0
+EMP-0422,Employee 422,42,Male,Research & Development,Research Scientist,Other,4574.81,10,2,6,3,0,1,3,2,3,3,4,3,Yes,Travel_Rarely,0
+EMP-0423,Employee 423,40,Female,Research & Development,Manager,Medical,11759.77,13,3,5,5,3,0,4,3,1,3,3,3,Yes,Travel_Rarely,0
+EMP-0424,Employee 424,47,Male,Research & Development,Healthcare Representative,Human Resources,8239.98,13,2,16,5,0,2,3,2,4,4,2,3,No,Travel_Rarely,0
+EMP-0425,Employee 425,37,Female,Research & Development,Healthcare Representative,Medical,8051.55,30,2,17,7,7,2,7,3,3,2,3,3,Yes,Travel_Rarely,1
+EMP-0426,Employee 426,32,Male,Human Resources,Manager,Human Resources,9617.32,16,4,7,7,7,0,3,1,1,3,3,4,Yes,Travel_Frequently,1
+EMP-0427,Employee 427,37,Male,Research & Development,Laboratory Technician,Other,3135.38,3,3,0,0,0,0,0,1,3,2,3,3,No,Travel_Rarely,1
+EMP-0428,Employee 428,33,Male,Research & Development,Manufacturing Director,Life Sciences,12305.55,2,5,15,1,1,1,1,3,1,4,3,3,No,Non-Travel,0
+EMP-0429,Employee 429,51,Male,Research & Development,Laboratory Technician,Human Resources,7380.67,13,0,16,16,1,0,5,3,1,2,3,3,No,Travel_Frequently,0
+EMP-0430,Employee 430,37,Female,Research & Development,Research Director,Life Sciences,15524.85,1,3,19,8,4,5,6,4,4,4,1,3,No,Non-Travel,0
+EMP-0431,Employee 431,31,Male,Research & Development,Manager,Technical Degree,9639.78,7,4,9,9,6,2,4,3,1,4,2,4,No,Travel_Rarely,0
+EMP-0432,Employee 432,25,Female,Research & Development,Manager,Other,11662.48,21,3,7,6,3,4,4,4,1,3,3,4,No,Travel_Frequently,0
+EMP-0433,Employee 433,49,Male,Research & Development,Manager,Marketing,20493.45,1,3,28,5,4,3,5,2,3,4,3,3,No,Travel_Rarely,0
+EMP-0434,Employee 434,45,Female,Sales,Manager,Human Resources,12572.92,1,4,8,8,4,3,2,3,2,3,1,3,No,Non-Travel,0
+EMP-0435,Employee 435,24,Male,Sales,Sales Executive,Life Sciences,2760.1,10,2,6,6,4,0,5,4,3,3,3,4,No,Travel_Rarely,0
+EMP-0436,Employee 436,39,Female,Research & Development,Laboratory Technician,Medical,8208.62,1,2,16,9,6,3,9,2,4,1,2,3,No,Travel_Rarely,0
+EMP-0437,Employee 437,42,Female,Research & Development,Research Scientist,Marketing,10218.07,14,3,23,2,2,0,2,1,4,2,2,3,No,Non-Travel,1
+EMP-0438,Employee 438,32,Male,Research & Development,Manager,Human Resources,12065.3,3,3,7,7,2,2,0,2,4,2,2,4,No,Travel_Rarely,0
+EMP-0439,Employee 439,34,Female,Research & Development,Research Scientist,Technical Degree,4218.65,8,4,12,4,4,0,4,1,3,1,3,3,Yes,Travel_Rarely,1
+EMP-0440,Employee 440,35,Male,Sales,Sales Representative,Medical,4747.8,26,2,4,4,3,0,1,3,4,1,4,3,Yes,Travel_Frequently,0
+EMP-0441,Employee 441,32,Male,Research & Development,Laboratory Technician,Human Resources,6122.63,13,1,13,8,5,1,4,1,1,3,3,3,No,Travel_Frequently,0
+EMP-0442,Employee 442,48,Male,Research & Development,Manager,Marketing,12789.27,11,2,9,4,4,0,4,4,2,3,3,3,No,Travel_Frequently,0
+EMP-0443,Employee 443,40,Male,Research & Development,Manufacturing Director,Human Resources,10325.63,19,2,5,5,5,1,3,4,3,4,2,3,No,Travel_Rarely,0
+EMP-0444,Employee 444,41,Male,Sales,Sales Representative,Other,5624.06,1,3,10,10,0,1,4,4,2,2,3,4,No,Travel_Rarely,0
+EMP-0445,Employee 445,29,Female,Research & Development,Manager,Technical Degree,13127.67,2,3,11,6,1,0,6,4,3,3,2,3,Yes,Travel_Rarely,0
+EMP-0446,Employee 446,28,Female,Sales,Manager,Life Sciences,10994.85,5,2,10,7,0,1,5,2,3,3,2,3,No,Travel_Rarely,0
+EMP-0447,Employee 447,41,Female,Research & Development,Research Director,Technical Degree,11643.6,1,3,10,9,2,5,0,1,1,3,3,3,No,Travel_Rarely,1
+EMP-0448,Employee 448,50,Male,Sales,Sales Representative,Marketing,6041.48,3,3,5,5,3,4,5,1,3,3,2,3,No,Travel_Rarely,0
+EMP-0449,Employee 449,44,Female,Research & Development,Manager,Marketing,10346.18,8,3,2,2,2,2,2,4,2,4,3,3,No,Travel_Rarely,0
+EMP-0450,Employee 450,48,Male,Research & Development,Laboratory Technician,Marketing,6077.08,18,4,8,6,4,2,5,4,3,4,3,3,No,Travel_Rarely,0
+EMP-0451,Employee 451,18,Male,Research & Development,Research Scientist,Life Sciences,2000.0,1,6,0,0,0,0,0,3,4,4,3,3,Yes,Travel_Rarely,0
+EMP-0452,Employee 452,21,Male,Sales,Manager,Life Sciences,8822.29,14,4,3,2,2,1,0,4,2,1,2,3,Yes,Travel_Rarely,1
+EMP-0453,Employee 453,27,Male,Sales,Manager,Technical Degree,8600.02,1,2,0,0,0,0,0,1,1,3,4,3,Yes,Travel_Frequently,1
+EMP-0454,Employee 454,41,Female,Research & Development,Laboratory Technician,Life Sciences,3731.75,9,4,0,0,0,0,0,3,3,4,3,3,Yes,Travel_Frequently,0
+EMP-0455,Employee 455,35,Male,Research & Development,Laboratory Technician,Medical,7551.52,1,1,15,5,4,1,3,1,4,3,2,3,No,Travel_Frequently,0
+EMP-0456,Employee 456,35,Female,Research & Development,Healthcare Representative,Life Sciences,6769.72,8,0,11,3,0,1,0,2,2,3,3,3,No,Travel_Rarely,0
+EMP-0457,Employee 457,29,Male,Research & Development,Healthcare Representative,Human Resources,5117.77,1,5,7,0,0,0,0,4,2,3,3,3,No,Travel_Rarely,0
+EMP-0458,Employee 458,31,Female,Research & Development,Manager,Marketing,10822.41,5,0,7,5,5,0,3,3,1,3,3,3,No,Travel_Rarely,0
+EMP-0459,Employee 459,25,Male,Sales,Sales Executive,Marketing,7582.58,3,2,7,4,4,0,0,2,4,3,3,3,No,Travel_Rarely,0
+EMP-0460,Employee 460,37,Female,Research & Development,Manager,Human Resources,10924.11,24,5,10,5,3,3,1,1,3,2,2,3,Yes,Travel_Rarely,1
+EMP-0461,Employee 461,47,Female,Research & Development,Manufacturing Director,Other,14733.31,1,3,13,5,4,1,5,1,3,2,3,3,Yes,Travel_Rarely,0
+EMP-0462,Employee 462,40,Male,Research & Development,Healthcare Representative,Life Sciences,5251.23,26,4,8,7,4,0,5,2,1,4,3,3,No,Travel_Rarely,1
+EMP-0463,Employee 463,35,Female,Sales,Sales Executive,Technical Degree,7653.01,4,2,12,0,0,0,0,1,1,4,3,3,No,Travel_Frequently,1
+EMP-0464,Employee 464,34,Male,Sales,Manager,Marketing,11930.92,4,2,11,8,8,2,8,4,4,2,3,3,No,Travel_Rarely,0
+EMP-0465,Employee 465,51,Male,Research & Development,Healthcare Representative,Medical,5170.23,1,2,8,8,2,5,6,4,2,3,3,3,No,Travel_Rarely,0
+EMP-0466,Employee 466,36,Male,Research & Development,Laboratory Technician,Life Sciences,11487.98,4,1,18,5,0,2,4,3,2,4,3,3,Yes,Non-Travel,0
+EMP-0467,Employee 467,27,Female,Research & Development,Laboratory Technician,Human Resources,4959.39,7,5,9,3,3,0,3,3,4,4,3,3,Yes,Travel_Rarely,0
+EMP-0468,Employee 468,45,Male,Research & Development,Research Scientist,Human Resources,9646.29,3,1,24,2,0,0,2,4,3,2,3,4,No,Travel_Rarely,0
+EMP-0469,Employee 469,34,Female,Research & Development,Laboratory Technician,Technical Degree,6802.25,7,1,13,7,3,2,7,2,3,4,3,3,No,Travel_Rarely,0
+EMP-0470,Employee 470,35,Female,Research & Development,Research Scientist,Technical Degree,3966.5,26,2,10,9,3,0,4,3,1,4,3,3,No,Travel_Rarely,1
+EMP-0471,Employee 471,47,Female,Human Resources,Manager,Technical Degree,11439.92,2,2,7,7,7,3,6,4,2,2,3,3,Yes,Travel_Rarely,0
+EMP-0472,Employee 472,37,Female,Research & Development,Research Scientist,Technical Degree,3037.59,3,4,0,0,0,0,0,2,2,2,2,3,No,Travel_Rarely,1
+EMP-0473,Employee 473,46,Male,Sales,Sales Representative,Medical,2455.28,6,3,0,0,0,0,0,4,3,2,3,4,Yes,Travel_Rarely,0
+EMP-0474,Employee 474,19,Male,Human Resources,Manager,Life Sciences,9718.12,1,2,1,1,1,1,0,3,4,2,2,3,No,Travel_Frequently,0
+EMP-0475,Employee 475,41,Male,Research & Development,Manager,Other,13858.9,7,0,14,14,1,3,2,3,3,3,2,3,No,Travel_Rarely,0
+EMP-0476,Employee 476,48,Female,Research & Development,Research Director,Technical Degree,14524.35,4,3,18,10,4,4,3,4,3,1,2,3,No,Travel_Frequently,0
+EMP-0477,Employee 477,43,Female,Sales,Sales Representative,Human Resources,2000.0,1,0,0,0,0,0,0,2,1,4,2,3,Yes,Travel_Rarely,1
+EMP-0478,Employee 478,20,Female,Research & Development,Healthcare Representative,Life Sciences,2785.88,1,1,2,2,1,2,2,4,3,3,4,3,Yes,Travel_Rarely,0
+EMP-0479,Employee 479,27,Male,Research & Development,Research Scientist,Medical,2000.0,12,2,0,0,0,0,0,1,4,2,3,3,No,Non-Travel,1
+EMP-0480,Employee 480,41,Male,Research & Development,Research Director,Human Resources,9409.23,3,2,0,0,0,0,0,1,1,1,2,3,No,Travel_Frequently,1
+EMP-0481,Employee 481,40,Male,Research & Development,Research Scientist,Medical,8007.36,9,0,15,3,3,2,3,4,4,4,3,3,No,Travel_Rarely,0
+EMP-0482,Employee 482,38,Male,Research & Development,Laboratory Technician,Other,4581.58,9,6,11,1,1,1,1,4,1,3,4,3,No,Non-Travel,0
+EMP-0483,Employee 483,34,Male,Research & Development,Manager,Human Resources,10125.27,5,3,4,4,2,2,0,2,2,4,2,3,No,Travel_Frequently,0
+EMP-0484,Employee 484,42,Female,Sales,Sales Representative,Medical,3738.23,20,3,4,4,4,2,4,4,2,4,4,3,No,Travel_Rarely,0
+EMP-0485,Employee 485,37,Male,Sales,Sales Executive,Human Resources,2000.0,1,6,3,3,3,3,2,4,2,2,2,3,Yes,Travel_Rarely,1
+EMP-0486,Employee 486,19,Male,Research & Development,Research Scientist,Life Sciences,3007.15,3,1,1,1,0,1,1,4,4,2,2,4,No,Non-Travel,0
+EMP-0487,Employee 487,52,Female,Sales,Sales Representative,Human Resources,3061.33,11,2,6,6,1,2,6,1,1,3,3,3,No,Travel_Rarely,0
+EMP-0488,Employee 488,40,Male,Research & Development,Research Scientist,Life Sciences,8955.94,2,4,14,11,0,0,4,1,1,2,2,3,No,Travel_Rarely,0
+EMP-0489,Employee 489,39,Male,Research & Development,Research Director,Medical,13495.29,18,3,12,8,0,2,4,3,3,1,3,3,No,Travel_Frequently,0
+EMP-0490,Employee 490,26,Male,Research & Development,Manufacturing Director,Other,12040.13,2,3,8,0,0,0,0,4,3,4,3,4,No,Travel_Rarely,0
+EMP-0491,Employee 491,43,Female,Research & Development,Manufacturing Director,Life Sciences,9173.17,12,3,8,8,0,0,3,3,2,4,3,3,No,Travel_Frequently,0
+EMP-0492,Employee 492,37,Male,Sales,Manager,Other,11342.46,12,2,7,7,4,1,2,4,3,2,3,4,No,Travel_Rarely,0
+EMP-0493,Employee 493,53,Female,Research & Development,Healthcare Representative,Marketing,8032.21,13,3,17,4,0,0,3,1,2,1,2,3,No,Travel_Rarely,0
+EMP-0494,Employee 494,37,Female,Research & Development,Research Scientist,Other,4497.55,30,4,7,5,5,4,2,4,4,2,3,3,No,Travel_Rarely,1
+EMP-0495,Employee 495,28,Female,Human Resources,Human Resources,Medical,5816.31,30,4,10,10,3,3,6,3,2,2,2,3,No,Travel_Rarely,1
+EMP-0496,Employee 496,40,Female,Research & Development,Research Scientist,Medical,5745.69,1,1,13,12,4,2,3,3,3,2,3,3,Yes,Travel_Rarely,1
+EMP-0497,Employee 497,27,Male,Research & Development,Manufacturing Director,Other,11138.29,8,3,8,3,0,3,3,2,4,3,3,3,No,Travel_Rarely,0
+EMP-0498,Employee 498,37,Female,Research & Development,Healthcare Representative,Life Sciences,8925.24,10,1,19,0,0,0,0,1,4,1,1,4,No,Travel_Rarely,0
+EMP-0499,Employee 499,25,Female,Research & Development,Manufacturing Director,Marketing,12096.76,5,1,6,4,0,0,4,3,2,3,4,3,No,Non-Travel,0
+EMP-0500,Employee 500,36,Male,Human Resources,Manager,Other,11377.77,7,5,8,8,3,1,4,4,3,3,2,3,No,Travel_Frequently,0
+EMP-0501,Employee 501,35,Female,Research & Development,Manager,Medical,9631.98,13,3,8,1,1,1,1,1,1,3,3,4,No,Travel_Rarely,0
+EMP-0502,Employee 502,31,Male,Sales,Sales Executive,Marketing,5260.07,28,3,5,5,5,1,0,3,3,3,3,3,Yes,Travel_Rarely,0
+EMP-0503,Employee 503,25,Male,Human Resources,Human Resources,Human Resources,5404.5,30,2,7,7,0,3,2,2,1,2,3,3,No,Travel_Frequently,1
+EMP-0504,Employee 504,25,Female,Research & Development,Manufacturing Director,Life Sciences,9858.47,6,2,7,7,2,2,5,4,1,3,3,3,Yes,Travel_Frequently,0
+EMP-0505,Employee 505,38,Male,Sales,Sales Executive,Life Sciences,5098.55,6,3,7,7,2,1,2,3,3,3,3,3,No,Travel_Rarely,0
+EMP-0506,Employee 506,34,Male,Human Resources,Manager,Life Sciences,14121.48,2,2,13,7,6,2,2,3,2,4,2,3,No,Travel_Rarely,0
+EMP-0507,Employee 507,44,Male,Human Resources,Manager,Life Sciences,15023.9,16,1,13,13,5,2,3,2,3,4,1,4,No,Travel_Rarely,0
+EMP-0508,Employee 508,33,Male,Human Resources,Human Resources,Technical Degree,3759.17,1,1,3,3,3,0,3,3,2,4,3,3,No,Travel_Frequently,0
+EMP-0509,Employee 509,29,Male,Research & Development,Laboratory Technician,Other,5105.65,8,1,7,2,2,0,2,2,2,3,3,3,No,Travel_Rarely,0
+EMP-0510,Employee 510,27,Male,Research & Development,Laboratory Technician,Other,8434.59,10,3,9,6,2,1,4,4,2,3,3,3,Yes,Travel_Rarely,0
+EMP-0511,Employee 511,26,Female,Sales,Manager,Other,11008.43,5,2,3,3,3,2,3,3,3,1,4,3,No,Travel_Frequently,0
+EMP-0512,Employee 512,37,Male,Research & Development,Manager,Human Resources,8864.48,11,2,2,2,2,0,2,1,3,4,2,3,Yes,Non-Travel,1
+EMP-0513,Employee 513,51,Female,Sales,Sales Executive,Human Resources,9104.39,4,5,17,11,0,3,10,1,3,2,4,3,No,Travel_Rarely,1
+EMP-0514,Employee 514,39,Male,Research & Development,Research Scientist,Marketing,6897.74,2,1,11,4,1,1,4,4,4,3,3,3,No,Travel_Frequently,1
+EMP-0515,Employee 515,52,Male,Research & Development,Manufacturing Director,Other,9389.65,30,3,0,0,0,0,0,3,4,3,3,3,No,Travel_Frequently,0
+EMP-0516,Employee 516,46,Male,Research & Development,Research Scientist,Other,7007.74,12,3,12,11,3,5,9,4,4,3,3,3,No,Travel_Rarely,0
+EMP-0517,Employee 517,41,Male,Research & Development,Research Director,Life Sciences,12599.65,5,4,12,0,0,0,0,3,3,4,3,3,Yes,Travel_Rarely,0
+EMP-0518,Employee 518,37,Female,Research & Development,Manager,Human Resources,11271.15,2,3,9,1,1,1,1,3,1,2,2,3,No,Travel_Rarely,0
+EMP-0519,Employee 519,32,Female,Research & Development,Manager,Medical,12157.13,1,2,13,10,6,0,3,1,3,1,3,3,No,Travel_Rarely,0
+EMP-0520,Employee 520,54,Male,Research & Development,Manufacturing Director,Human Resources,12304.16,5,2,14,9,0,3,1,4,4,3,3,3,Yes,Travel_Rarely,0
+EMP-0521,Employee 521,34,Male,Sales,Sales Representative,Technical Degree,8387.86,4,0,14,5,3,1,3,2,1,3,3,3,No,Travel_Rarely,0
+EMP-0522,Employee 522,41,Male,Research & Development,Research Scientist,Life Sciences,8092.48,11,1,13,5,5,4,2,1,1,3,1,3,No,Travel_Rarely,0
+EMP-0523,Employee 523,46,Male,Sales,Sales Representative,Other,8383.34,5,2,18,5,5,3,1,1,3,4,2,3,No,Travel_Rarely,0
+EMP-0524,Employee 524,23,Female,Research & Development,Healthcare Representative,Life Sciences,2902.45,17,1,5,5,0,0,5,1,4,3,2,4,No,Travel_Rarely,1
+EMP-0525,Employee 525,26,Male,Research & Development,Manager,Medical,14015.15,6,5,8,6,5,0,4,1,2,3,3,3,No,Travel_Rarely,1
+EMP-0526,Employee 526,23,Female,Sales,Sales Executive,Human Resources,2000.0,28,5,0,0,0,0,0,3,3,2,3,3,No,Travel_Rarely,0
+EMP-0527,Employee 527,27,Male,Research & Development,Laboratory Technician,Other,6727.29,19,2,9,9,7,0,4,2,1,4,4,3,Yes,Travel_Frequently,1
+EMP-0528,Employee 528,36,Female,Sales,Sales Representative,Technical Degree,5892.45,6,0,14,7,3,4,7,3,4,3,3,3,No,Travel_Rarely,0
+EMP-0529,Employee 529,47,Male,Sales,Manager,Technical Degree,12867.16,2,0,14,13,0,2,9,4,2,2,3,3,No,Non-Travel,0
+EMP-0530,Employee 530,29,Male,Research & Development,Manager,Human Resources,12646.23,1,1,7,0,0,0,0,3,3,4,4,4,No,Travel_Rarely,0
+EMP-0531,Employee 531,49,Male,Research & Development,Healthcare Representative,Marketing,8857.86,1,0,16,9,3,4,3,3,4,2,4,4,No,Travel_Rarely,0
+EMP-0532,Employee 532,34,Male,Human Resources,Manager,Life Sciences,12589.74,16,3,9,9,2,1,9,4,3,4,4,3,No,Travel_Rarely,0
+EMP-0533,Employee 533,32,Male,Research & Development,Research Scientist,Other,5374.3,4,3,7,1,0,1,1,1,4,2,3,3,Yes,Travel_Frequently,0
+EMP-0534,Employee 534,37,Male,Research & Development,Manager,Medical,16822.89,11,1,19,2,0,0,0,4,1,3,3,3,No,Travel_Rarely,0
+EMP-0535,Employee 535,34,Female,Research & Development,Manufacturing Director,Other,11185.66,8,3,7,3,0,2,3,4,4,3,2,3,Yes,Travel_Rarely,0
+EMP-0536,Employee 536,33,Female,Research & Development,Research Director,Technical Degree,13986.37,14,0,15,5,2,4,5,1,2,1,3,3,No,Non-Travel,0
+EMP-0537,Employee 537,42,Female,Human Resources,Human Resources,Medical,4697.5,1,2,3,3,3,0,3,3,2,3,2,3,Yes,Travel_Rarely,0
+EMP-0538,Employee 538,19,Male,Human Resources,Human Resources,Technical Degree,3723.4,1,0,1,1,1,1,1,1,1,2,4,3,No,Travel_Rarely,1
+EMP-0539,Employee 539,46,Male,Research & Development,Research Director,Medical,18482.76,29,3,26,14,10,3,5,3,4,4,3,3,Yes,Travel_Rarely,0
+EMP-0540,Employee 540,55,Male,Human Resources,Manager,Marketing,9353.33,7,3,4,0,0,0,0,3,2,3,2,3,Yes,Travel_Rarely,0
+EMP-0541,Employee 541,40,Male,Research & Development,Manufacturing Director,Technical Degree,13308.1,7,1,18,10,7,1,3,4,3,2,3,3,Yes,Travel_Rarely,0
+EMP-0542,Employee 542,30,Female,Research & Development,Healthcare Representative,Medical,5036.8,2,3,12,7,3,2,0,4,3,4,4,3,No,Travel_Rarely,1
+EMP-0543,Employee 543,36,Male,Research & Development,Healthcare Representative,Other,4233.53,17,3,7,6,4,0,2,3,2,3,4,4,No,Non-Travel,0
+EMP-0544,Employee 544,52,Male,Research & Development,Laboratory Technician,Marketing,5446.19,9,3,11,2,1,2,2,4,3,2,3,3,No,Travel_Frequently,0
+EMP-0545,Employee 545,28,Male,Research & Development,Research Director,Medical,10107.97,3,2,10,10,6,3,0,2,3,4,3,3,No,Travel_Rarely,0
+EMP-0546,Employee 546,36,Male,Research & Development,Research Director,Medical,14984.12,18,3,18,1,0,1,0,4,1,4,4,3,No,Non-Travel,0
+EMP-0547,Employee 547,23,Male,Research & Development,Research Director,Human Resources,9574.81,9,4,2,2,2,2,2,2,4,4,3,3,Yes,Travel_Rarely,0
+EMP-0548,Employee 548,18,Male,Research & Development,Research Scientist,Technical Degree,2000.0,2,4,0,0,0,0,0,4,3,1,4,4,Yes,Travel_Rarely,0
+EMP-0549,Employee 549,41,Female,Sales,Sales Executive,Technical Degree,8347.52,13,3,17,3,3,0,3,2,4,4,3,3,No,Travel_Rarely,0
+EMP-0550,Employee 550,39,Male,Research & Development,Laboratory Technician,Medical,6181.18,1,1,14,3,3,2,3,4,1,3,3,3,No,Travel_Rarely,0
+EMP-0551,Employee 551,47,Male,Research & Development,Manager,Marketing,12623.61,5,0,11,0,0,0,0,1,3,1,3,4,No,Travel_Rarely,0
+EMP-0552,Employee 552,31,Female,Research & Development,Manufacturing Director,Life Sciences,13104.54,11,2,9,8,2,0,1,1,1,2,4,3,Yes,Travel_Rarely,0
+EMP-0553,Employee 553,45,Male,Human Resources,Human Resources,Technical Degree,3602.69,16,2,0,0,0,0,0,1,4,3,3,3,No,Travel_Rarely,0
+EMP-0554,Employee 554,38,Male,Research & Development,Research Director,Other,13438.44,11,1,12,9,5,3,3,1,3,3,1,3,No,Non-Travel,0
+EMP-0555,Employee 555,29,Male,Sales,Sales Executive,Medical,5486.56,30,4,11,3,1,1,3,4,3,3,4,3,No,Travel_Rarely,0
+EMP-0556,Employee 556,38,Female,Research & Development,Manufacturing Director,Other,11286.71,25,0,7,0,0,0,0,3,3,1,2,3,Yes,Travel_Rarely,0
+EMP-0557,Employee 557,33,Male,Sales,Manager,Medical,8480.84,3,1,0,0,0,0,0,3,3,3,1,4,No,Travel_Rarely,0
+EMP-0558,Employee 558,32,Male,Research & Development,Research Director,Technical Degree,15369.7,11,4,14,10,10,0,4,3,3,2,1,3,No,Travel_Rarely,0
+EMP-0559,Employee 559,36,Male,Research & Development,Manufacturing Director,Marketing,13547.45,30,1,12,3,2,3,3,4,3,2,3,3,No,Travel_Frequently,0
+EMP-0560,Employee 560,44,Male,Sales,Sales Representative,Marketing,2458.23,6,4,0,0,0,0,0,3,4,1,4,3,No,Travel_Rarely,0
+EMP-0561,Employee 561,29,Female,Human Resources,Human Resources,Other,7785.86,3,1,11,1,1,1,1,4,2,2,4,4,Yes,Travel_Rarely,0
+EMP-0562,Employee 562,39,Female,Research & Development,Manager,Life Sciences,8992.84,3,2,2,1,1,1,1,4,2,1,2,3,No,Travel_Rarely,0
+EMP-0563,Employee 563,39,Male,Sales,Sales Representative,Human Resources,2031.99,6,1,1,1,1,1,1,2,2,3,2,3,No,Travel_Rarely,1
+EMP-0564,Employee 564,50,Female,Research & Development,Manager,Medical,9554.46,8,2,4,2,2,0,2,4,4,3,4,3,No,Travel_Frequently,0
+EMP-0565,Employee 565,49,Male,Research & Development,Research Director,Marketing,11643.87,9,4,10,0,0,0,0,1,3,2,2,4,No,Travel_Rarely,1
+EMP-0566,Employee 566,46,Female,Research & Development,Research Scientist,Life Sciences,4432.13,11,0,5,5,1,3,3,1,4,4,3,3,No,Travel_Rarely,0
+EMP-0567,Employee 567,26,Male,Research & Development,Laboratory Technician,Other,4959.66,21,2,8,8,4,2,4,3,3,3,3,3,Yes,Travel_Rarely,1
+EMP-0568,Employee 568,37,Female,Research & Development,Manager,Marketing,8329.78,2,1,0,0,0,0,0,4,2,4,3,3,No,Travel_Rarely,0
+EMP-0569,Employee 569,33,Female,Research & Development,Research Director,Human Resources,10881.84,12,2,7,0,0,0,0,4,3,2,1,3,No,Travel_Rarely,0
+EMP-0570,Employee 570,45,Male,Research & Development,Research Director,Technical Degree,13482.85,2,4,13,12,6,1,0,2,4,1,3,3,Yes,Travel_Rarely,0
+EMP-0571,Employee 571,35,Female,Research & Development,Manufacturing Director,Life Sciences,9959.64,12,2,5,0,0,0,0,3,3,1,3,3,No,Travel_Rarely,0
+EMP-0572,Employee 572,43,Male,Sales,Manager,Medical,14642.23,7,1,18,12,6,5,3,4,3,2,3,3,Yes,Travel_Rarely,1
+EMP-0573,Employee 573,44,Female,Human Resources,Manager,Life Sciences,14762.23,6,5,15,1,1,1,1,3,3,3,3,3,No,Travel_Rarely,0
+EMP-0574,Employee 574,57,Male,Research & Development,Research Scientist,Technical Degree,3888.12,24,2,10,7,3,1,7,3,3,2,3,3,Yes,Travel_Rarely,1
+EMP-0575,Employee 575,37,Male,Sales,Sales Representative,Other,5476.6,2,1,8,8,0,1,5,1,4,3,3,3,No,Travel_Rarely,0
+EMP-0576,Employee 576,22,Male,Research & Development,Manufacturing Director,Other,10433.64,6,1,4,4,4,4,0,3,3,3,3,3,No,Travel_Frequently,0
+EMP-0577,Employee 577,45,Male,Research & Development,Manufacturing Director,Technical Degree,9797.08,1,1,1,1,1,1,1,3,2,3,3,3,No,Travel_Rarely,0
+EMP-0578,Employee 578,18,Male,Sales,Sales Executive,Other,3051.06,6,2,0,0,0,0,0,4,3,4,1,3,No,Non-Travel,0
+EMP-0579,Employee 579,30,Female,Sales,Sales Representative,Medical,5814.47,1,4,12,12,7,0,8,4,4,2,2,3,No,Travel_Frequently,0
+EMP-0580,Employee 580,33,Male,Human Resources,Manager,Marketing,12712.94,1,2,10,7,7,1,2,4,1,3,3,3,No,Travel_Rarely,0
+EMP-0581,Employee 581,32,Male,Human Resources,Human Resources,Medical,4174.86,7,1,8,0,0,0,0,3,3,4,4,3,No,Travel_Frequently,0
+EMP-0582,Employee 582,37,Male,Sales,Sales Executive,Life Sciences,2213.02,16,2,3,3,3,3,0,2,4,4,2,3,No,Travel_Rarely,0
+EMP-0583,Employee 583,28,Male,Research & Development,Manufacturing Director,Medical,13237.37,5,1,10,10,3,2,3,2,4,1,4,3,No,Travel_Rarely,0
+EMP-0584,Employee 584,34,Male,Research & Development,Research Scientist,Life Sciences,5593.44,1,1,11,11,8,2,1,3,2,4,3,3,No,Travel_Rarely,1
+EMP-0585,Employee 585,31,Male,Research & Development,Laboratory Technician,Life Sciences,2748.67,9,1,1,1,1,0,1,2,2,2,3,3,Yes,Travel_Rarely,1
+EMP-0586,Employee 586,24,Female,Sales,Manager,Technical Degree,10667.91,8,2,6,4,3,2,4,4,3,4,3,3,No,Travel_Rarely,0
+EMP-0587,Employee 587,36,Female,Research & Development,Manufacturing Director,Marketing,11480.46,5,5,7,7,7,5,5,4,3,3,4,3,Yes,Non-Travel,0
+EMP-0588,Employee 588,22,Female,Sales,Sales Executive,Other,5364.2,7,2,4,4,1,1,3,3,4,4,2,3,Yes,Travel_Rarely,0
+EMP-0589,Employee 589,39,Male,Sales,Sales Executive,Marketing,8488.16,1,3,20,8,1,0,7,4,1,3,3,3,No,Travel_Rarely,0
+EMP-0590,Employee 590,35,Male,Sales,Manager,Medical,10024.95,3,0,3,3,3,0,0,3,2,3,3,3,No,Travel_Rarely,1
+EMP-0591,Employee 591,34,Male,Research & Development,Healthcare Representative,Medical,3211.05,9,4,2,2,2,1,2,3,3,3,3,3,Yes,Travel_Frequently,0
+EMP-0592,Employee 592,26,Male,Research & Development,Manager,Human Resources,10671.5,14,2,8,8,6,4,4,4,3,3,1,3,Yes,Travel_Rarely,0
+EMP-0593,Employee 593,39,Male,Research & Development,Research Director,Other,13315.97,10,5,14,0,0,0,0,1,4,2,4,3,No,Travel_Frequently,1
+EMP-0594,Employee 594,35,Male,Sales,Sales Executive,Marketing,6280.37,15,2,15,6,6,1,3,4,1,3,3,3,No,Travel_Rarely,0
+EMP-0595,Employee 595,41,Male,Research & Development,Manager,Other,9655.63,7,3,8,8,3,2,0,3,4,3,3,3,Yes,Travel_Rarely,0
+EMP-0596,Employee 596,55,Male,Sales,Sales Executive,Life Sciences,4127.87,2,3,2,2,2,2,2,3,3,3,3,4,No,Non-Travel,0
+EMP-0597,Employee 597,29,Female,Human Resources,Manager,Technical Degree,12043.16,17,1,11,11,7,1,3,3,3,2,4,3,Yes,Travel_Rarely,0
+EMP-0598,Employee 598,31,Male,Research & Development,Healthcare Representative,Technical Degree,5018.58,16,2,6,1,1,0,1,2,2,3,3,3,Yes,Travel_Rarely,1
+EMP-0599,Employee 599,42,Male,Research & Development,Research Scientist,Human Resources,5523.52,4,4,8,8,6,4,5,4,3,3,2,4,No,Travel_Rarely,0
+EMP-0600,Employee 600,23,Female,Research & Development,Research Director,Other,9557.63,19,1,2,2,2,2,2,4,1,3,1,3,Yes,Travel_Rarely,1
+EMP-0601,Employee 601,43,Male,Research & Development,Healthcare Representative,Marketing,6625.2,7,2,11,5,0,2,5,3,3,2,3,3,No,Travel_Rarely,0
+EMP-0602,Employee 602,25,Female,Sales,Sales Executive,Medical,3775.79,17,2,3,3,2,0,1,4,4,4,2,3,No,Travel_Rarely,0
+EMP-0603,Employee 603,33,Male,Sales,Sales Representative,Other,4877.74,7,1,11,11,3,4,5,2,2,3,3,3,Yes,Travel_Frequently,1
+EMP-0604,Employee 604,18,Male,Research & Development,Research Scientist,Human Resources,2000.0,17,2,0,0,0,0,0,3,4,3,2,3,No,Travel_Rarely,0
+EMP-0605,Employee 605,23,Female,Sales,Sales Representative,Life Sciences,3876.94,11,2,5,0,0,0,0,4,1,1,3,3,No,Travel_Frequently,0
+EMP-0606,Employee 606,25,Female,Human Resources,Manager,Other,8961.85,6,1,7,0,0,0,0,2,2,3,2,3,No,Non-Travel,0
+EMP-0607,Employee 607,47,Male,Research & Development,Healthcare Representative,Human Resources,9010.01,20,4,14,7,7,2,4,3,1,3,3,3,No,Travel_Rarely,0
+EMP-0608,Employee 608,28,Male,Research & Development,Research Director,Other,11547.37,23,1,10,5,2,0,1,4,1,3,2,3,No,Travel_Rarely,0
+EMP-0609,Employee 609,41,Male,Research & Development,Healthcare Representative,Life Sciences,4610.02,1,3,7,4,4,0,4,1,3,2,1,3,No,Non-Travel,1
+EMP-0610,Employee 610,54,Male,Research & Development,Manufacturing Director,Medical,12836.69,9,2,13,0,0,0,0,3,3,3,2,3,No,Travel_Rarely,0
+EMP-0611,Employee 611,30,Male,Research & Development,Laboratory Technician,Other,6564.82,4,3,5,5,3,3,4,3,3,3,4,3,No,Non-Travel,0
+EMP-0612,Employee 612,38,Female,Sales,Sales Representative,Technical Degree,2000.0,11,5,0,0,0,0,0,3,4,3,2,3,No,Travel_Frequently,0
+EMP-0613,Employee 613,46,Male,Sales,Sales Executive,Marketing,12433.44,2,3,28,10,7,0,5,3,1,2,2,3,No,Travel_Rarely,0
+EMP-0614,Employee 614,34,Male,Research & Development,Research Scientist,Marketing,8711.74,13,3,16,6,4,4,1,2,3,3,3,3,Yes,Travel_Frequently,0
+EMP-0615,Employee 615,48,Male,Research & Development,Research Scientist,Life Sciences,7333.4,18,2,14,11,0,4,6,4,3,3,2,3,No,Non-Travel,0
+EMP-0616,Employee 616,18,Male,Research & Development,Manufacturing Director,Human Resources,7169.36,24,0,0,0,0,0,0,2,1,3,3,3,No,Non-Travel,1
+EMP-0617,Employee 617,34,Male,Sales,Sales Representative,Marketing,5493.26,9,3,7,0,0,0,0,1,1,3,4,4,Yes,Travel_Rarely,1
+EMP-0618,Employee 618,20,Male,Research & Development,Manager,Marketing,9509.05,8,0,2,2,2,1,2,3,3,2,2,3,No,Non-Travel,0
+EMP-0619,Employee 619,33,Male,Human Resources,Manager,Medical,14537.28,27,8,15,2,1,2,2,3,2,3,2,3,Yes,Travel_Rarely,0
+EMP-0620,Employee 620,41,Male,Research & Development,Laboratory Technician,Human Resources,5315.96,6,3,5,4,4,2,1,1,4,3,1,3,Yes,Travel_Rarely,0
+EMP-0621,Employee 621,23,Male,Human Resources,Manager,Technical Degree,10606.67,5,3,5,2,1,0,0,3,4,3,2,3,Yes,Travel_Rarely,0
+EMP-0622,Employee 622,57,Male,Sales,Sales Executive,Medical,11353.02,5,4,28,15,2,0,2,2,3,3,1,4,Yes,Travel_Rarely,0
+EMP-0623,Employee 623,42,Male,Research & Development,Healthcare Representative,Life Sciences,6546.59,9,4,10,10,2,0,4,3,3,2,2,3,No,Travel_Rarely,0
+EMP-0624,Employee 624,47,Male,Research & Development,Manufacturing Director,Other,14429.53,12,6,20,3,3,0,3,4,4,3,3,3,No,Travel_Frequently,0
+EMP-0625,Employee 625,46,Female,Research & Development,Research Director,Marketing,11273.43,17,1,6,6,4,0,0,3,1,1,2,3,Yes,Travel_Frequently,1
+EMP-0626,Employee 626,38,Male,Sales,Sales Executive,Technical Degree,8204.88,24,2,15,11,4,0,0,3,4,1,2,3,No,Travel_Rarely,1
+EMP-0627,Employee 627,29,Male,Research & Development,Manager,Human Resources,14570.48,22,1,11,5,5,0,5,3,4,3,3,4,No,Travel_Rarely,1
+EMP-0628,Employee 628,35,Male,Research & Development,Manufacturing Director,Other,13275.31,4,4,17,2,2,0,2,3,4,4,3,3,No,Travel_Rarely,0
+EMP-0629,Employee 629,41,Male,Research & Development,Research Director,Life Sciences,15435.03,6,1,16,0,0,0,0,3,4,3,2,3,Yes,Travel_Rarely,0
+EMP-0630,Employee 630,32,Male,Research & Development,Manager,Life Sciences,12081.2,1,3,11,3,2,1,1,1,3,4,3,3,No,Travel_Rarely,0
+EMP-0631,Employee 631,22,Male,Human Resources,Manager,Life Sciences,9098.23,26,1,1,1,1,1,1,4,3,3,2,4,Yes,Travel_Rarely,1
+EMP-0632,Employee 632,36,Male,Research & Development,Research Director,Technical Degree,15581.3,9,6,18,10,6,1,6,4,2,3,3,3,No,Travel_Rarely,1
+EMP-0633,Employee 633,29,Male,Research & Development,Research Scientist,Technical Degree,6870.72,4,2,9,5,2,1,5,4,4,3,3,4,Yes,Non-Travel,0
+EMP-0634,Employee 634,33,Female,Sales,Sales Executive,Other,7147.65,30,4,13,8,3,0,3,1,4,3,2,3,No,Travel_Rarely,0
+EMP-0635,Employee 635,24,Male,Research & Development,Research Director,Other,10234.08,13,4,6,6,6,6,3,4,3,2,3,3,No,Travel_Rarely,0
+EMP-0636,Employee 636,26,Male,Research & Development,Manager,Life Sciences,8711.62,7,4,4,3,0,2,3,4,4,4,3,3,No,Travel_Rarely,0
+EMP-0637,Employee 637,34,Male,Research & Development,Research Scientist,Medical,3899.34,16,1,6,6,3,5,6,2,4,3,3,3,No,Travel_Rarely,1
+EMP-0638,Employee 638,33,Female,Sales,Sales Executive,Marketing,7401.52,5,4,15,15,1,3,6,4,3,2,3,4,No,Travel_Frequently,0
+EMP-0639,Employee 639,35,Male,Human Resources,Human Resources,Human Resources,4389.23,1,5,4,4,3,0,4,2,4,2,3,3,Yes,Non-Travel,1
+EMP-0640,Employee 640,41,Female,Research & Development,Manager,Human Resources,15176.66,24,2,16,0,0,0,0,3,3,3,4,3,No,Travel_Rarely,0
+EMP-0641,Employee 641,40,Male,Human Resources,Human Resources,Human Resources,3023.2,17,1,1,1,1,1,1,3,2,2,3,3,No,Travel_Rarely,1
+EMP-0642,Employee 642,20,Male,Research & Development,Manufacturing Director,Other,9040.67,22,1,2,2,2,0,1,4,3,2,3,3,Yes,Travel_Rarely,0
+EMP-0643,Employee 643,38,Male,Research & Development,Laboratory Technician,Medical,3784.08,3,4,0,0,0,0,0,4,3,2,2,3,No,Travel_Frequently,1
+EMP-0644,Employee 644,35,Male,Research & Development,Healthcare Representative,Other,5907.65,11,1,10,10,7,3,1,1,2,3,4,3,No,Travel_Rarely,1
+EMP-0645,Employee 645,49,Male,Sales,Sales Executive,Marketing,8974.74,1,2,16,0,0,0,0,2,3,3,3,3,Yes,Travel_Rarely,1
+EMP-0646,Employee 646,34,Female,Sales,Manager,Technical Degree,11263.19,4,3,5,5,5,2,5,1,4,3,3,3,No,Travel_Frequently,0
+EMP-0647,Employee 647,38,Male,Research & Development,Research Director,Marketing,11756.51,11,4,9,9,4,3,3,3,1,3,2,4,No,Travel_Rarely,0
+EMP-0648,Employee 648,32,Male,Sales,Sales Executive,Technical Degree,7407.91,21,0,14,6,0,0,2,1,4,2,3,3,No,Travel_Rarely,0
+EMP-0649,Employee 649,44,Female,Research & Development,Research Scientist,Marketing,7815.71,8,1,13,2,0,0,2,4,3,2,3,3,No,Travel_Rarely,0
+EMP-0650,Employee 650,19,Female,Research & Development,Laboratory Technician,Technical Degree,3017.69,15,3,1,1,1,0,1,4,2,3,1,4,No,Travel_Frequently,1
+EMP-0651,Employee 651,33,Male,Research & Development,Healthcare Representative,Technical Degree,6679.84,2,3,15,4,3,0,2,3,3,3,4,3,No,Travel_Rarely,0
+EMP-0652,Employee 652,39,Male,Research & Development,Laboratory Technician,Medical,6270.51,7,3,10,10,1,2,8,4,4,1,4,3,No,Travel_Rarely,0
+EMP-0653,Employee 653,36,Female,Research & Development,Research Scientist,Other,8822.81,15,3,18,0,0,0,0,3,3,4,3,4,No,Travel_Rarely,0
+EMP-0654,Employee 654,29,Male,Sales,Sales Executive,Human Resources,5601.54,16,2,6,6,4,4,0,4,1,3,3,3,No,Non-Travel,0
+EMP-0655,Employee 655,48,Male,Research & Development,Manager,Medical,16859.39,22,4,20,9,3,5,2,4,4,3,3,3,Yes,Travel_Rarely,0
+EMP-0656,Employee 656,24,Female,Research & Development,Research Scientist,Marketing,3964.69,10,0,6,6,1,1,2,1,1,2,3,4,Yes,Travel_Rarely,0
+EMP-0657,Employee 657,35,Male,Research & Development,Manufacturing Director,Human Resources,14003.0,4,7,11,7,1,0,1,3,3,3,4,3,No,Travel_Frequently,1
+EMP-0658,Employee 658,44,Male,Research & Development,Research Director,Human Resources,10134.32,2,5,8,0,0,0,0,2,2,3,3,4,No,Travel_Rarely,0
+EMP-0659,Employee 659,35,Female,Human Resources,Manager,Human Resources,14468.42,30,1,17,0,0,0,0,4,4,3,4,4,No,Travel_Rarely,0
+EMP-0660,Employee 660,36,Male,Research & Development,Healthcare Representative,Marketing,5339.91,1,1,6,6,6,1,6,2,3,3,3,3,No,Travel_Rarely,0
+EMP-0661,Employee 661,42,Male,Sales,Sales Representative,Life Sciences,3803.39,21,1,7,7,3,1,6,3,1,4,3,4,No,Travel_Rarely,0
+EMP-0662,Employee 662,47,Female,Research & Development,Research Scientist,Other,6978.35,6,2,16,10,1,3,7,3,1,3,4,3,No,Travel_Rarely,0
+EMP-0663,Employee 663,24,Male,Research & Development,Research Scientist,Other,3557.58,8,2,3,2,2,2,2,3,3,3,3,3,No,Travel_Rarely,1
+EMP-0664,Employee 664,52,Male,Research & Development,Laboratory Technician,Life Sciences,5724.58,14,4,7,7,0,2,7,3,1,3,2,3,Yes,Travel_Rarely,0
+EMP-0665,Employee 665,25,Female,Human Resources,Manager,Marketing,10955.84,9,2,7,1,1,1,1,3,2,3,3,3,No,Travel_Rarely,1
+EMP-0666,Employee 666,45,Male,Research & Development,Healthcare Representative,Other,5764.43,27,0,11,0,0,0,0,2,4,3,3,3,No,Travel_Rarely,0
+EMP-0667,Employee 667,41,Female,Research & Development,Manager,Technical Degree,9406.14,12,0,0,0,0,0,0,2,1,3,2,3,No,Travel_Rarely,0
+EMP-0668,Employee 668,44,Male,Human Resources,Manager,Other,8068.93,4,1,0,0,0,0,0,3,1,3,3,3,No,Travel_Rarely,0
+EMP-0669,Employee 669,36,Male,Human Resources,Manager,Medical,8027.23,1,1,2,2,2,2,2,3,1,3,3,3,Yes,Travel_Rarely,0
+EMP-0670,Employee 670,48,Male,Human Resources,Manager,Other,11682.74,9,3,8,8,7,1,3,3,3,4,3,3,No,Travel_Rarely,0
+EMP-0671,Employee 671,26,Male,Sales,Manager,Technical Degree,12327.55,10,4,8,1,1,0,1,3,3,2,2,3,No,Travel_Rarely,1
+EMP-0672,Employee 672,25,Female,Sales,Sales Representative,Technical Degree,5740.69,16,2,7,7,3,2,7,2,1,3,2,3,Yes,Travel_Rarely,1
+EMP-0673,Employee 673,44,Male,Research & Development,Laboratory Technician,Marketing,2000.0,9,1,0,0,0,0,0,4,2,1,2,3,No,Travel_Rarely,1
+EMP-0674,Employee 674,26,Male,Research & Development,Manufacturing Director,Human Resources,12811.35,8,2,8,3,2,3,3,1,4,3,3,3,No,Travel_Rarely,0
+EMP-0675,Employee 675,26,Female,Sales,Sales Representative,Human Resources,3848.48,1,4,8,8,2,2,7,3,3,3,3,3,No,Travel_Rarely,0
+EMP-0676,Employee 676,46,Female,Research & Development,Manager,Technical Degree,12337.34,1,6,12,7,3,0,0,3,4,4,3,3,No,Travel_Rarely,0
+EMP-0677,Employee 677,27,Male,Sales,Sales Representative,Life Sciences,2957.14,2,4,2,2,2,2,2,2,4,3,3,3,Yes,Travel_Rarely,1
+EMP-0678,Employee 678,39,Male,Research & Development,Research Scientist,Human Resources,6050.66,6,3,7,7,6,4,7,3,2,2,3,3,Yes,Non-Travel,0
+EMP-0679,Employee 679,48,Male,Sales,Sales Representative,Other,8418.57,1,2,13,8,1,1,6,4,4,2,3,3,No,Travel_Frequently,0
+EMP-0680,Employee 680,33,Female,Research & Development,Research Director,Human Resources,12655.57,3,3,10,5,5,2,0,4,4,3,3,3,No,Travel_Rarely,0
+EMP-0681,Employee 681,36,Female,Research & Development,Healthcare Representative,Medical,4587.07,1,4,8,6,1,4,4,4,2,2,2,3,Yes,Non-Travel,1
+EMP-0682,Employee 682,26,Male,Research & Development,Laboratory Technician,Other,5938.04,4,4,8,0,0,0,0,2,2,3,4,3,No,Travel_Frequently,0
+EMP-0683,Employee 683,49,Male,Research & Development,Healthcare Representative,Human Resources,5666.58,30,2,10,5,5,0,3,1,4,3,1,4,Yes,Non-Travel,0
+EMP-0684,Employee 684,49,Female,Research & Development,Manufacturing Director,Marketing,13768.19,12,3,10,10,2,0,3,3,3,3,2,3,No,Travel_Rarely,0
+EMP-0685,Employee 685,41,Male,Research & Development,Research Scientist,Medical,5091.85,1,4,10,0,0,0,0,4,3,3,3,3,Yes,Non-Travel,0
+EMP-0686,Employee 686,33,Female,Research & Development,Research Scientist,Marketing,6067.84,3,1,8,7,7,4,3,4,2,3,2,3,Yes,Travel_Rarely,0
+EMP-0687,Employee 687,38,Male,Research & Development,Healthcare Representative,Medical,4040.41,17,2,5,5,4,4,4,4,4,3,3,3,No,Travel_Frequently,0
+EMP-0688,Employee 688,37,Male,Research & Development,Manufacturing Director,Life Sciences,11443.49,2,4,11,7,2,0,0,4,1,4,3,3,No,Travel_Rarely,1
+EMP-0689,Employee 689,23,Male,Research & Development,Manufacturing Director,Technical Degree,11450.08,7,6,5,5,5,0,1,4,1,3,3,3,No,Travel_Rarely,0
+EMP-0690,Employee 690,23,Male,Research & Development,Manufacturing Director,Human Resources,9674.69,11,4,5,5,3,0,0,1,2,1,3,3,No,Travel_Frequently,1
+EMP-0691,Employee 691,35,Male,Research & Development,Research Director,Medical,8975.08,28,2,2,2,2,1,2,4,4,3,2,3,Yes,Travel_Rarely,0
+EMP-0692,Employee 692,31,Female,Research & Development,Manufacturing Director,Human Resources,12010.4,1,1,5,1,0,1,1,1,4,3,3,3,No,Travel_Rarely,0
+EMP-0693,Employee 693,32,Male,Research & Development,Research Director,Technical Degree,11725.44,28,2,8,2,2,2,0,3,3,3,3,3,No,Travel_Rarely,1
+EMP-0694,Employee 694,45,Female,Research & Development,Laboratory Technician,Life Sciences,8873.52,9,5,17,4,1,1,4,2,1,3,3,3,No,Travel_Rarely,1
+EMP-0695,Employee 695,48,Male,Sales,Sales Executive,Life Sciences,8451.67,22,1,12,8,8,0,4,3,1,2,1,3,No,Travel_Rarely,1
+EMP-0696,Employee 696,53,Male,Human Resources,Manager,Other,12435.1,1,1,11,4,2,1,4,4,4,3,3,3,Yes,Non-Travel,0
+EMP-0697,Employee 697,31,Male,Human Resources,Manager,Human Resources,8408.32,3,0,0,0,0,0,0,3,3,3,3,3,No,Travel_Frequently,1
+EMP-0698,Employee 698,41,Male,Research & Development,Healthcare Representative,Technical Degree,5381.96,2,1,7,6,0,1,6,4,2,4,2,3,Yes,Travel_Rarely,0
+EMP-0699,Employee 699,26,Male,Sales,Sales Executive,Other,2567.55,1,8,2,0,0,0,0,4,3,3,3,3,No,Travel_Rarely,0
+EMP-0700,Employee 700,25,Female,Research & Development,Laboratory Technician,Human Resources,3318.26,1,1,7,7,4,2,2,3,2,3,3,4,Yes,Travel_Rarely,0
+EMP-0701,Employee 701,20,Male,Research & Development,Research Scientist,Other,2166.31,1,0,2,2,0,0,2,1,4,4,2,3,No,Travel_Rarely,0
+EMP-0702,Employee 702,27,Female,Human Resources,Human Resources,Other,5320.92,12,0,9,8,0,1,1,4,3,2,2,3,Yes,Non-Travel,1
+EMP-0703,Employee 703,34,Male,Research & Development,Manager,Marketing,13402.29,7,2,13,11,4,4,2,1,2,3,3,3,No,Travel_Rarely,0
+EMP-0704,Employee 704,31,Male,Sales,Manager,Medical,9289.83,3,4,0,0,0,0,0,3,3,4,3,3,No,Travel_Rarely,0
+EMP-0705,Employee 705,40,Female,Research & Development,Laboratory Technician,Life Sciences,2877.71,5,3,0,0,0,0,0,4,3,3,4,3,No,Travel_Rarely,0
+EMP-0706,Employee 706,52,Female,Research & Development,Research Scientist,Technical Degree,8935.63,4,5,14,4,4,4,4,1,3,3,3,3,Yes,Travel_Rarely,0
+EMP-0707,Employee 707,45,Female,Research & Development,Healthcare Representative,Other,2969.51,7,3,4,3,3,3,3,2,3,3,3,3,No,Travel_Rarely,0
+EMP-0708,Employee 708,18,Female,Research & Development,Manufacturing Director,Life Sciences,9542.98,1,1,0,0,0,0,0,2,1,3,2,3,No,Travel_Rarely,1
+EMP-0709,Employee 709,31,Female,Research & Development,Manufacturing Director,Other,12811.83,8,1,13,6,2,1,0,3,3,3,2,3,No,Travel_Rarely,0
+EMP-0710,Employee 710,34,Male,Research & Development,Research Director,Marketing,11556.24,30,2,7,4,0,3,4,1,1,4,2,4,No,Non-Travel,0
+EMP-0711,Employee 711,33,Male,Research & Development,Manufacturing Director,Other,13044.33,5,2,11,6,5,3,5,1,3,3,3,3,No,Non-Travel,0
+EMP-0712,Employee 712,46,Male,Human Resources,Manager,Other,11637.25,1,4,11,11,1,1,5,3,1,2,3,3,No,Travel_Frequently,1
+EMP-0713,Employee 713,42,Female,Research & Development,Laboratory Technician,Life Sciences,10695.51,7,1,20,13,3,1,1,4,4,4,3,3,No,Travel_Rarely,0
+EMP-0714,Employee 714,32,Male,Research & Development,Healthcare Representative,Life Sciences,2000.0,1,0,1,1,1,0,0,1,2,3,3,3,No,Travel_Rarely,0
+EMP-0715,Employee 715,43,Male,Research & Development,Manager,Technical Degree,13538.72,4,6,17,8,0,2,8,2,2,2,3,4,No,Travel_Frequently,0
+EMP-0716,Employee 716,35,Female,Research & Development,Manufacturing Director,Technical Degree,12947.95,30,1,15,8,1,2,3,4,4,3,3,4,No,Travel_Rarely,0
+EMP-0717,Employee 717,33,Female,Research & Development,Research Director,Life Sciences,13009.8,4,1,14,2,2,0,2,3,3,1,3,3,Yes,Travel_Rarely,0
+EMP-0718,Employee 718,37,Female,Research & Development,Manager,Other,14034.42,6,5,15,7,5,2,3,3,3,1,2,3,No,Travel_Rarely,0
+EMP-0719,Employee 719,38,Male,Research & Development,Laboratory Technician,Medical,2480.76,5,3,0,0,0,0,0,3,1,3,3,3,No,Travel_Frequently,0
+EMP-0720,Employee 720,44,Male,Sales,Manager,Human Resources,11977.17,1,3,12,2,2,2,2,1,4,3,3,3,No,Travel_Frequently,0
+EMP-0721,Employee 721,34,Male,Research & Development,Manager,Marketing,13932.76,1,1,16,4,4,2,0,2,2,4,2,3,No,Travel_Rarely,0
+EMP-0722,Employee 722,41,Male,Research & Development,Research Director,Life Sciences,10439.35,1,3,8,8,3,4,2,4,3,3,3,3,No,Non-Travel,0
+EMP-0723,Employee 723,41,Female,Sales,Sales Representative,Other,6624.4,4,2,19,2,2,2,2,4,4,4,4,3,No,Non-Travel,0
+EMP-0724,Employee 724,33,Male,Human Resources,Human Resources,Other,8269.49,3,0,15,11,2,3,6,3,3,1,2,3,No,Non-Travel,0
+EMP-0725,Employee 725,25,Male,Sales,Manager,Other,9509.88,11,4,7,7,1,6,0,4,1,1,2,3,No,Travel_Rarely,1
+EMP-0726,Employee 726,35,Male,Research & Development,Healthcare Representative,Life Sciences,7574.84,3,2,15,4,4,0,1,2,1,3,3,3,No,Travel_Rarely,1
+EMP-0727,Employee 727,49,Female,Sales,Sales Representative,Other,7119.08,4,5,8,6,4,0,2,1,2,2,3,3,No,Travel_Frequently,1
+EMP-0728,Employee 728,41,Male,Research & Development,Research Director,Technical Degree,13106.43,1,3,14,14,1,0,0,3,4,3,3,3,No,Travel_Rarely,0
+EMP-0729,Employee 729,27,Female,Research & Development,Laboratory Technician,Medical,6413.95,4,1,9,0,0,0,0,3,1,1,3,4,No,Travel_Rarely,1
+EMP-0730,Employee 730,36,Male,Research & Development,Healthcare Representative,Marketing,7165.59,4,1,15,5,5,3,5,3,3,2,4,3,No,Travel_Rarely,0
+EMP-0731,Employee 731,41,Female,Research & Development,Research Director,Medical,12191.99,1,3,10,10,9,0,1,4,2,4,2,4,No,Travel_Frequently,0
+EMP-0732,Employee 732,51,Male,Research & Development,Research Scientist,Technical Degree,5675.15,10,1,5,5,3,0,1,1,1,3,2,3,No,Travel_Rarely,1
+EMP-0733,Employee 733,31,Male,Research & Development,Manufacturing Director,Marketing,13105.36,6,1,9,9,6,2,4,4,2,4,3,3,Yes,Travel_Rarely,0
+EMP-0734,Employee 734,52,Male,Research & Development,Manager,Marketing,11579.79,2,1,7,7,1,0,3,4,4,3,3,3,No,Travel_Rarely,0
+EMP-0735,Employee 735,31,Male,Research & Development,Manager,Technical Degree,8920.93,14,4,0,0,0,0,0,3,1,4,3,3,No,Travel_Rarely,0
+EMP-0736,Employee 736,35,Male,Sales,Sales Executive,Marketing,5420.86,2,6,5,3,3,3,2,3,2,2,3,4,No,Travel_Frequently,1
+EMP-0737,Employee 737,44,Male,Sales,Sales Executive,Human Resources,4583.23,1,2,9,7,5,1,1,1,2,3,2,3,No,Travel_Rarely,1
+EMP-0738,Employee 738,39,Male,Research & Development,Laboratory Technician,Medical,5853.52,10,4,9,2,2,2,2,4,3,3,3,3,No,Travel_Rarely,0
+EMP-0739,Employee 739,41,Female,Research & Development,Manager,Marketing,14475.43,3,0,13,0,0,0,0,4,4,3,2,3,No,Travel_Rarely,0
+EMP-0740,Employee 740,29,Female,Research & Development,Laboratory Technician,Human Resources,7407.45,3,3,11,11,6,3,6,1,1,4,4,3,No,Travel_Frequently,0
+EMP-0741,Employee 741,25,Female,Research & Development,Research Scientist,Marketing,6568.07,13,2,7,3,3,1,3,3,4,3,4,3,No,Travel_Rarely,0
+EMP-0742,Employee 742,54,Male,Research & Development,Healthcare Representative,Marketing,9223.5,1,3,21,8,1,0,4,3,4,4,2,3,No,Travel_Rarely,0
+EMP-0743,Employee 743,43,Male,Research & Development,Manager,Technical Degree,13305.52,8,1,15,2,2,2,2,1,2,3,2,3,No,Non-Travel,1
+EMP-0744,Employee 744,29,Male,Research & Development,Healthcare Representative,Life Sciences,4168.49,5,4,7,7,6,2,0,1,4,4,2,3,Yes,Travel_Rarely,0
+EMP-0745,Employee 745,30,Male,Research & Development,Manufacturing Director,Marketing,13913.08,7,1,12,11,1,0,4,3,1,3,3,4,Yes,Non-Travel,1
+EMP-0746,Employee 746,33,Female,Research & Development,Manufacturing Director,Life Sciences,8603.2,4,3,3,3,3,1,3,2,4,3,1,4,No,Travel_Rarely,0
+EMP-0747,Employee 747,32,Female,Sales,Sales Executive,Human Resources,4605.09,4,1,6,2,0,0,2,4,4,2,3,3,No,Travel_Rarely,0
+EMP-0748,Employee 748,50,Male,Sales,Manager,Life Sciences,14827.99,8,2,19,7,6,3,5,1,1,1,3,3,Yes,Travel_Rarely,1
+EMP-0749,Employee 749,28,Female,Research & Development,Laboratory Technician,Other,4447.11,2,5,7,7,7,3,7,2,4,3,1,3,No,Travel_Rarely,0
+EMP-0750,Employee 750,38,Male,Human Resources,Manager,Technical Degree,15256.95,17,0,18,1,0,1,1,2,2,1,4,3,No,Travel_Rarely,1
+EMP-0751,Employee 751,34,Female,Research & Development,Research Director,Other,14364.29,3,5,16,4,2,3,4,3,3,2,3,3,No,Travel_Rarely,0
+EMP-0752,Employee 752,32,Female,Research & Development,Research Scientist,Other,7459.26,1,1,14,8,6,1,0,4,1,4,3,4,No,Travel_Rarely,0
+EMP-0753,Employee 753,44,Male,Human Resources,Human Resources,Human Resources,6982.38,8,4,13,9,3,2,2,4,4,3,3,3,No,Travel_Rarely,0
+EMP-0754,Employee 754,39,Male,Research & Development,Manager,Technical Degree,17326.74,6,4,21,7,6,2,0,3,3,4,4,3,Yes,Travel_Rarely,0
+EMP-0755,Employee 755,30,Male,Research & Development,Research Scientist,Life Sciences,8744.94,1,2,12,4,0,1,4,2,4,3,2,4,Yes,Travel_Rarely,0
+EMP-0756,Employee 756,39,Female,Sales,Sales Representative,Life Sciences,8441.57,19,1,21,6,6,0,0,3,2,4,2,3,No,Travel_Rarely,0
+EMP-0757,Employee 757,29,Male,Research & Development,Manufacturing Director,Human Resources,12366.69,7,3,11,0,0,0,0,3,4,2,3,3,No,Travel_Rarely,0
+EMP-0758,Employee 758,20,Male,Research & Development,Healthcare Representative,Technical Degree,2935.23,1,2,2,2,2,2,2,4,3,3,3,3,No,Travel_Rarely,0
+EMP-0759,Employee 759,50,Female,Sales,Sales Executive,Medical,8518.72,1,4,24,5,0,1,4,1,2,2,4,3,No,Travel_Rarely,1
+EMP-0760,Employee 760,18,Male,Research & Development,Manager,Marketing,7848.34,4,1,0,0,0,0,0,4,2,3,3,3,Yes,Travel_Frequently,1
+EMP-0761,Employee 761,34,Male,Research & Development,Manufacturing Director,Other,12838.81,19,2,11,4,4,2,2,2,4,2,3,3,No,Travel_Rarely,0
+EMP-0762,Employee 762,40,Female,Research & Development,Manufacturing Director,Marketing,14231.82,7,0,13,7,5,1,1,3,3,4,3,3,Yes,Travel_Rarely,0
+EMP-0763,Employee 763,41,Male,Sales,Manager,Medical,12014.46,7,3,8,6,2,1,2,1,4,2,1,4,No,Travel_Rarely,0
+EMP-0764,Employee 764,44,Male,Sales,Sales Representative,Marketing,6776.11,10,4,12,4,3,4,4,1,4,3,2,4,No,Travel_Rarely,0
+EMP-0765,Employee 765,32,Female,Research & Development,Research Director,Human Resources,13746.48,7,4,13,0,0,0,0,2,4,3,3,3,No,Travel_Rarely,0
+EMP-0766,Employee 766,44,Male,Sales,Sales Representative,Other,4756.24,10,2,4,4,4,0,4,4,3,4,3,3,No,Travel_Frequently,0
+EMP-0767,Employee 767,41,Female,Research & Development,Healthcare Representative,Other,10072.17,10,1,19,2,2,0,2,4,4,3,4,3,No,Travel_Rarely,0
+EMP-0768,Employee 768,35,Female,Research & Development,Research Scientist,Life Sciences,5086.07,2,0,7,3,2,0,3,2,3,3,1,3,No,Travel_Rarely,0
+EMP-0769,Employee 769,37,Male,Research & Development,Laboratory Technician,Other,7958.69,4,0,15,2,2,2,2,3,2,2,3,3,Yes,Travel_Rarely,0
+EMP-0770,Employee 770,25,Male,Research & Development,Manager,Human Resources,10993.49,5,1,7,4,1,4,4,2,3,3,3,3,No,Travel_Rarely,0
+EMP-0771,Employee 771,35,Female,Research & Development,Research Scientist,Medical,2414.58,3,2,0,0,0,0,0,4,3,1,3,3,No,Travel_Rarely,0
+EMP-0772,Employee 772,54,Male,Sales,Manager,Medical,12346.09,5,4,11,5,5,1,5,3,4,3,4,3,No,Non-Travel,0
+EMP-0773,Employee 773,37,Female,Research & Development,Research Director,Human Resources,14045.33,4,4,19,1,1,1,1,2,3,3,3,3,Yes,Non-Travel,0
+EMP-0774,Employee 774,41,Female,Research & Development,Manager,Marketing,15428.6,2,2,23,6,4,0,0,3,1,1,4,3,No,Travel_Rarely,0
+EMP-0775,Employee 775,39,Female,Sales,Sales Representative,Life Sciences,7869.97,4,2,13,7,3,5,2,2,1,2,3,3,Yes,Non-Travel,1
+EMP-0776,Employee 776,45,Female,Research & Development,Healthcare Representative,Medical,12610.54,12,3,27,15,6,0,3,4,4,4,2,3,No,Travel_Rarely,0
+EMP-0777,Employee 777,45,Female,Research & Development,Research Scientist,Human Resources,3185.9,1,1,3,3,3,0,3,2,3,3,3,4,Yes,Travel_Rarely,1
+EMP-0778,Employee 778,25,Male,Sales,Manager,Marketing,11724.77,14,0,7,4,4,3,4,3,2,3,3,3,Yes,Travel_Rarely,0
+EMP-0779,Employee 779,21,Male,Research & Development,Laboratory Technician,Human Resources,2735.8,7,2,3,3,3,3,0,1,2,4,3,3,No,Travel_Rarely,0
+EMP-0780,Employee 780,31,Male,Human Resources,Manager,Marketing,11532.93,21,1,13,0,0,0,0,4,3,3,2,3,No,Travel_Frequently,0
+EMP-0781,Employee 781,37,Female,Research & Development,Research Scientist,Marketing,8255.78,2,1,16,5,5,0,4,2,4,3,4,3,No,Travel_Rarely,0
+EMP-0782,Employee 782,30,Female,Research & Development,Manager,Human Resources,9252.45,11,4,8,8,2,5,2,3,3,3,3,3,Yes,Travel_Rarely,0
+EMP-0783,Employee 783,18,Male,Human Resources,Manager,Technical Degree,7828.51,7,0,0,0,0,0,0,3,3,3,3,3,No,Travel_Rarely,0
+EMP-0784,Employee 784,37,Female,Research & Development,Research Director,Marketing,10601.02,18,4,10,5,5,3,2,4,4,3,3,3,No,Non-Travel,0
+EMP-0785,Employee 785,42,Male,Sales,Sales Representative,Medical,3630.39,5,2,2,2,2,0,2,1,3,3,3,3,No,Travel_Rarely,0
+EMP-0786,Employee 786,30,Female,Research & Development,Research Scientist,Other,5161.89,4,2,9,6,1,0,5,4,1,2,3,3,No,Travel_Rarely,1
+EMP-0787,Employee 787,31,Female,Research & Development,Manufacturing Director,Marketing,12165.72,20,6,13,6,0,0,6,3,2,3,3,4,No,Travel_Frequently,1
+EMP-0788,Employee 788,32,Female,Human Resources,Manager,Other,11748.31,5,7,10,9,1,2,2,4,4,2,3,3,No,Travel_Rarely,0
+EMP-0789,Employee 789,35,Female,Sales,Sales Representative,Life Sciences,3523.11,1,4,5,5,5,2,5,4,4,3,3,3,No,Travel_Rarely,0
+EMP-0790,Employee 790,46,Female,Research & Development,Manager,Other,15041.4,8,3,18,7,3,4,0,4,4,3,3,3,No,Travel_Rarely,0
+EMP-0791,Employee 791,52,Female,Research & Development,Research Scientist,Marketing,7389.74,6,0,14,12,4,0,2,4,4,3,3,3,Yes,Travel_Rarely,0
+EMP-0792,Employee 792,42,Male,Human Resources,Human Resources,Marketing,3065.53,2,4,5,0,0,0,0,3,2,3,3,3,No,Travel_Frequently,1
+EMP-0793,Employee 793,43,Female,Sales,Manager,Medical,15698.31,30,4,23,12,1,3,8,2,1,2,1,3,Yes,Travel_Rarely,0
+EMP-0794,Employee 794,35,Male,Research & Development,Laboratory Technician,Technical Degree,6067.19,5,3,11,0,0,0,0,2,1,3,4,4,No,Travel_Rarely,0
+EMP-0795,Employee 795,21,Female,Research & Development,Research Scientist,Other,2001.42,23,3,3,3,0,2,3,2,2,4,1,3,No,Travel_Rarely,1
+EMP-0796,Employee 796,44,Female,Research & Development,Manufacturing Director,Medical,12816.46,19,1,11,10,0,5,4,3,4,1,3,3,No,Travel_Frequently,1
+EMP-0797,Employee 797,32,Female,Research & Development,Manufacturing Director,Medical,9377.13,19,2,3,3,1,3,0,4,2,3,3,3,No,Travel_Rarely,0
+EMP-0798,Employee 798,34,Male,Research & Development,Research Scientist,Human Resources,6528.99,10,3,12,12,2,1,8,1,1,2,3,4,No,Travel_Rarely,1
+EMP-0799,Employee 799,35,Female,Research & Development,Healthcare Representative,Life Sciences,2622.03,11,3,0,0,0,0,0,3,3,3,3,3,No,Travel_Frequently,0
+EMP-0800,Employee 800,44,Female,Research & Development,Manager,Human Resources,16127.11,4,4,18,0,0,0,0,4,2,3,3,3,Yes,Non-Travel,0
+EMP-0801,Employee 801,46,Male,Research & Development,Manager,Other,11896.39,2,1,10,10,0,1,1,4,3,3,4,3,Yes,Travel_Rarely,0
+EMP-0802,Employee 802,34,Female,Research & Development,Healthcare Representative,Human Resources,5962.15,4,3,11,6,4,1,2,4,3,3,3,3,Yes,Travel_Rarely,0
+EMP-0803,Employee 803,24,Male,Sales,Sales Representative,Medical,2275.39,14,2,0,0,0,0,0,2,3,2,3,3,No,Travel_Rarely,0
+EMP-0804,Employee 804,22,Male,Research & Development,Research Director,Technical Degree,10004.49,7,1,4,4,4,2,4,2,3,3,3,3,No,Travel_Rarely,0
+EMP-0805,Employee 805,34,Male,Research & Development,Manager,Medical,12978.64,8,2,15,3,3,2,3,3,3,3,2,4,Yes,Non-Travel,0
+EMP-0806,Employee 806,39,Male,Research & Development,Research Scientist,Other,6376.48,5,2,12,3,3,3,3,4,3,1,3,3,No,Travel_Rarely,0
+EMP-0807,Employee 807,40,Male,Sales,Sales Representative,Medical,2990.19,10,4,0,0,0,0,0,3,4,2,2,3,No,Travel_Rarely,0
+EMP-0808,Employee 808,35,Male,Sales,Manager,Marketing,12873.59,6,1,17,8,5,3,1,1,4,4,3,3,Yes,Travel_Rarely,0
+EMP-0809,Employee 809,43,Male,Research & Development,Healthcare Representative,Marketing,8095.15,6,2,17,14,6,1,2,4,4,2,3,3,Yes,Travel_Frequently,0
+EMP-0810,Employee 810,28,Female,Research & Development,Manufacturing Director,Human Resources,10229.91,12,3,8,7,5,2,4,3,2,2,2,3,No,Travel_Frequently,0
+EMP-0811,Employee 811,34,Male,Research & Development,Research Director,Medical,11129.71,8,2,8,0,0,0,0,4,4,2,4,3,No,Travel_Rarely,0
+EMP-0812,Employee 812,43,Female,Sales,Sales Representative,Life Sciences,6147.09,13,2,11,2,0,2,2,4,1,3,3,3,Yes,Travel_Rarely,0
+EMP-0813,Employee 813,42,Male,Research & Development,Healthcare Representative,Human Resources,3614.31,23,4,4,4,4,0,2,2,1,3,3,3,No,Non-Travel,0
+EMP-0814,Employee 814,26,Female,Sales,Manager,Other,11096.24,11,1,8,8,3,0,3,3,3,3,4,3,Yes,Travel_Rarely,0
+EMP-0815,Employee 815,32,Male,Research & Development,Research Director,Life Sciences,8030.46,1,3,0,0,0,0,0,3,2,3,2,3,Yes,Travel_Rarely,0
+EMP-0816,Employee 816,36,Male,Research & Development,Manager,Other,11119.24,20,7,10,5,5,2,0,4,2,3,2,3,No,Travel_Frequently,1
+EMP-0817,Employee 817,35,Female,Research & Development,Healthcare Representative,Human Resources,6431.76,9,0,13,13,6,4,0,4,4,3,3,3,No,Travel_Rarely,1
+EMP-0818,Employee 818,31,Male,Research & Development,Healthcare Representative,Technical Degree,8774.02,3,4,13,11,9,0,0,1,4,3,3,3,No,Travel_Rarely,0
+EMP-0819,Employee 819,36,Female,Research & Development,Research Director,Technical Degree,14360.38,3,5,18,4,0,1,2,1,4,2,2,3,No,Travel_Rarely,0
+EMP-0820,Employee 820,38,Male,Sales,Manager,Human Resources,12621.35,1,4,7,7,7,1,7,2,2,3,3,3,Yes,Travel_Rarely,1
+EMP-0821,Employee 821,42,Female,Sales,Sales Executive,Human Resources,5382.34,18,2,11,5,0,1,5,2,4,3,4,4,Yes,Travel_Rarely,1
+EMP-0822,Employee 822,34,Male,Research & Development,Research Director,Life Sciences,13294.92,30,3,14,10,2,2,0,3,4,3,3,3,No,Travel_Rarely,0
+EMP-0823,Employee 823,37,Female,Research & Development,Laboratory Technician,Marketing,9130.25,15,3,18,12,2,4,1,2,1,3,4,3,No,Travel_Rarely,0
+EMP-0824,Employee 824,45,Female,Sales,Manager,Medical,7934.16,16,2,3,2,2,2,2,2,3,3,2,4,No,Travel_Frequently,0
+EMP-0825,Employee 825,48,Female,Research & Development,Manager,Medical,11236.46,17,3,11,0,0,0,0,3,3,2,3,3,Yes,Travel_Rarely,0
+EMP-0826,Employee 826,35,Female,Sales,Sales Executive,Life Sciences,6269.61,1,3,14,11,0,4,6,4,4,3,3,4,No,Travel_Frequently,0
+EMP-0827,Employee 827,38,Male,Research & Development,Healthcare Representative,Technical Degree,6796.93,10,2,12,5,1,2,5,3,2,2,3,3,No,Travel_Rarely,0
+EMP-0828,Employee 828,18,Female,Sales,Manager,Medical,6778.65,18,0,0,0,0,0,0,1,4,3,2,3,No,Travel_Rarely,0
+EMP-0829,Employee 829,43,Female,Research & Development,Manufacturing Director,Technical Degree,11841.61,4,2,12,0,0,0,0,3,3,3,4,3,No,Travel_Rarely,0
+EMP-0830,Employee 830,34,Male,Research & Development,Healthcare Representative,Technical Degree,7943.53,2,1,14,1,1,1,1,1,2,3,3,3,No,Travel_Frequently,1
+EMP-0831,Employee 831,39,Male,Research & Development,Laboratory Technician,Marketing,2283.72,4,2,1,1,0,1,1,4,2,3,3,3,No,Travel_Rarely,0
+EMP-0832,Employee 832,18,Female,Research & Development,Research Scientist,Human Resources,3332.75,1,2,0,0,0,0,0,3,2,3,2,3,Yes,Travel_Rarely,0
+EMP-0833,Employee 833,37,Female,Research & Development,Laboratory Technician,Human Resources,6140.35,30,1,12,7,0,0,0,4,3,2,3,3,Yes,Travel_Rarely,1
+EMP-0834,Employee 834,35,Male,Research & Development,Manager,Life Sciences,15603.33,13,3,17,14,2,0,3,1,1,3,3,4,Yes,Travel_Frequently,1
+EMP-0835,Employee 835,37,Male,Research & Development,Healthcare Representative,Life Sciences,4580.02,9,2,8,6,1,5,2,3,3,2,4,4,No,Travel_Rarely,0
+EMP-0836,Employee 836,31,Male,Sales,Manager,Life Sciences,14786.87,1,2,13,9,0,1,0,4,3,1,4,3,No,Non-Travel,0
+EMP-0837,Employee 837,43,Male,Sales,Sales Representative,Other,8037.55,3,4,15,15,1,0,2,2,3,2,3,3,No,Travel_Rarely,0
+EMP-0838,Employee 838,27,Male,Research & Development,Research Director,Life Sciences,12263.54,5,1,9,9,9,1,2,2,4,3,3,4,No,Travel_Rarely,0
+EMP-0839,Employee 839,31,Male,Research & Development,Research Director,Other,12070.49,1,3,12,9,2,2,0,4,4,4,2,3,No,Travel_Rarely,0
+EMP-0840,Employee 840,24,Male,Research & Development,Laboratory Technician,Technical Degree,5068.78,4,1,6,6,1,5,6,4,1,3,3,3,No,Travel_Rarely,1
+EMP-0841,Employee 841,41,Male,Research & Development,Manager,Marketing,11837.52,12,2,8,0,0,0,0,1,1,2,3,4,No,Travel_Rarely,0
+EMP-0842,Employee 842,30,Male,Sales,Sales Representative,Technical Degree,6846.46,2,2,12,12,5,0,2,3,4,3,3,4,No,Travel_Rarely,0
+EMP-0843,Employee 843,32,Female,Sales,Manager,Technical Degree,11403.86,20,5,4,0,0,0,0,3,3,1,3,3,No,Travel_Rarely,0
+EMP-0844,Employee 844,18,Female,Research & Development,Manager,Human Resources,8503.24,6,3,0,0,0,0,0,2,2,4,3,3,No,Non-Travel,0
+EMP-0845,Employee 845,28,Male,Research & Development,Research Scientist,Marketing,3632.31,18,2,6,6,4,1,0,3,1,4,3,3,No,Travel_Rarely,0
+EMP-0846,Employee 846,27,Female,Research & Development,Laboratory Technician,Other,6365.31,7,2,9,6,4,0,0,3,4,2,4,3,No,Non-Travel,0
+EMP-0847,Employee 847,26,Female,Research & Development,Manufacturing Director,Life Sciences,11284.37,5,2,8,8,5,0,6,1,2,1,3,3,No,Travel_Rarely,0
+EMP-0848,Employee 848,27,Female,Research & Development,Research Director,Marketing,11669.1,3,2,9,8,5,0,4,3,1,4,2,4,No,Travel_Rarely,0
+EMP-0849,Employee 849,38,Male,Research & Development,Research Scientist,Technical Degree,3034.06,1,3,0,0,0,0,0,4,4,3,3,3,Yes,Travel_Frequently,1
+EMP-0850,Employee 850,36,Male,Research & Development,Manufacturing Director,Human Resources,13259.54,22,1,9,9,7,0,4,3,4,3,2,4,Yes,Travel_Frequently,1
+EMP-0851,Employee 851,43,Male,Research & Development,Research Director,Other,11152.76,1,3,6,4,1,2,4,3,2,3,4,3,Yes,Travel_Rarely,1
+EMP-0852,Employee 852,18,Male,Research & Development,Manufacturing Director,Technical Degree,9642.76,1,1,0,0,0,0,0,1,3,3,3,3,No,Travel_Rarely,0
+EMP-0853,Employee 853,28,Female,Research & Development,Research Director,Other,12011.33,23,2,10,8,8,1,5,3,3,3,4,3,No,Travel_Rarely,0
+EMP-0854,Employee 854,43,Female,Research & Development,Healthcare Representative,Other,5181.98,12,3,4,2,2,0,2,1,4,2,3,3,Yes,Travel_Rarely,0
+EMP-0855,Employee 855,50,Male,Research & Development,Manufacturing Director,Human Resources,9722.52,3,3,10,4,1,3,4,4,4,1,1,4,No,Travel_Frequently,0
+EMP-0856,Employee 856,18,Male,Research & Development,Manufacturing Director,Life Sciences,7113.3,11,2,0,0,0,0,0,4,4,3,3,3,No,Travel_Frequently,0
+EMP-0857,Employee 857,37,Male,Research & Development,Laboratory Technician,Human Resources,4509.29,8,2,8,8,4,4,4,2,2,3,2,3,No,Travel_Rarely,1
+EMP-0858,Employee 858,23,Male,Research & Development,Laboratory Technician,Human Resources,4033.21,30,1,5,0,0,0,0,3,3,2,2,3,No,Travel_Rarely,0
+EMP-0859,Employee 859,36,Female,Sales,Manager,Other,10350.63,14,2,6,6,0,2,6,3,2,3,3,3,No,Travel_Rarely,0
+EMP-0860,Employee 860,26,Male,Sales,Manager,Marketing,11626.85,13,1,8,2,1,2,2,3,3,3,3,3,Yes,Travel_Rarely,0
+EMP-0861,Employee 861,45,Female,Sales,Sales Executive,Technical Degree,2941.56,8,1,3,3,0,3,3,2,4,3,4,3,No,Travel_Rarely,1
+EMP-0862,Employee 862,40,Male,Human Resources,Manager,Other,12100.88,3,0,11,6,0,0,4,3,1,2,4,3,No,Travel_Rarely,0
+EMP-0863,Employee 863,60,Female,Research & Development,Research Scientist,Technical Degree,2273.56,1,1,3,3,3,0,3,4,1,3,2,3,No,Travel_Rarely,0
+EMP-0864,Employee 864,35,Male,Research & Development,Manufacturing Director,Other,14307.71,5,1,17,2,2,2,0,4,4,2,3,3,Yes,Travel_Rarely,0
+EMP-0865,Employee 865,47,Male,Research & Development,Manufacturing Director,Life Sciences,13153.5,6,2,8,5,5,1,0,1,4,3,2,4,Yes,Travel_Frequently,0
+EMP-0866,Employee 866,50,Female,Research & Development,Research Scientist,Marketing,6693.38,7,3,12,4,4,2,0,2,2,3,3,4,No,Travel_Rarely,0
+EMP-0867,Employee 867,38,Male,Research & Development,Research Scientist,Other,5536.26,4,2,13,6,4,0,2,4,4,2,3,3,No,Travel_Frequently,1
+EMP-0868,Employee 868,19,Female,Sales,Sales Representative,Medical,3493.09,9,5,1,1,1,1,1,1,4,4,3,3,No,Travel_Rarely,0
+EMP-0869,Employee 869,26,Male,Research & Development,Manufacturing Director,Human Resources,11376.27,19,1,8,0,0,0,0,4,3,3,2,3,No,Travel_Rarely,0
+EMP-0870,Employee 870,32,Male,Human Resources,Manager,Human Resources,12386.14,9,4,13,13,6,1,2,4,1,3,3,4,Yes,Travel_Rarely,0
+EMP-0871,Employee 871,42,Male,Research & Development,Manufacturing Director,Medical,7093.39,5,1,0,0,0,0,0,2,4,3,4,3,No,Travel_Frequently,0
+EMP-0872,Employee 872,46,Female,Research & Development,Research Director,Marketing,14472.09,12,1,13,0,0,0,0,3,1,2,2,4,Yes,Travel_Rarely,1
+EMP-0873,Employee 873,39,Female,Sales,Manager,Marketing,14622.89,6,1,17,13,4,0,2,1,4,3,4,3,No,Travel_Frequently,1
+EMP-0874,Employee 874,54,Female,Sales,Sales Executive,Other,8314.05,4,4,13,2,2,2,2,1,1,3,4,3,No,Travel_Rarely,0
+EMP-0875,Employee 875,26,Male,Research & Development,Research Scientist,Life Sciences,3461.44,11,5,5,5,0,2,4,4,1,3,2,3,Yes,Travel_Rarely,0
+EMP-0876,Employee 876,47,Female,Research & Development,Laboratory Technician,Life Sciences,5949.98,1,2,13,10,0,4,2,1,4,2,2,3,Yes,Travel_Frequently,1
+EMP-0877,Employee 877,46,Male,Sales,Sales Executive,Technical Degree,8380.45,11,0,13,5,2,2,5,1,4,4,3,3,No,Travel_Frequently,0
+EMP-0878,Employee 878,35,Female,Research & Development,Healthcare Representative,Human Resources,2721.28,3,1,4,4,4,1,4,2,4,2,3,4,No,Travel_Rarely,0
+EMP-0879,Employee 879,51,Female,Sales,Sales Executive,Life Sciences,6397.0,7,0,7,1,1,0,1,1,3,3,3,4,Yes,Travel_Rarely,0
+EMP-0880,Employee 880,48,Female,Human Resources,Manager,Marketing,9680.31,17,2,8,7,7,1,1,2,1,1,3,3,No,Travel_Rarely,1
+EMP-0881,Employee 881,39,Female,Research & Development,Research Scientist,Life Sciences,7722.63,6,1,19,7,7,3,6,4,1,4,3,3,Yes,Travel_Frequently,1
+EMP-0882,Employee 882,41,Female,Research & Development,Manager,Other,11046.88,16,0,9,6,2,0,5,2,2,3,3,3,No,Travel_Rarely,0
+EMP-0883,Employee 883,44,Male,Research & Development,Healthcare Representative,Human Resources,5420.37,3,3,8,8,5,0,0,4,3,4,3,4,No,Travel_Rarely,0
+EMP-0884,Employee 884,38,Female,Sales,Sales Executive,Technical Degree,7995.23,13,3,16,10,3,3,7,3,3,3,3,3,Yes,Travel_Rarely,0
+EMP-0885,Employee 885,32,Male,Research & Development,Healthcare Representative,Technical Degree,7054.86,1,3,14,6,4,2,3,3,2,4,2,3,No,Travel_Rarely,1
+EMP-0886,Employee 886,34,Male,Research & Development,Manager,Life Sciences,9678.26,8,3,5,5,5,3,3,4,3,3,3,4,No,Travel_Frequently,0
+EMP-0887,Employee 887,34,Male,Human Resources,Manager,Technical Degree,11640.76,16,4,10,10,3,2,9,1,4,3,3,3,No,Travel_Rarely,0
+EMP-0888,Employee 888,31,Male,Sales,Sales Executive,Human Resources,7268.65,30,1,8,4,3,1,4,4,2,1,2,3,No,Non-Travel,0
+EMP-0889,Employee 889,47,Male,Research & Development,Manufacturing Director,Other,14621.0,4,3,16,2,2,1,0,3,1,1,3,3,No,Non-Travel,0
+EMP-0890,Employee 890,40,Female,Research & Development,Healthcare Representative,Medical,6364.68,12,2,14,0,0,0,0,4,3,4,3,4,No,Travel_Rarely,0
+EMP-0891,Employee 891,65,Male,Research & Development,Research Scientist,Marketing,2146.01,2,4,8,0,0,0,0,2,1,2,3,4,No,Travel_Frequently,1
+EMP-0892,Employee 892,41,Male,Research & Development,Research Scientist,Marketing,3661.72,1,2,3,3,3,3,3,3,4,3,2,3,No,Travel_Frequently,0
+EMP-0893,Employee 893,22,Male,Research & Development,Manager,Human Resources,11330.77,8,2,3,3,3,1,1,3,1,2,3,3,Yes,Travel_Rarely,0
+EMP-0894,Employee 894,29,Male,Sales,Sales Executive,Marketing,8225.52,7,4,11,11,1,2,0,4,3,2,3,4,Yes,Travel_Rarely,0
+EMP-0895,Employee 895,30,Male,Sales,Sales Representative,Other,8149.29,8,0,12,11,6,4,2,4,3,3,4,3,No,Travel_Rarely,0
+EMP-0896,Employee 896,35,Male,Research & Development,Laboratory Technician,Medical,5234.47,6,1,8,8,2,5,8,4,1,3,3,4,No,Travel_Rarely,0
+EMP-0897,Employee 897,38,Male,Research & Development,Laboratory Technician,Human Resources,9314.32,22,1,20,13,6,5,2,2,4,3,3,3,No,Travel_Rarely,0
+EMP-0898,Employee 898,22,Male,Sales,Sales Representative,Medical,4282.75,18,0,4,3,2,0,3,3,4,3,4,3,No,Travel_Rarely,0
+EMP-0899,Employee 899,26,Female,Research & Development,Research Scientist,Life Sciences,2177.83,5,5,5,5,3,1,4,4,4,3,3,3,Yes,Travel_Rarely,0
+EMP-0900,Employee 900,46,Female,Research & Development,Laboratory Technician,Marketing,7081.93,2,0,11,6,5,2,6,3,4,1,3,3,No,Travel_Rarely,0
+EMP-0901,Employee 901,27,Male,Research & Development,Manufacturing Director,Human Resources,8894.87,8,1,6,1,1,1,0,3,3,2,2,3,No,Travel_Frequently,1
+EMP-0902,Employee 902,40,Male,Human Resources,Manager,Life Sciences,14997.31,1,2,22,0,0,0,0,2,1,4,2,4,No,Travel_Rarely,0
+EMP-0903,Employee 903,48,Female,Research & Development,Research Director,Medical,8723.46,5,1,5,5,5,0,0,1,3,3,1,3,No,Travel_Rarely,0
+EMP-0904,Employee 904,21,Female,Research & Development,Research Director,Technical Degree,8627.15,4,2,3,3,1,0,3,1,4,3,2,3,No,Travel_Frequently,0
+EMP-0905,Employee 905,31,Male,Research & Development,Research Scientist,Technical Degree,8353.82,3,4,13,11,2,5,4,4,3,1,3,3,No,Travel_Rarely,0
+EMP-0906,Employee 906,50,Male,Research & Development,Healthcare Representative,Technical Degree,7220.27,30,6,14,14,7,3,0,3,3,4,3,3,No,Travel_Rarely,0
+EMP-0907,Employee 907,41,Female,Research & Development,Healthcare Representative,Technical Degree,8019.38,3,3,16,8,3,4,6,3,2,3,3,3,No,Non-Travel,0
+EMP-0908,Employee 908,39,Female,Research & Development,Research Director,Human Resources,8292.88,1,3,0,0,0,0,0,4,1,2,3,4,No,Travel_Rarely,0
+EMP-0909,Employee 909,30,Male,Sales,Sales Representative,Human Resources,2314.26,2,0,0,0,0,0,0,4,4,4,3,3,No,Travel_Rarely,0
+EMP-0910,Employee 910,26,Male,Human Resources,Manager,Medical,13296.15,19,1,8,8,4,2,2,4,3,4,4,3,No,Non-Travel,1
+EMP-0911,Employee 911,41,Female,Research & Development,Research Scientist,Marketing,6220.42,1,1,8,8,0,0,8,1,1,3,2,3,No,Travel_Rarely,0
+EMP-0912,Employee 912,35,Female,Research & Development,Healthcare Representative,Medical,10387.56,25,1,17,7,5,2,6,1,1,3,3,3,No,Non-Travel,1
+EMP-0913,Employee 913,50,Male,Research & Development,Research Scientist,Life Sciences,12508.28,4,3,31,8,6,0,3,4,3,2,4,3,No,Travel_Frequently,0
+EMP-0914,Employee 914,45,Male,Sales,Manager,Marketing,14664.74,5,5,12,6,3,2,6,3,3,3,1,3,No,Travel_Rarely,0
+EMP-0915,Employee 915,38,Female,Sales,Sales Representative,Other,7013.45,1,2,12,0,0,0,0,4,2,4,2,4,Yes,Travel_Rarely,0
+EMP-0916,Employee 916,32,Male,Research & Development,Laboratory Technician,Human Resources,8149.5,8,2,14,1,0,0,1,2,1,2,2,3,No,Non-Travel,0
+EMP-0917,Employee 917,34,Male,Human Resources,Human Resources,Technical Degree,7766.49,1,5,16,6,4,1,6,3,4,4,4,3,No,Travel_Rarely,0
+EMP-0918,Employee 918,49,Male,Research & Development,Manager,Technical Degree,12231.48,3,4,13,10,8,2,3,3,3,3,3,3,No,Travel_Rarely,0
+EMP-0919,Employee 919,54,Male,Research & Development,Manager,Technical Degree,14475.92,7,2,15,6,5,1,4,4,3,4,3,4,No,Travel_Rarely,0
+EMP-0920,Employee 920,50,Male,Research & Development,Manufacturing Director,Medical,8329.09,1,1,0,0,0,0,0,2,4,1,4,3,No,Travel_Rarely,0
+EMP-0921,Employee 921,35,Male,Sales,Manager,Human Resources,12621.84,2,3,14,1,1,1,1,2,2,2,2,3,No,Travel_Rarely,1
+EMP-0922,Employee 922,25,Male,Sales,Sales Representative,Medical,5391.9,7,2,7,7,2,1,7,4,4,3,3,3,No,Travel_Rarely,0
+EMP-0923,Employee 923,40,Female,Sales,Sales Representative,Medical,9071.75,7,1,22,0,0,0,0,3,1,2,3,3,No,Travel_Rarely,0
+EMP-0924,Employee 924,49,Male,Research & Development,Research Scientist,Medical,7593.68,1,3,8,5,5,0,5,3,1,3,2,3,No,Travel_Rarely,1
+EMP-0925,Employee 925,25,Male,Sales,Sales Executive,Life Sciences,5423.0,30,1,7,4,4,0,3,4,1,3,3,3,No,Travel_Rarely,0
+EMP-0926,Employee 926,34,Male,Research & Development,Manufacturing Director,Technical Degree,13689.85,1,4,9,9,7,4,4,2,4,4,3,3,No,Travel_Rarely,0
+EMP-0927,Employee 927,18,Male,Research & Development,Healthcare Representative,Other,2580.03,10,4,0,0,0,0,0,3,2,2,3,3,No,Travel_Rarely,1
+EMP-0928,Employee 928,49,Male,Research & Development,Research Director,Marketing,12961.93,16,3,8,8,4,0,6,4,3,3,3,3,Yes,Travel_Rarely,0
+EMP-0929,Employee 929,30,Female,Sales,Sales Representative,Medical,7497.25,3,2,12,10,2,1,0,2,1,3,3,3,No,Travel_Rarely,0
+EMP-0930,Employee 930,23,Male,Research & Development,Healthcare Representative,Technical Degree,3062.4,10,4,5,5,3,2,5,3,3,3,4,4,No,Travel_Frequently,0
+EMP-0931,Employee 931,30,Female,Sales,Sales Representative,Medical,6826.82,28,1,12,9,3,2,4,1,1,3,3,3,No,Travel_Rarely,0
+EMP-0932,Employee 932,27,Female,Sales,Sales Executive,Medical,4905.35,8,1,9,1,1,1,1,1,1,3,3,3,No,Travel_Rarely,0
+EMP-0933,Employee 933,32,Male,Sales,Sales Executive,Marketing,3292.64,2,2,3,3,0,3,0,2,2,2,4,3,Yes,Travel_Frequently,1
+EMP-0934,Employee 934,45,Female,Sales,Sales Representative,Marketing,6134.41,1,1,9,6,0,0,4,2,3,3,4,3,No,Travel_Rarely,0
+EMP-0935,Employee 935,31,Female,Sales,Sales Representative,Human Resources,8797.3,1,0,13,1,1,1,1,1,4,4,2,3,No,Travel_Frequently,0
+EMP-0936,Employee 936,27,Female,Research & Development,Manufacturing Director,Medical,12450.0,2,2,9,0,0,0,0,3,4,4,2,3,No,Travel_Rarely,1
+EMP-0937,Employee 937,34,Male,Research & Development,Healthcare Representative,Medical,4227.76,4,3,8,3,0,3,3,4,1,2,3,3,No,Travel_Rarely,1
+EMP-0938,Employee 938,25,Female,Research & Development,Manufacturing Director,Medical,11373.06,1,3,7,7,5,0,1,2,3,1,2,3,No,Travel_Rarely,1
+EMP-0939,Employee 939,27,Male,Sales,Manager,Other,11413.26,4,5,9,7,7,4,5,4,1,3,4,3,No,Travel_Rarely,1
+EMP-0940,Employee 940,30,Male,Sales,Sales Executive,Other,5612.49,2,5,12,4,4,0,3,4,1,3,3,3,No,Travel_Frequently,0
+EMP-0941,Employee 941,31,Male,Research & Development,Manufacturing Director,Technical Degree,12708.02,20,3,13,12,0,0,2,3,4,4,3,3,Yes,Travel_Rarely,0
+EMP-0942,Employee 942,47,Female,Research & Development,Healthcare Representative,Human Resources,10377.08,23,3,18,3,0,0,3,1,4,3,1,3,No,Travel_Rarely,0
+EMP-0943,Employee 943,30,Female,Sales,Sales Representative,Human Resources,3744.84,16,1,3,3,3,0,3,3,4,2,2,3,Yes,Non-Travel,0
+EMP-0944,Employee 944,30,Male,Research & Development,Research Scientist,Medical,4585.22,10,4,5,5,2,5,3,3,2,3,3,3,Yes,Travel_Rarely,0
+EMP-0945,Employee 945,20,Male,Research & Development,Research Director,Life Sciences,8555.33,26,6,2,2,2,2,0,2,4,1,2,4,No,Non-Travel,0
+EMP-0946,Employee 946,35,Female,Research & Development,Research Scientist,Human Resources,7567.37,5,1,15,5,3,3,3,2,3,3,3,4,No,Travel_Frequently,0
+EMP-0947,Employee 947,34,Male,Research & Development,Healthcare Representative,Life Sciences,9091.17,9,3,13,8,0,3,0,1,4,1,1,3,No,Travel_Rarely,0
+EMP-0948,Employee 948,49,Female,Research & Development,Laboratory Technician,Other,2722.49,11,4,1,1,1,1,1,3,1,3,2,3,Yes,Travel_Rarely,0
+EMP-0949,Employee 949,64,Male,Research & Development,Healthcare Representative,Other,5113.58,5,1,6,6,5,4,4,3,3,3,3,3,Yes,Travel_Rarely,0
+EMP-0950,Employee 950,41,Female,Research & Development,Healthcare Representative,Technical Degree,5286.28,1,0,10,3,3,2,2,2,1,3,3,4,No,Travel_Rarely,1
+EMP-0951,Employee 951,39,Male,Research & Development,Manufacturing Director,Marketing,15999.37,3,3,18,2,2,0,2,3,1,4,4,3,No,Travel_Frequently,0
+EMP-0952,Employee 952,33,Female,Human Resources,Human Resources,Medical,4770.13,6,1,14,9,1,0,3,3,2,3,3,3,No,Travel_Frequently,0
+EMP-0953,Employee 953,33,Female,Sales,Sales Representative,Marketing,5278.36,14,2,4,4,4,1,4,3,1,2,4,3,No,Non-Travel,0
+EMP-0954,Employee 954,33,Male,Research & Development,Healthcare Representative,Other,6403.63,1,3,8,2,2,0,2,4,4,2,3,3,No,Non-Travel,0
+EMP-0955,Employee 955,43,Male,Research & Development,Research Scientist,Human Resources,7818.76,4,2,15,7,3,3,3,1,3,3,1,3,No,Travel_Rarely,0
+EMP-0956,Employee 956,46,Female,Research & Development,Healthcare Representative,Marketing,3054.63,6,4,0,0,0,0,0,4,4,3,3,3,No,Travel_Rarely,0
+EMP-0957,Employee 957,18,Male,Research & Development,Research Scientist,Human Resources,3053.01,9,5,0,0,0,0,0,4,4,4,2,4,No,Travel_Frequently,1
+EMP-0958,Employee 958,56,Male,Research & Development,Healthcare Representative,Life Sciences,5123.16,4,3,6,6,3,2,3,4,1,3,3,3,Yes,Travel_Rarely,1
+EMP-0959,Employee 959,31,Male,Research & Development,Manufacturing Director,Technical Degree,10410.68,30,2,4,4,4,2,4,4,2,3,3,3,No,Travel_Frequently,1
+EMP-0960,Employee 960,22,Female,Sales,Sales Executive,Technical Degree,4626.13,6,3,4,4,4,1,3,1,2,3,3,3,No,Non-Travel,0
+EMP-0961,Employee 961,42,Female,Sales,Manager,Marketing,12373.38,2,1,10,6,3,5,3,4,3,2,3,3,No,Travel_Rarely,0
+EMP-0962,Employee 962,34,Male,Research & Development,Research Director,Life Sciences,12988.9,9,4,11,9,5,2,4,4,2,3,3,4,No,Travel_Rarely,0
+EMP-0963,Employee 963,35,Female,Research & Development,Research Scientist,Life Sciences,7365.4,2,5,10,10,3,0,5,3,1,3,3,3,No,Travel_Rarely,0
+EMP-0964,Employee 964,30,Male,Sales,Manager,Human Resources,14093.56,30,3,11,11,0,0,3,3,1,4,3,3,Yes,Travel_Rarely,0
+EMP-0965,Employee 965,39,Male,Research & Development,Manufacturing Director,Human Resources,12617.44,1,4,11,7,3,7,2,2,3,3,2,3,Yes,Travel_Frequently,1
+EMP-0966,Employee 966,30,Female,Research & Development,Healthcare Representative,Other,8028.0,1,2,12,10,2,4,4,4,4,3,4,3,Yes,Non-Travel,0
+EMP-0967,Employee 967,30,Male,Research & Development,Healthcare Representative,Medical,7164.6,4,2,11,5,3,0,1,2,2,3,3,3,No,Travel_Rarely,0
+EMP-0968,Employee 968,40,Female,Research & Development,Research Director,Marketing,16976.53,6,3,22,9,5,1,1,3,4,2,3,3,Yes,Travel_Rarely,0
+EMP-0969,Employee 969,42,Male,Research & Development,Healthcare Representative,Technical Degree,8975.19,6,1,20,0,0,0,0,2,4,3,2,3,No,Travel_Rarely,0
+EMP-0970,Employee 970,25,Male,Sales,Manager,Human Resources,10129.33,11,3,7,7,7,2,2,2,3,3,3,3,Yes,Travel_Rarely,0
+EMP-0971,Employee 971,42,Male,Research & Development,Manager,Medical,11105.29,1,4,5,1,1,1,1,1,3,1,2,3,No,Travel_Rarely,0
+EMP-0972,Employee 972,49,Female,Research & Development,Manufacturing Director,Technical Degree,9985.53,19,3,0,0,0,0,0,3,2,3,3,3,No,Travel_Rarely,0
+EMP-0973,Employee 973,32,Female,Sales,Sales Executive,Other,2000.0,1,5,2,2,2,2,0,2,4,3,1,3,No,Travel_Rarely,0
+EMP-0974,Employee 974,29,Male,Research & Development,Laboratory Technician,Medical,3537.18,14,2,8,5,3,1,5,1,1,3,3,3,No,Travel_Rarely,0
+EMP-0975,Employee 975,35,Male,Research & Development,Healthcare Representative,Human Resources,8814.58,6,2,17,0,0,0,0,3,2,4,3,3,Yes,Non-Travel,0
+EMP-0976,Employee 976,34,Male,Sales,Sales Representative,Technical Degree,6905.7,3,2,11,7,7,0,0,3,2,4,2,4,No,Travel_Rarely,0
+EMP-0977,Employee 977,25,Female,Sales,Sales Representative,Technical Degree,5917.06,1,1,6,6,5,0,6,2,1,3,2,3,No,Travel_Frequently,0
+EMP-0978,Employee 978,35,Male,Sales,Sales Executive,Other,8032.18,1,0,17,0,0,0,0,3,2,4,3,3,No,Travel_Frequently,0
+EMP-0979,Employee 979,37,Male,Research & Development,Healthcare Representative,Other,2469.53,12,0,1,1,0,1,1,4,1,3,2,3,No,Travel_Rarely,0
+EMP-0980,Employee 980,38,Male,Human Resources,Manager,Medical,9510.49,1,3,5,5,1,2,2,1,1,3,3,3,No,Travel_Frequently,1
+EMP-0981,Employee 981,21,Male,Sales,Sales Executive,Life Sciences,2419.67,7,2,3,3,3,2,3,3,2,4,2,3,Yes,Travel_Rarely,1
+EMP-0982,Employee 982,47,Male,Research & Development,Manager,Technical Degree,15179.0,5,0,19,5,4,4,0,4,2,3,2,3,No,Travel_Rarely,0
+EMP-0983,Employee 983,45,Male,Sales,Sales Representative,Medical,6963.84,1,0,17,4,2,4,1,2,3,1,4,3,No,Travel_Rarely,0
+EMP-0984,Employee 984,41,Female,Sales,Sales Executive,Human Resources,4594.61,9,3,5,5,4,2,4,4,4,3,3,3,No,Travel_Rarely,0
+EMP-0985,Employee 985,35,Female,Research & Development,Healthcare Representative,Technical Degree,5939.71,6,3,6,6,4,1,2,3,4,4,3,4,Yes,Travel_Frequently,0
+EMP-0986,Employee 986,45,Female,Sales,Manager,Technical Degree,14369.55,17,5,13,10,5,1,9,3,3,2,1,3,No,Travel_Rarely,0
+EMP-0987,Employee 987,33,Male,Human Resources,Manager,Medical,11526.36,6,2,7,7,3,0,7,4,3,4,3,4,No,Travel_Rarely,0
+EMP-0988,Employee 988,18,Female,Sales,Manager,Technical Degree,9938.74,5,2,0,0,0,0,0,4,3,3,3,3,Yes,Travel_Rarely,0
+EMP-0989,Employee 989,35,Male,Research & Development,Research Scientist,Life Sciences,2000.0,7,3,2,2,2,2,0,1,3,2,2,4,No,Travel_Rarely,1
+EMP-0990,Employee 990,46,Male,Research & Development,Manager,Technical Degree,10790.58,1,1,10,10,0,0,0,3,1,3,3,4,No,Travel_Rarely,0
+EMP-0991,Employee 991,38,Male,Research & Development,Research Director,Human Resources,12150.64,3,2,7,7,7,5,7,3,3,4,2,3,No,Travel_Rarely,0
+EMP-0992,Employee 992,42,Male,Research & Development,Manufacturing Director,Life Sciences,11419.51,1,4,8,4,4,0,4,3,4,3,1,3,No,Non-Travel,0
+EMP-0993,Employee 993,42,Male,Research & Development,Manufacturing Director,Medical,16016.68,1,9,22,9,2,6,0,1,2,3,3,4,No,Travel_Frequently,0
+EMP-0994,Employee 994,27,Female,Research & Development,Research Scientist,Life Sciences,5124.17,24,3,5,5,4,4,2,4,3,2,2,4,No,Travel_Rarely,0
+EMP-0995,Employee 995,41,Male,Research & Development,Manufacturing Director,Other,7356.48,1,0,1,1,1,1,1,2,4,3,2,3,Yes,Travel_Rarely,0
+EMP-0996,Employee 996,31,Female,Research & Development,Research Scientist,Life Sciences,8031.15,10,3,13,0,0,0,0,3,3,3,4,4,No,Non-Travel,0
+EMP-0997,Employee 997,35,Female,Sales,Manager,Other,14043.38,30,3,17,10,3,0,1,1,1,2,3,3,No,Non-Travel,0
+EMP-0998,Employee 998,42,Female,Sales,Manager,Life Sciences,14187.75,6,2,13,10,5,2,0,4,4,4,3,3,Yes,Travel_Rarely,0
+EMP-0999,Employee 999,27,Male,Research & Development,Manager,Technical Degree,11248.49,8,0,9,9,3,6,2,2,4,1,3,3,Yes,Travel_Rarely,0
+EMP-1000,Employee 1000,22,Male,Sales,Sales Executive,Other,3628.76,10,3,4,4,3,0,4,2,4,4,2,3,No,Travel_Rarely,0
+EMP-1001,Employee 1001,26,Female,Sales,Sales Executive,Technical Degree,2572.69,16,3,0,0,0,0,0,4,4,2,3,3,No,Travel_Rarely,0
+EMP-1002,Employee 1002,31,Male,Research & Development,Research Director,Life Sciences,15173.99,9,4,13,0,0,0,0,1,2,3,2,3,No,Travel_Rarely,0
+EMP-1003,Employee 1003,36,Male,Human Resources,Manager,Marketing,11845.35,18,2,6,6,3,0,3,2,3,3,4,3,Yes,Travel_Rarely,1
+EMP-1004,Employee 1004,35,Female,Research & Development,Laboratory Technician,Marketing,5130.79,30,1,8,4,4,4,1,3,3,3,3,3,No,Travel_Frequently,0
+EMP-1005,Employee 1005,36,Male,Research & Development,Laboratory Technician,Medical,4345.86,5,4,7,4,0,4,4,4,2,3,2,3,No,Travel_Rarely,0
+EMP-1006,Employee 1006,28,Male,Sales,Sales Executive,Human Resources,7120.58,7,5,8,8,5,3,1,1,3,3,3,3,Yes,Travel_Rarely,0
+EMP-1007,Employee 1007,35,Male,Human Resources,Manager,Other,11430.32,30,1,0,0,0,0,0,2,1,3,3,3,No,Travel_Rarely,1
+EMP-1008,Employee 1008,53,Female,Research & Development,Healthcare Representative,Technical Degree,3529.76,1,1,0,0,0,0,0,2,2,3,3,4,No,Travel_Rarely,1
+EMP-1009,Employee 1009,27,Female,Research & Development,Laboratory Technician,Marketing,4867.77,1,3,9,9,7,3,2,3,2,4,2,3,No,Travel_Frequently,0
+EMP-1010,Employee 1010,39,Male,Research & Development,Research Director,Marketing,16001.77,10,2,17,8,4,1,5,2,3,3,4,3,Yes,Travel_Rarely,0
+EMP-1011,Employee 1011,38,Male,Sales,Manager,Life Sciences,11305.61,1,3,6,6,2,5,2,2,1,2,3,3,No,Travel_Rarely,1
+EMP-1012,Employee 1012,27,Female,Research & Development,Manager,Human Resources,12391.2,1,2,9,9,3,2,5,4,1,3,2,3,No,Travel_Rarely,0
+EMP-1013,Employee 1013,35,Male,Sales,Sales Representative,Human Resources,4388.07,1,1,7,0,0,0,0,4,2,3,3,3,Yes,Non-Travel,1
+EMP-1014,Employee 1014,26,Male,Research & Development,Manufacturing Director,Human Resources,10414.32,1,0,1,1,0,0,1,3,4,3,3,4,No,Travel_Rarely,1
+EMP-1015,Employee 1015,42,Male,Research & Development,Research Director,Technical Degree,10484.11,6,2,11,11,4,1,9,3,4,2,3,3,No,Travel_Rarely,0
+EMP-1016,Employee 1016,41,Female,Sales,Sales Representative,Medical,6436.5,11,4,14,7,5,1,2,3,4,3,3,3,Yes,Travel_Rarely,0
+EMP-1017,Employee 1017,23,Male,Research & Development,Manufacturing Director,Human Resources,10446.29,4,3,4,4,4,4,3,3,2,4,2,3,No,Travel_Frequently,0
+EMP-1018,Employee 1018,44,Female,Sales,Manager,Medical,11033.26,1,3,7,4,4,2,4,3,3,2,4,3,No,Travel_Rarely,0
+EMP-1019,Employee 1019,31,Female,Human Resources,Manager,Other,11409.53,6,2,13,12,1,0,0,4,2,2,3,3,No,Travel_Rarely,0
+EMP-1020,Employee 1020,34,Male,Sales,Sales Executive,Marketing,6813.21,4,4,11,11,0,0,2,2,4,4,1,3,Yes,Travel_Rarely,0
+EMP-1021,Employee 1021,31,Male,Human Resources,Human Resources,Medical,2610.41,30,0,2,2,2,2,0,3,4,2,3,3,No,Travel_Rarely,0
+EMP-1022,Employee 1022,44,Female,Human Resources,Manager,Marketing,12415.25,2,5,14,8,3,3,3,4,3,3,2,3,Yes,Travel_Rarely,0
+EMP-1023,Employee 1023,33,Female,Research & Development,Manager,Technical Degree,13491.43,11,1,15,7,2,0,6,2,3,4,4,3,No,Travel_Rarely,0
+EMP-1024,Employee 1024,44,Female,Research & Development,Manager,Marketing,12205.36,1,3,11,10,4,2,4,4,2,4,1,3,No,Travel_Frequently,0
+EMP-1025,Employee 1025,35,Female,Sales,Manager,Marketing,12127.57,3,3,7,7,3,1,7,4,2,2,3,3,No,Travel_Frequently,1
+EMP-1026,Employee 1026,45,Male,Sales,Manager,Marketing,8515.39,4,3,0,0,0,0,0,3,1,2,3,3,Yes,Travel_Rarely,1
+EMP-1027,Employee 1027,43,Female,Research & Development,Healthcare Representative,Other,7518.85,16,2,10,2,0,2,1,2,4,1,3,3,No,Travel_Rarely,0
+EMP-1028,Employee 1028,34,Male,Human Resources,Manager,Technical Degree,9724.03,3,3,9,7,1,1,6,3,2,3,2,3,No,Travel_Rarely,0
+EMP-1029,Employee 1029,42,Female,Human Resources,Human Resources,Medical,4086.86,10,2,4,3,1,0,3,1,3,3,2,3,Yes,Travel_Rarely,1
+EMP-1030,Employee 1030,37,Female,Sales,Sales Executive,Medical,7290.0,8,3,7,7,7,0,0,4,4,2,3,4,No,Travel_Rarely,0
+EMP-1031,Employee 1031,34,Male,Research & Development,Laboratory Technician,Marketing,6410.66,6,6,9,5,3,2,1,1,2,3,2,3,No,Travel_Rarely,0
+EMP-1032,Employee 1032,24,Female,Research & Development,Manager,Life Sciences,11415.31,4,3,6,3,3,0,1,4,4,3,2,4,Yes,Travel_Rarely,0
+EMP-1033,Employee 1033,43,Female,Research & Development,Manufacturing Director,Technical Degree,14552.95,1,3,15,2,2,0,2,4,2,3,3,3,No,Travel_Rarely,0
+EMP-1034,Employee 1034,41,Female,Research & Development,Manager,Life Sciences,13423.25,1,1,14,3,0,0,2,2,3,3,2,4,No,Travel_Frequently,0
+EMP-1035,Employee 1035,26,Female,Sales,Sales Executive,Life Sciences,4487.48,19,5,8,1,1,1,1,2,4,3,3,3,No,Travel_Rarely,0
+EMP-1036,Employee 1036,34,Female,Research & Development,Manager,Human Resources,13304.46,7,1,15,11,3,0,8,1,3,4,3,3,No,Travel_Rarely,0
+EMP-1037,Employee 1037,34,Male,Sales,Sales Representative,Life Sciences,5462.5,1,2,9,7,6,0,0,2,4,3,3,3,No,Travel_Rarely,0
+EMP-1038,Employee 1038,45,Male,Research & Development,Research Scientist,Other,2000.0,2,5,0,0,0,0,0,1,2,4,2,3,No,Travel_Frequently,1
+EMP-1039,Employee 1039,22,Male,Research & Development,Laboratory Technician,Human Resources,3218.16,22,4,4,4,4,4,4,2,1,4,4,3,No,Travel_Rarely,0
+EMP-1040,Employee 1040,29,Male,Research & Development,Manufacturing Director,Technical Degree,13241.27,3,6,11,4,4,1,4,4,3,3,4,3,No,Travel_Frequently,0
+EMP-1041,Employee 1041,23,Male,Research & Development,Manufacturing Director,Other,9742.72,1,3,5,5,3,3,5,3,2,3,3,4,Yes,Travel_Rarely,0
+EMP-1042,Employee 1042,43,Female,Sales,Sales Representative,Marketing,6618.42,5,2,10,9,0,3,1,1,3,3,3,3,No,Travel_Rarely,0
+EMP-1043,Employee 1043,21,Female,Research & Development,Manufacturing Director,Other,11529.57,3,2,3,3,0,3,3,4,3,3,2,3,No,Travel_Rarely,1
+EMP-1044,Employee 1044,19,Female,Research & Development,Manager,Other,8185.49,10,0,1,1,0,0,1,4,2,1,3,4,No,Travel_Rarely,0
+EMP-1045,Employee 1045,30,Male,Research & Development,Manufacturing Director,Marketing,11768.73,10,5,7,1,1,1,1,1,4,2,4,3,No,Non-Travel,0
+EMP-1046,Employee 1046,49,Female,Sales,Sales Executive,Technical Degree,7110.35,1,0,16,10,1,3,4,3,3,3,3,3,Yes,Travel_Rarely,0
+EMP-1047,Employee 1047,48,Female,Research & Development,Manufacturing Director,Medical,12614.99,2,1,14,2,2,2,2,3,4,4,2,3,No,Travel_Rarely,0
+EMP-1048,Employee 1048,26,Female,Research & Development,Research Director,Other,9885.63,9,4,8,8,6,4,3,2,4,3,3,4,No,Travel_Rarely,0
+EMP-1049,Employee 1049,36,Female,Research & Development,Research Scientist,Marketing,3032.39,6,2,0,0,0,0,0,3,3,4,2,3,No,Travel_Rarely,0
+EMP-1050,Employee 1050,41,Female,Sales,Sales Executive,Medical,7147.89,10,2,15,4,4,0,4,3,2,3,2,3,Yes,Travel_Rarely,1
+EMP-1051,Employee 1051,41,Male,Research & Development,Laboratory Technician,Medical,8282.62,8,3,12,5,5,0,5,2,2,3,3,3,Yes,Travel_Frequently,1
+EMP-1052,Employee 1052,37,Male,Research & Development,Healthcare Representative,Technical Degree,4695.26,1,4,6,4,4,0,4,3,3,3,3,3,No,Travel_Rarely,0
+EMP-1053,Employee 1053,55,Male,Research & Development,Healthcare Representative,Medical,4716.5,18,1,7,7,3,2,0,2,2,4,1,3,Yes,Travel_Rarely,1
+EMP-1054,Employee 1054,44,Female,Sales,Sales Representative,Other,8658.78,1,5,15,0,0,0,0,2,3,3,4,3,No,Non-Travel,0
+EMP-1055,Employee 1055,39,Female,Research & Development,Healthcare Representative,Human Resources,5535.68,7,7,4,4,4,1,0,2,2,3,3,4,Yes,Travel_Rarely,0
+EMP-1056,Employee 1056,34,Female,Sales,Manager,Human Resources,11548.03,8,2,7,6,1,4,3,4,4,3,3,3,No,Travel_Rarely,0
+EMP-1057,Employee 1057,29,Male,Human Resources,Human Resources,Other,6439.19,12,1,11,4,4,4,3,2,3,3,3,3,No,Non-Travel,1
+EMP-1058,Employee 1058,38,Female,Research & Development,Laboratory Technician,Medical,9820.93,2,5,20,2,2,0,2,4,4,4,2,3,No,Travel_Rarely,0
+EMP-1059,Employee 1059,47,Female,Research & Development,Manager,Other,11441.17,1,4,8,0,0,0,0,2,2,2,2,3,No,Travel_Rarely,0
+EMP-1060,Employee 1060,22,Male,Research & Development,Research Director,Medical,10166.45,5,2,4,4,4,2,4,4,1,3,4,3,No,Travel_Rarely,1
+EMP-1061,Employee 1061,32,Male,Sales,Sales Executive,Medical,6824.44,7,2,13,13,5,1,0,3,3,2,3,3,Yes,Travel_Rarely,0
+EMP-1062,Employee 1062,28,Female,Research & Development,Laboratory Technician,Human Resources,5393.8,7,2,9,9,3,2,0,1,2,1,3,3,No,Travel_Rarely,1
+EMP-1063,Employee 1063,47,Male,Research & Development,Manufacturing Director,Other,10840.8,8,5,8,8,0,3,1,1,3,3,2,3,No,Travel_Rarely,0
+EMP-1064,Employee 1064,34,Female,Research & Development,Healthcare Representative,Marketing,5956.04,1,5,10,3,3,3,3,3,4,3,4,4,No,Travel_Frequently,0
+EMP-1065,Employee 1065,40,Female,Sales,Sales Representative,Life Sciences,7935.83,1,3,14,1,0,0,1,1,1,4,3,3,No,Travel_Rarely,0
+EMP-1066,Employee 1066,43,Male,Research & Development,Laboratory Technician,Marketing,7912.59,3,3,14,4,4,4,2,4,3,3,2,4,No,Travel_Rarely,0
+EMP-1067,Employee 1067,37,Male,Research & Development,Manager,Technical Degree,10702.57,2,2,8,6,5,0,3,1,4,4,3,3,Yes,Travel_Rarely,0
+EMP-1068,Employee 1068,36,Male,Research & Development,Research Director,Medical,15658.57,9,3,18,0,0,0,0,1,4,4,3,3,No,Travel_Rarely,0
+EMP-1069,Employee 1069,19,Female,Sales,Manager,Technical Degree,7371.88,3,1,1,1,1,0,1,4,3,1,2,3,No,Travel_Rarely,0
+EMP-1070,Employee 1070,32,Female,Sales,Sales Representative,Life Sciences,7413.52,8,2,14,8,2,0,6,4,2,3,2,3,No,Travel_Rarely,0
+EMP-1071,Employee 1071,31,Female,Research & Development,Research Scientist,Human Resources,6749.38,1,1,13,13,2,0,0,4,3,4,3,3,No,Travel_Rarely,0
+EMP-1072,Employee 1072,34,Female,Research & Development,Research Scientist,Technical Degree,5291.28,17,3,16,0,0,0,0,4,1,2,3,3,Yes,Travel_Rarely,1
+EMP-1073,Employee 1073,50,Female,Human Resources,Human Resources,Human Resources,5112.13,1,3,7,3,3,2,3,3,2,3,3,3,Yes,Travel_Rarely,0
+EMP-1074,Employee 1074,30,Female,Research & Development,Research Director,Other,13072.33,2,5,12,0,0,0,0,2,1,3,2,3,No,Travel_Rarely,0
+EMP-1075,Employee 1075,42,Male,Sales,Sales Representative,Other,5199.72,15,3,10,0,0,0,0,3,2,3,2,3,Yes,Travel_Rarely,0
+EMP-1076,Employee 1076,39,Male,Sales,Sales Representative,Human Resources,4197.75,3,2,5,5,0,2,5,2,2,3,1,3,Yes,Travel_Rarely,1
+EMP-1077,Employee 1077,31,Female,Research & Development,Research Director,Medical,12846.48,5,1,13,3,1,1,3,4,3,2,3,3,No,Travel_Rarely,0
+EMP-1078,Employee 1078,47,Male,Research & Development,Research Scientist,Human Resources,6412.34,11,3,11,2,2,0,2,4,2,1,3,3,No,Travel_Frequently,1
+EMP-1079,Employee 1079,38,Female,Sales,Sales Executive,Marketing,4589.94,13,3,4,0,0,0,0,3,2,3,3,3,No,Travel_Frequently,0
+EMP-1080,Employee 1080,45,Male,Research & Development,Manufacturing Director,Life Sciences,11839.02,16,3,9,0,0,0,0,2,2,2,3,3,No,Travel_Frequently,1
+EMP-1081,Employee 1081,37,Male,Research & Development,Manager,Human Resources,11793.13,3,3,5,3,0,2,3,4,3,3,3,3,No,Travel_Rarely,1
+EMP-1082,Employee 1082,46,Male,Research & Development,Healthcare Representative,Technical Degree,10414.83,10,0,17,3,3,0,2,2,2,4,3,3,Yes,Non-Travel,0
+EMP-1083,Employee 1083,42,Female,Sales,Manager,Human Resources,9209.89,9,0,1,0,0,0,0,3,1,3,3,3,No,Travel_Frequently,0
+EMP-1084,Employee 1084,28,Female,Sales,Sales Executive,Technical Degree,5501.7,12,0,10,0,0,0,0,3,2,4,3,3,No,Travel_Rarely,0
+EMP-1085,Employee 1085,31,Female,Human Resources,Manager,Life Sciences,8645.95,1,2,0,0,0,0,0,3,1,3,3,4,No,Travel_Rarely,0
+EMP-1086,Employee 1086,35,Male,Human Resources,Manager,Other,11330.8,12,3,8,8,0,1,1,1,2,4,3,3,No,Travel_Rarely,0
+EMP-1087,Employee 1087,37,Male,Sales,Manager,Marketing,14789.35,4,2,17,15,8,4,2,2,3,3,3,4,Yes,Travel_Rarely,1
+EMP-1088,Employee 1088,45,Male,Research & Development,Manager,Marketing,13982.56,5,0,12,7,0,4,7,4,3,4,2,3,No,Travel_Rarely,0
+EMP-1089,Employee 1089,18,Male,Sales,Sales Representative,Marketing,2982.69,2,2,0,0,0,0,0,4,3,1,3,3,Yes,Travel_Rarely,0
+EMP-1090,Employee 1090,35,Male,Sales,Sales Representative,Marketing,8383.81,7,0,17,9,2,0,6,2,3,2,3,3,No,Travel_Rarely,0
+EMP-1091,Employee 1091,50,Male,Research & Development,Manager,Human Resources,7888.27,2,2,0,0,0,0,0,3,4,1,3,3,No,Travel_Rarely,0
+EMP-1092,Employee 1092,39,Male,Human Resources,Human Resources,Life Sciences,8652.6,22,3,21,0,0,0,0,1,4,4,2,3,Yes,Travel_Rarely,1
+EMP-1093,Employee 1093,30,Female,Research & Development,Laboratory Technician,Life Sciences,3009.66,10,2,0,0,0,0,0,4,3,2,3,3,Yes,Travel_Rarely,1
+EMP-1094,Employee 1094,41,Male,Research & Development,Research Director,Other,15188.57,6,3,19,14,2,0,3,4,3,3,1,3,Yes,Travel_Rarely,1
+EMP-1095,Employee 1095,31,Male,Sales,Manager,Medical,12937.16,20,2,13,1,1,1,1,3,4,2,3,3,No,Travel_Frequently,0
+EMP-1096,Employee 1096,25,Male,Sales,Manager,Technical Degree,11028.03,10,2,7,7,3,0,7,1,4,3,2,3,No,Travel_Frequently,0
+EMP-1097,Employee 1097,47,Male,Sales,Manager,Life Sciences,15519.09,6,5,19,5,5,0,0,3,3,3,3,3,No,Travel_Rarely,0
+EMP-1098,Employee 1098,33,Male,Sales,Sales Representative,Technical Degree,9328.72,12,5,15,11,4,0,6,1,3,4,3,3,No,Non-Travel,0
+EMP-1099,Employee 1099,48,Female,Research & Development,Laboratory Technician,Human Resources,10066.17,8,4,22,5,5,0,4,4,4,2,4,3,No,Travel_Rarely,0
+EMP-1100,Employee 1100,19,Male,Research & Development,Healthcare Representative,Other,2000.0,7,2,1,0,0,0,0,2,4,3,3,4,Yes,Travel_Rarely,0
+EMP-1101,Employee 1101,19,Male,Research & Development,Research Scientist,Other,2858.69,5,3,1,1,1,1,1,4,4,3,3,3,Yes,Travel_Rarely,1
+EMP-1102,Employee 1102,29,Female,Sales,Sales Executive,Marketing,7120.74,13,1,11,11,2,0,4,2,1,2,4,3,No,Travel_Rarely,0
+EMP-1103,Employee 1103,45,Male,Research & Development,Laboratory Technician,Marketing,8396.9,1,2,12,9,7,2,3,2,4,3,2,3,No,Travel_Rarely,0
+EMP-1104,Employee 1104,29,Female,Sales,Sales Executive,Life Sciences,4884.39,10,3,9,4,4,0,1,1,3,1,3,3,No,Travel_Rarely,1
+EMP-1105,Employee 1105,38,Male,Research & Development,Manager,Human Resources,11899.71,2,5,9,9,0,0,1,3,4,2,2,3,No,Travel_Rarely,0
+EMP-1106,Employee 1106,18,Male,Research & Development,Research Director,Life Sciences,8693.9,8,2,0,0,0,0,0,4,2,2,2,3,No,Travel_Rarely,1
+EMP-1107,Employee 1107,30,Female,Research & Development,Research Director,Technical Degree,9473.55,30,1,3,3,3,3,0,3,1,3,3,4,No,Travel_Frequently,1
+EMP-1108,Employee 1108,48,Male,Sales,Sales Representative,Life Sciences,9153.38,9,2,17,15,9,0,5,3,3,3,3,3,No,Travel_Rarely,0
+EMP-1109,Employee 1109,34,Female,Research & Development,Manager,Other,12347.57,1,1,12,2,0,0,2,3,4,3,4,3,Yes,Travel_Frequently,0
+EMP-1110,Employee 1110,32,Male,Research & Development,Laboratory Technician,Other,7043.4,1,1,12,8,5,1,3,1,1,2,2,3,Yes,Travel_Rarely,1
+EMP-1111,Employee 1111,22,Male,Sales,Manager,Medical,10134.57,3,7,4,4,1,1,4,1,4,3,3,3,No,Travel_Rarely,0
+EMP-1112,Employee 1112,42,Female,Research & Development,Manufacturing Director,Human Resources,12278.13,22,2,11,3,2,1,3,2,1,2,3,3,No,Travel_Rarely,0
+EMP-1113,Employee 1113,46,Male,Sales,Sales Executive,Life Sciences,8164.84,1,4,17,0,0,0,0,3,4,3,3,3,Yes,Non-Travel,0
+EMP-1114,Employee 1114,27,Male,Sales,Manager,Human Resources,11457.72,25,4,9,9,0,1,7,4,3,3,2,3,No,Travel_Rarely,0
+EMP-1115,Employee 1115,22,Male,Research & Development,Manufacturing Director,Medical,10616.45,8,3,4,2,2,2,2,3,3,2,4,3,Yes,Travel_Rarely,1
+EMP-1116,Employee 1116,41,Female,Research & Development,Healthcare Representative,Life Sciences,4099.22,1,7,6,6,4,2,1,4,4,2,2,3,No,Travel_Rarely,0
+EMP-1117,Employee 1117,43,Female,Research & Development,Laboratory Technician,Medical,8141.53,1,0,18,1,1,1,0,1,1,3,3,3,No,Travel_Frequently,1
+EMP-1118,Employee 1118,51,Male,Sales,Sales Executive,Human Resources,8588.5,19,5,18,7,1,0,4,3,3,2,3,3,No,Non-Travel,0
+EMP-1119,Employee 1119,24,Female,Research & Development,Research Scientist,Technical Degree,2000.0,5,5,2,0,0,0,0,1,4,3,2,3,Yes,Travel_Rarely,0
+EMP-1120,Employee 1120,47,Female,Research & Development,Manufacturing Director,Other,11754.11,7,4,7,7,0,7,4,3,4,3,3,3,No,Non-Travel,0
+EMP-1121,Employee 1121,22,Male,Research & Development,Healthcare Representative,Medical,3498.61,19,2,1,1,1,1,1,3,1,2,4,3,No,Travel_Rarely,1
+EMP-1122,Employee 1122,38,Male,Human Resources,Human Resources,Other,7963.14,2,3,13,13,7,4,4,3,2,3,3,3,No,Travel_Rarely,0
+EMP-1123,Employee 1123,39,Female,Research & Development,Healthcare Representative,Human Resources,6752.77,11,4,13,9,5,0,0,2,4,3,2,3,Yes,Travel_Frequently,0
+EMP-1124,Employee 1124,39,Male,Research & Development,Laboratory Technician,Technical Degree,5662.86,6,1,11,6,6,0,1,3,1,1,2,3,Yes,Travel_Frequently,1
+EMP-1125,Employee 1125,32,Male,Human Resources,Human Resources,Life Sciences,5934.06,7,2,14,1,0,1,0,3,2,3,3,3,No,Travel_Rarely,0
+EMP-1126,Employee 1126,32,Male,Research & Development,Research Director,Life Sciences,14140.86,1,0,14,3,3,0,3,4,2,3,1,3,Yes,Travel_Rarely,1
+EMP-1127,Employee 1127,29,Female,Sales,Sales Representative,Life Sciences,5214.27,15,4,6,2,2,2,2,3,3,2,4,3,No,Travel_Frequently,0
+EMP-1128,Employee 1128,37,Male,Sales,Sales Representative,Life Sciences,9689.88,17,2,19,9,3,0,0,1,4,3,3,3,No,Travel_Rarely,1
+EMP-1129,Employee 1129,31,Female,Sales,Sales Representative,Technical Degree,6280.56,1,1,13,6,6,1,0,3,3,2,4,3,No,Non-Travel,0
+EMP-1130,Employee 1130,30,Male,Sales,Sales Representative,Other,8000.74,15,1,12,3,0,3,3,3,3,3,4,3,No,Non-Travel,0
+EMP-1131,Employee 1131,37,Female,Research & Development,Laboratory Technician,Medical,3927.63,2,3,6,6,2,2,4,2,1,2,1,3,No,Travel_Rarely,0
+EMP-1132,Employee 1132,41,Female,Sales,Sales Executive,Marketing,4457.15,14,3,4,4,4,1,4,1,1,1,2,3,No,Travel_Rarely,0
+EMP-1133,Employee 1133,40,Male,Research & Development,Manager,Life Sciences,14771.4,9,2,15,8,3,1,6,4,4,4,3,3,No,Travel_Rarely,0
+EMP-1134,Employee 1134,46,Male,Research & Development,Research Director,Technical Degree,10200.29,1,1,4,4,2,1,1,4,4,2,4,3,No,Travel_Rarely,0
+EMP-1135,Employee 1135,41,Male,Research & Development,Research Director,Human Resources,13863.62,30,2,12,4,0,4,4,2,1,3,4,3,No,Travel_Rarely,1
+EMP-1136,Employee 1136,33,Female,Research & Development,Healthcare Representative,Human Resources,5586.83,1,1,12,2,2,2,2,4,4,3,1,4,No,Travel_Rarely,0
+EMP-1137,Employee 1137,22,Male,Research & Development,Healthcare Representative,Human Resources,4345.81,9,3,4,4,4,3,0,4,1,2,2,3,No,Travel_Rarely,0
+EMP-1138,Employee 1138,37,Female,Sales,Sales Executive,Marketing,2727.94,13,4,1,1,0,1,0,2,4,4,3,3,No,Travel_Frequently,0
+EMP-1139,Employee 1139,24,Female,Research & Development,Laboratory Technician,Human Resources,5619.47,2,3,6,6,6,1,6,1,1,3,2,3,No,Travel_Rarely,0
+EMP-1140,Employee 1140,34,Male,Research & Development,Healthcare Representative,Medical,7053.26,22,4,10,8,2,0,7,4,2,3,4,3,No,Travel_Rarely,0
+EMP-1141,Employee 1141,26,Female,Human Resources,Manager,Technical Degree,8161.58,11,4,1,1,1,0,1,2,1,2,3,3,No,Non-Travel,1
+EMP-1142,Employee 1142,51,Male,Research & Development,Research Scientist,Other,3912.5,4,1,6,4,3,4,2,3,2,2,3,4,No,Travel_Rarely,0
+EMP-1143,Employee 1143,38,Female,Sales,Sales Executive,Medical,2025.3,2,2,0,0,0,0,0,1,3,2,2,3,No,Travel_Rarely,0
+EMP-1144,Employee 1144,38,Male,Research & Development,Manager,Marketing,10451.53,16,0,7,7,0,6,0,4,3,3,2,4,No,Travel_Rarely,0
+EMP-1145,Employee 1145,29,Female,Sales,Sales Representative,Human Resources,6772.42,2,2,11,0,0,0,0,1,3,3,2,3,Yes,Non-Travel,1
+EMP-1146,Employee 1146,26,Female,Research & Development,Manufacturing Director,Human Resources,11604.63,12,4,7,7,7,3,5,1,1,4,2,3,No,Travel_Rarely,1
+EMP-1147,Employee 1147,46,Female,Research & Development,Research Scientist,Technical Degree,2445.08,15,4,4,4,3,1,4,2,1,1,2,3,No,Travel_Frequently,0
+EMP-1148,Employee 1148,47,Male,Research & Development,Healthcare Representative,Marketing,6072.24,1,6,11,11,2,0,8,3,2,4,3,4,No,Travel_Rarely,0
+EMP-1149,Employee 1149,29,Female,Research & Development,Manager,Technical Degree,12672.75,1,0,11,6,6,0,6,2,4,1,3,4,No,Travel_Frequently,1
+EMP-1150,Employee 1150,18,Female,Research & Development,Healthcare Representative,Other,2000.0,16,3,0,0,0,0,0,1,3,3,3,3,No,Travel_Frequently,1
+EMP-1151,Employee 1151,23,Female,Research & Development,Healthcare Representative,Life Sciences,4841.58,30,1,5,5,5,0,5,3,4,3,3,3,No,Travel_Rarely,0
+EMP-1152,Employee 1152,32,Female,Sales,Sales Executive,Human Resources,3890.78,8,0,2,2,2,1,2,4,3,3,3,3,No,Travel_Rarely,0
+EMP-1153,Employee 1153,31,Female,Research & Development,Manufacturing Director,Medical,11839.91,10,3,9,5,1,2,3,1,3,3,4,3,No,Travel_Rarely,0
+EMP-1154,Employee 1154,60,Male,Sales,Sales Executive,Human Resources,6601.25,1,1,13,6,5,6,5,3,3,4,2,3,Yes,Travel_Frequently,0
+EMP-1155,Employee 1155,18,Male,Research & Development,Manufacturing Director,Marketing,9055.86,8,6,0,0,0,0,0,2,2,2,2,3,Yes,Travel_Rarely,0
+EMP-1156,Employee 1156,36,Male,Research & Development,Research Scientist,Marketing,5618.81,2,3,12,7,7,0,0,1,4,3,2,3,No,Travel_Frequently,1
+EMP-1157,Employee 1157,32,Male,Sales,Sales Executive,Technical Degree,3452.14,2,2,5,4,0,4,4,3,4,2,3,3,No,Travel_Frequently,0
+EMP-1158,Employee 1158,41,Female,Sales,Sales Representative,Medical,5367.42,10,2,3,0,0,0,0,4,4,1,3,3,Yes,Travel_Rarely,0
+EMP-1159,Employee 1159,18,Male,Research & Development,Laboratory Technician,Marketing,2707.96,1,3,0,0,0,0,0,4,1,3,3,3,Yes,Travel_Rarely,1
+EMP-1160,Employee 1160,34,Female,Research & Development,Healthcare Representative,Life Sciences,5117.95,4,2,9,4,4,3,4,4,4,3,3,3,Yes,Travel_Rarely,0
+EMP-1161,Employee 1161,50,Female,Research & Development,Healthcare Representative,Life Sciences,7979.52,6,1,12,4,3,0,4,1,3,1,2,3,No,Travel_Rarely,0
+EMP-1162,Employee 1162,33,Male,Sales,Sales Representative,Other,7162.35,7,2,12,5,5,2,5,3,3,1,1,3,No,Travel_Rarely,0
+EMP-1163,Employee 1163,42,Female,Sales,Sales Executive,Marketing,11702.62,8,2,24,5,1,3,5,2,4,3,3,3,No,Non-Travel,0
+EMP-1164,Employee 1164,31,Male,Research & Development,Manager,Life Sciences,11773.95,2,2,13,7,5,0,6,2,1,3,2,3,No,Travel_Rarely,0
+EMP-1165,Employee 1165,56,Female,Sales,Sales Representative,Technical Degree,3904.79,20,4,0,0,0,0,0,3,3,2,2,3,Yes,Travel_Rarely,0
+EMP-1166,Employee 1166,45,Male,Sales,Sales Representative,Human Resources,3013.26,1,2,1,1,0,1,1,1,4,2,3,4,No,Travel_Rarely,0
+EMP-1167,Employee 1167,18,Male,Research & Development,Healthcare Representative,Medical,2000.0,30,1,0,0,0,0,0,1,4,2,3,3,No,Travel_Rarely,1
+EMP-1168,Employee 1168,46,Female,Sales,Sales Executive,Human Resources,9181.15,7,1,21,6,0,1,0,4,4,3,2,3,Yes,Travel_Rarely,0
+EMP-1169,Employee 1169,25,Female,Sales,Manager,Technical Degree,10762.39,3,1,7,4,4,0,4,3,4,3,3,3,No,Travel_Rarely,0
+EMP-1170,Employee 1170,27,Male,Research & Development,Manufacturing Director,Other,7514.85,1,4,1,1,1,1,1,1,1,3,2,4,No,Travel_Rarely,0
+EMP-1171,Employee 1171,41,Male,Research & Development,Manager,Human Resources,8856.89,7,0,2,0,0,0,0,1,3,3,3,3,Yes,Travel_Frequently,0
+EMP-1172,Employee 1172,43,Female,Research & Development,Laboratory Technician,Marketing,9317.83,9,2,14,6,0,1,0,4,2,3,4,3,No,Travel_Rarely,1
+EMP-1173,Employee 1173,43,Male,Research & Development,Research Scientist,Life Sciences,2000.0,15,2,0,0,0,0,0,2,2,3,3,3,No,Travel_Frequently,1
+EMP-1174,Employee 1174,29,Female,Sales,Manager,Technical Degree,10605.02,4,3,5,5,2,1,5,4,2,3,2,3,Yes,Travel_Rarely,1
+EMP-1175,Employee 1175,52,Male,Research & Development,Manager,Human Resources,15583.24,1,0,21,19,7,3,4,1,3,3,2,4,No,Travel_Frequently,0
+EMP-1176,Employee 1176,40,Female,Research & Development,Laboratory Technician,Human Resources,2379.33,10,3,0,0,0,0,0,4,2,2,3,3,No,Travel_Rarely,0
+EMP-1177,Employee 1177,32,Female,Research & Development,Research Director,Life Sciences,10412.99,14,8,5,0,0,0,0,1,4,4,3,3,No,Travel_Rarely,0
+EMP-1178,Employee 1178,40,Male,Research & Development,Manager,Technical Degree,12967.02,11,1,16,10,0,1,3,3,3,2,2,3,No,Travel_Rarely,0
+EMP-1179,Employee 1179,31,Male,Research & Development,Research Director,Life Sciences,12719.45,1,2,13,8,6,1,8,4,4,4,3,3,Yes,Travel_Rarely,0
+EMP-1180,Employee 1180,42,Female,Research & Development,Laboratory Technician,Human Resources,6702.48,2,3,14,4,4,2,4,4,4,3,1,3,Yes,Travel_Rarely,0
+EMP-1181,Employee 1181,40,Female,Research & Development,Research Director,Medical,10470.35,19,6,6,6,5,3,0,4,1,3,3,3,Yes,Travel_Frequently,1
+EMP-1182,Employee 1182,30,Female,Research & Development,Research Scientist,Marketing,6335.48,5,4,12,0,0,0,0,3,1,4,3,3,No,Non-Travel,1
+EMP-1183,Employee 1183,30,Male,Research & Development,Manager,Marketing,10518.27,24,1,12,6,6,1,0,4,3,3,1,3,No,Travel_Frequently,0
+EMP-1184,Employee 1184,35,Male,Research & Development,Healthcare Representative,Medical,5589.92,3,2,10,9,7,2,1,4,3,4,2,3,No,Travel_Frequently,0
+EMP-1185,Employee 1185,24,Male,Sales,Sales Executive,Human Resources,4248.51,16,0,6,0,0,0,0,2,4,3,3,3,Yes,Travel_Rarely,1
+EMP-1186,Employee 1186,36,Female,Sales,Sales Executive,Other,5161.27,7,2,5,5,2,3,4,4,3,2,3,4,No,Travel_Rarely,0
+EMP-1187,Employee 1187,42,Female,Research & Development,Manufacturing Director,Life Sciences,14156.13,4,3,19,2,0,0,1,3,4,2,2,3,No,Non-Travel,0
+EMP-1188,Employee 1188,23,Male,Human Resources,Human Resources,Medical,3910.07,16,1,5,5,5,0,0,4,1,3,2,3,Yes,Travel_Rarely,1
+EMP-1189,Employee 1189,49,Female,Research & Development,Research Scientist,Other,6708.58,3,1,11,10,2,0,0,2,1,2,3,3,No,Travel_Frequently,1
+EMP-1190,Employee 1190,18,Female,Research & Development,Laboratory Technician,Medical,2000.0,4,6,0,0,0,0,0,2,2,3,3,3,No,Non-Travel,0
+EMP-1191,Employee 1191,33,Male,Sales,Sales Representative,Technical Degree,4015.56,10,2,7,0,0,0,0,2,1,1,1,3,No,Travel_Rarely,1
+EMP-1192,Employee 1192,43,Male,Sales,Manager,Marketing,11690.93,7,4,7,0,0,0,0,2,4,1,3,3,Yes,Travel_Rarely,1
+EMP-1193,Employee 1193,39,Female,Research & Development,Manager,Other,12362.72,19,2,12,4,2,0,4,1,1,3,4,3,No,Travel_Frequently,0
+EMP-1194,Employee 1194,40,Male,Research & Development,Manager,Human Resources,11108.14,12,2,4,2,2,2,2,2,3,3,3,3,No,Travel_Rarely,0
+EMP-1195,Employee 1195,43,Male,Sales,Sales Representative,Other,5012.11,25,3,7,7,2,2,7,3,2,2,4,3,No,Travel_Rarely,0
+EMP-1196,Employee 1196,48,Male,Research & Development,Laboratory Technician,Human Resources,7647.12,10,6,10,10,4,3,4,4,1,3,3,3,No,Travel_Rarely,0
+EMP-1197,Employee 1197,25,Male,Sales,Sales Representative,Life Sciences,6167.86,21,3,7,6,3,0,3,3,4,1,3,3,Yes,Travel_Rarely,1
+EMP-1198,Employee 1198,25,Male,Human Resources,Human Resources,Marketing,3408.75,23,4,7,7,4,0,1,1,3,3,2,3,No,Non-Travel,0
+EMP-1199,Employee 1199,26,Female,Sales,Manager,Life Sciences,10771.81,6,2,8,1,1,1,0,3,3,3,3,3,No,Travel_Rarely,0
+EMP-1200,Employee 1200,43,Male,Research & Development,Healthcare Representative,Human Resources,8123.16,4,2,14,8,0,5,5,3,1,3,2,3,No,Travel_Rarely,0
+EMP-1201,Employee 1201,18,Male,Sales,Sales Executive,Technical Degree,4319.64,17,4,0,0,0,0,0,3,4,3,4,3,No,Travel_Rarely,0
+EMP-1202,Employee 1202,45,Male,Research & Development,Research Scientist,Medical,11399.19,3,3,20,5,1,4,3,3,1,3,2,3,No,Travel_Rarely,0
+EMP-1203,Employee 1203,36,Female,Sales,Sales Executive,Life Sciences,9014.0,5,1,13,1,1,0,0,3,1,3,4,3,No,Travel_Frequently,0
+EMP-1204,Employee 1204,47,Male,Research & Development,Research Director,Technical Degree,9125.09,1,2,3,1,1,1,1,2,2,3,2,4,No,Travel_Rarely,0
+EMP-1205,Employee 1205,52,Female,Sales,Sales Representative,Other,3465.44,4,2,1,1,1,0,1,3,3,3,3,3,No,Non-Travel,0
+EMP-1206,Employee 1206,18,Female,Sales,Sales Executive,Human Resources,3324.98,1,2,0,0,0,0,0,4,3,3,3,3,Yes,Travel_Rarely,0
+EMP-1207,Employee 1207,31,Female,Research & Development,Healthcare Representative,Marketing,6518.11,3,6,13,9,5,0,1,4,3,2,2,3,Yes,Travel_Rarely,0
+EMP-1208,Employee 1208,43,Male,Research & Development,Manager,Marketing,13480.94,20,4,11,11,5,2,8,3,3,4,3,4,No,Travel_Rarely,0
+EMP-1209,Employee 1209,41,Male,Sales,Sales Executive,Life Sciences,5171.56,1,1,6,6,0,0,4,4,2,3,2,3,Yes,Travel_Rarely,0
+EMP-1210,Employee 1210,42,Male,Research & Development,Manufacturing Director,Technical Degree,15423.05,4,1,20,8,2,0,2,1,3,3,3,3,No,Travel_Frequently,0
+EMP-1211,Employee 1211,42,Male,Research & Development,Manager,Life Sciences,13553.13,6,2,15,8,6,5,5,2,4,3,2,3,No,Travel_Frequently,0
+EMP-1212,Employee 1212,31,Male,Research & Development,Laboratory Technician,Human Resources,6969.91,20,4,13,0,0,0,0,4,4,3,1,3,Yes,Travel_Rarely,0
+EMP-1213,Employee 1213,38,Male,Human Resources,Manager,Marketing,11200.46,2,2,12,0,0,0,0,2,2,1,3,3,No,Travel_Rarely,1
+EMP-1214,Employee 1214,24,Female,Research & Development,Research Scientist,Other,2763.02,20,1,6,2,2,1,2,4,4,3,2,3,Yes,Travel_Rarely,0
+EMP-1215,Employee 1215,31,Female,Research & Development,Healthcare Representative,Human Resources,7848.23,2,3,13,5,1,1,3,2,1,3,3,3,Yes,Travel_Frequently,0
+EMP-1216,Employee 1216,45,Female,Sales,Manager,Other,11415.41,13,4,12,6,2,0,3,2,2,3,4,3,Yes,Travel_Rarely,0
+EMP-1217,Employee 1217,30,Female,Research & Development,Manufacturing Director,Other,11369.81,13,2,12,0,0,0,0,2,3,2,3,4,Yes,Travel_Rarely,0
+EMP-1218,Employee 1218,48,Male,Research & Development,Manager,Other,14324.72,4,0,15,6,5,1,4,2,3,4,3,4,No,Travel_Frequently,0
+EMP-1219,Employee 1219,36,Male,Research & Development,Manufacturing Director,Marketing,16081.48,1,1,16,10,6,1,4,1,2,3,4,3,No,Travel_Frequently,0
+EMP-1220,Employee 1220,46,Male,Research & Development,Research Scientist,Life Sciences,7244.32,15,5,14,11,2,3,7,3,2,1,3,3,No,Travel_Frequently,0
+EMP-1221,Employee 1221,38,Female,Research & Development,Healthcare Representative,Human Resources,3302.54,25,2,4,4,3,4,4,1,3,3,3,3,No,Travel_Rarely,0
+EMP-1222,Employee 1222,23,Male,Sales,Sales Executive,Life Sciences,5109.68,19,1,5,0,0,0,0,4,4,3,3,3,No,Travel_Frequently,0
+EMP-1223,Employee 1223,44,Male,Research & Development,Research Scientist,Marketing,9416.9,3,4,18,8,3,0,4,3,1,3,2,3,No,Travel_Rarely,0
+EMP-1224,Employee 1224,31,Female,Research & Development,Healthcare Representative,Human Resources,3201.78,9,2,1,1,1,1,1,4,4,4,3,3,No,Travel_Frequently,0
+EMP-1225,Employee 1225,47,Female,Research & Development,Manufacturing Director,Human Resources,14366.28,13,4,12,6,0,6,2,2,2,3,3,3,No,Travel_Rarely,0
+EMP-1226,Employee 1226,47,Female,Research & Development,Manufacturing Director,Other,13232.16,25,0,14,10,6,0,3,2,4,4,4,3,No,Travel_Frequently,0
+EMP-1227,Employee 1227,35,Male,Sales,Manager,Medical,12647.52,14,1,13,6,4,0,4,2,2,3,1,3,No,Travel_Rarely,0
+EMP-1228,Employee 1228,41,Male,Research & Development,Manager,Medical,10037.81,5,2,7,7,0,1,0,1,1,3,3,3,Yes,Travel_Rarely,1
+EMP-1229,Employee 1229,42,Male,Research & Development,Manufacturing Director,Life Sciences,14807.01,6,3,20,18,0,0,7,3,1,3,2,3,Yes,Travel_Rarely,0
+EMP-1230,Employee 1230,36,Female,Research & Development,Manager,Technical Degree,11252.26,30,2,9,7,2,0,4,1,3,2,2,3,No,Non-Travel,1
+EMP-1231,Employee 1231,27,Male,Research & Development,Research Scientist,Human Resources,6309.57,17,1,9,5,5,2,1,3,3,4,2,3,No,Travel_Rarely,0
+EMP-1232,Employee 1232,53,Male,Research & Development,Laboratory Technician,Life Sciences,3226.68,30,2,6,1,1,1,1,2,1,1,3,3,No,Travel_Frequently,1
+EMP-1233,Employee 1233,31,Male,Sales,Sales Executive,Other,6352.31,13,4,13,1,1,1,1,4,3,2,3,3,No,Travel_Rarely,1
+EMP-1234,Employee 1234,27,Female,Research & Development,Manager,Life Sciences,10051.67,2,1,4,1,1,1,1,4,1,2,3,3,No,Travel_Rarely,1
+EMP-1235,Employee 1235,55,Male,Research & Development,Manufacturing Director,Medical,10585.56,6,3,5,5,0,3,3,3,4,3,3,4,No,Travel_Rarely,0
+EMP-1236,Employee 1236,18,Male,Sales,Sales Representative,Human Resources,3240.65,11,5,0,0,0,0,0,3,1,2,2,4,Yes,Travel_Rarely,0
+EMP-1237,Employee 1237,24,Male,Sales,Sales Representative,Marketing,3228.63,8,8,4,4,4,2,4,2,4,4,1,3,No,Travel_Rarely,0
+EMP-1238,Employee 1238,30,Female,Sales,Sales Executive,Technical Degree,6928.92,20,4,12,9,4,1,4,4,2,4,3,3,No,Travel_Frequently,0
+EMP-1239,Employee 1239,44,Male,Sales,Manager,Other,12279.1,24,4,10,3,3,3,3,1,1,3,3,3,No,Travel_Rarely,1
+EMP-1240,Employee 1240,18,Male,Research & Development,Research Scientist,Marketing,2366.02,10,2,0,0,0,0,0,4,4,3,3,3,No,Non-Travel,0
+EMP-1241,Employee 1241,41,Male,Research & Development,Manager,Other,9252.09,2,3,6,6,3,3,5,4,4,1,2,3,No,Non-Travel,0
+EMP-1242,Employee 1242,27,Male,Sales,Manager,Human Resources,11392.22,1,2,9,0,0,0,0,4,2,4,3,3,No,Travel_Frequently,1
+EMP-1243,Employee 1243,63,Male,Sales,Manager,Human Resources,9743.16,5,4,4,4,4,0,4,3,1,3,1,3,No,Travel_Rarely,0
+EMP-1244,Employee 1244,49,Male,Research & Development,Laboratory Technician,Other,2000.0,21,1,0,0,0,0,0,1,2,3,3,3,No,Travel_Frequently,1
+EMP-1245,Employee 1245,56,Female,Sales,Sales Executive,Technical Degree,9059.2,6,0,18,6,6,3,5,3,4,3,3,3,No,Travel_Rarely,0
+EMP-1246,Employee 1246,37,Male,Sales,Sales Executive,Life Sciences,5747.56,1,1,5,5,1,0,5,4,1,3,3,3,No,Travel_Rarely,0
+EMP-1247,Employee 1247,35,Female,Research & Development,Healthcare Representative,Technical Degree,7572.15,1,1,17,11,10,5,7,3,2,2,2,3,Yes,Travel_Rarely,1
+EMP-1248,Employee 1248,35,Female,Research & Development,Manufacturing Director,Life Sciences,12317.78,4,1,14,11,2,0,1,4,3,3,3,3,Yes,Travel_Rarely,1
+EMP-1249,Employee 1249,36,Male,Human Resources,Manager,Medical,13589.1,17,4,14,3,3,0,2,2,4,4,2,3,No,Travel_Rarely,0
+EMP-1250,Employee 1250,31,Male,Human Resources,Manager,Human Resources,13511.4,6,3,13,10,5,0,4,1,2,3,2,3,No,Travel_Rarely,0
+EMP-1251,Employee 1251,39,Female,Research & Development,Manufacturing Director,Marketing,11887.94,7,3,11,1,1,0,1,4,4,3,2,4,No,Travel_Frequently,1
+EMP-1252,Employee 1252,18,Female,Research & Development,Manufacturing Director,Human Resources,9805.55,15,1,0,0,0,0,0,3,2,4,2,3,No,Travel_Rarely,0
+EMP-1253,Employee 1253,34,Female,Sales,Manager,Human Resources,9821.59,1,2,4,4,4,2,4,2,3,2,3,4,No,Travel_Rarely,0
+EMP-1254,Employee 1254,42,Male,Research & Development,Research Director,Life Sciences,12726.02,4,3,14,3,3,3,1,3,3,4,3,4,No,Travel_Frequently,0
+EMP-1255,Employee 1255,33,Female,Sales,Manager,Technical Degree,15649.92,23,2,15,1,1,0,1,3,3,3,2,3,Yes,Travel_Rarely,0
+EMP-1256,Employee 1256,48,Male,Research & Development,Laboratory Technician,Other,6702.81,6,4,15,1,0,0,1,4,3,4,3,3,Yes,Travel_Frequently,1
+EMP-1257,Employee 1257,47,Female,Research & Development,Manager,Other,11975.34,7,3,11,11,6,0,0,4,2,3,2,4,No,Travel_Frequently,1
+EMP-1258,Employee 1258,47,Female,Research & Development,Manufacturing Director,Medical,11296.22,14,6,6,6,1,5,6,4,1,3,3,3,No,Travel_Rarely,0
+EMP-1259,Employee 1259,28,Female,Research & Development,Manager,Marketing,9873.1,15,3,4,4,4,0,2,3,3,3,3,4,No,Travel_Frequently,0
+EMP-1260,Employee 1260,38,Male,Research & Development,Healthcare Representative,Other,6687.91,1,2,11,3,3,3,0,4,2,3,3,3,Yes,Travel_Frequently,0
+EMP-1261,Employee 1261,41,Male,Sales,Sales Representative,Medical,6384.89,1,1,13,11,3,0,1,1,2,3,3,3,No,Travel_Rarely,0
+EMP-1262,Employee 1262,49,Male,Research & Development,Laboratory Technician,Medical,8423.96,3,5,19,15,1,0,4,2,3,3,1,3,Yes,Travel_Rarely,1
+EMP-1263,Employee 1263,52,Female,Research & Development,Healthcare Representative,Life Sciences,4919.65,6,3,9,0,0,0,0,1,2,3,4,3,Yes,Travel_Rarely,1
+EMP-1264,Employee 1264,43,Male,Research & Development,Healthcare Representative,Human Resources,3474.24,13,3,6,6,6,4,5,1,4,3,3,3,No,Travel_Rarely,0
+EMP-1265,Employee 1265,41,Male,Human Resources,Manager,Marketing,8939.87,3,3,7,7,7,0,5,2,3,2,3,3,No,Non-Travel,0
+EMP-1266,Employee 1266,38,Male,Research & Development,Laboratory Technician,Medical,6704.74,2,1,13,5,5,3,5,1,4,3,3,3,No,Travel_Frequently,0
+EMP-1267,Employee 1267,41,Male,Sales,Manager,Technical Degree,15685.94,1,1,18,4,4,2,4,4,4,3,2,3,No,Non-Travel,1
+EMP-1268,Employee 1268,39,Male,Research & Development,Laboratory Technician,Technical Degree,6665.27,4,3,11,6,0,2,6,2,4,3,3,3,No,Travel_Rarely,0
+EMP-1269,Employee 1269,23,Female,Sales,Sales Representative,Medical,2000.0,1,4,0,0,0,0,0,3,4,3,2,3,No,Travel_Rarely,0
+EMP-1270,Employee 1270,25,Female,Research & Development,Research Scientist,Other,5427.98,9,3,7,7,3,0,6,4,3,1,2,4,No,Travel_Rarely,0
+EMP-1271,Employee 1271,27,Male,Research & Development,Manager,Human Resources,6970.33,8,1,0,0,0,0,0,1,3,3,2,3,Yes,Travel_Frequently,1
+EMP-1272,Employee 1272,47,Male,Research & Development,Manager,Life Sciences,14637.98,2,2,15,6,6,0,6,3,3,2,2,3,No,Travel_Rarely,0
+EMP-1273,Employee 1273,49,Male,Research & Development,Manufacturing Director,Human Resources,10471.12,17,3,5,3,3,3,3,1,1,1,2,3,No,Travel_Rarely,1
+EMP-1274,Employee 1274,23,Male,Sales,Manager,Human Resources,9107.39,26,4,5,5,0,0,5,4,1,1,2,3,No,Travel_Rarely,0
+EMP-1275,Employee 1275,38,Male,Research & Development,Manager,Medical,10972.69,2,1,9,2,2,2,2,2,4,1,2,3,No,Travel_Frequently,1
+EMP-1276,Employee 1276,46,Male,Research & Development,Manager,Technical Degree,15115.39,21,2,17,12,7,4,2,4,2,4,4,3,No,Travel_Rarely,1
+EMP-1277,Employee 1277,38,Female,Research & Development,Manufacturing Director,Technical Degree,8685.67,30,3,0,0,0,0,0,4,3,2,3,4,No,Travel_Rarely,0
+EMP-1278,Employee 1278,36,Female,Research & Development,Laboratory Technician,Marketing,6530.55,30,1,8,6,3,3,4,2,3,3,4,3,Yes,Travel_Frequently,1
+EMP-1279,Employee 1279,39,Female,Research & Development,Laboratory Technician,Marketing,9845.27,2,0,21,3,3,1,0,3,3,2,3,3,Yes,Travel_Rarely,0
+EMP-1280,Employee 1280,32,Male,Research & Development,Manager,Medical,12296.43,2,1,10,10,0,0,9,4,3,4,4,3,No,Travel_Rarely,0
+EMP-1281,Employee 1281,51,Male,Sales,Sales Executive,Other,6781.13,30,5,17,1,1,1,1,3,3,1,2,3,Yes,Travel_Rarely,1
+EMP-1282,Employee 1282,38,Male,Research & Development,Research Scientist,Medical,5880.82,5,3,7,6,2,0,2,1,3,3,3,3,Yes,Travel_Frequently,0
+EMP-1283,Employee 1283,40,Female,Sales,Sales Representative,Human Resources,5316.58,2,3,4,2,2,2,0,2,3,4,3,3,No,Travel_Rarely,0
+EMP-1284,Employee 1284,39,Female,Sales,Sales Representative,Other,2980.97,1,2,2,2,2,2,2,1,2,3,4,3,No,Travel_Frequently,0
+EMP-1285,Employee 1285,42,Male,Human Resources,Manager,Technical Degree,13386.43,9,5,11,6,5,4,4,4,4,4,4,3,No,Travel_Frequently,0
+EMP-1286,Employee 1286,39,Male,Research & Development,Manager,Other,13501.19,5,2,18,3,0,0,0,3,2,3,2,3,Yes,Non-Travel,0
+EMP-1287,Employee 1287,55,Female,Research & Development,Healthcare Representative,Technical Degree,8335.98,1,2,15,3,0,2,1,4,3,3,4,3,Yes,Travel_Rarely,0
+EMP-1288,Employee 1288,34,Female,Research & Development,Research Director,Medical,10575.16,17,5,5,5,0,1,5,4,4,3,4,3,No,Non-Travel,0
+EMP-1289,Employee 1289,31,Female,Research & Development,Research Director,Life Sciences,9486.17,5,3,5,0,0,0,0,1,4,2,2,3,No,Travel_Frequently,1
+EMP-1290,Employee 1290,39,Male,Human Resources,Manager,Technical Degree,9317.65,1,2,0,0,0,0,0,4,1,3,2,4,Yes,Travel_Rarely,0
+EMP-1291,Employee 1291,39,Male,Research & Development,Research Director,Medical,8004.74,5,1,2,2,2,1,2,4,3,2,4,4,No,Travel_Rarely,0
+EMP-1292,Employee 1292,32,Male,Research & Development,Healthcare Representative,Medical,4014.21,1,2,5,5,5,1,5,4,1,3,2,4,No,Travel_Rarely,0
+EMP-1293,Employee 1293,34,Female,Research & Development,Laboratory Technician,Life Sciences,10685.91,23,5,16,1,1,1,1,2,3,2,3,3,No,Travel_Rarely,1
+EMP-1294,Employee 1294,38,Male,Sales,Manager,Other,9682.91,19,2,3,0,0,0,0,2,3,2,3,3,No,Travel_Rarely,0
+EMP-1295,Employee 1295,36,Male,Human Resources,Human Resources,Life Sciences,8708.4,1,1,10,0,0,0,0,1,4,2,1,3,No,Travel_Rarely,1
+EMP-1296,Employee 1296,44,Female,Research & Development,Research Scientist,Human Resources,3146.01,7,0,7,7,3,3,3,2,3,2,2,4,No,Travel_Rarely,0
+EMP-1297,Employee 1297,46,Male,Research & Development,Laboratory Technician,Life Sciences,2298.83,3,1,5,5,0,2,0,1,1,3,2,3,Yes,Travel_Rarely,0
+EMP-1298,Employee 1298,18,Male,Sales,Sales Representative,Other,2000.0,9,3,0,0,0,0,0,4,4,2,2,3,No,Travel_Rarely,0
+EMP-1299,Employee 1299,50,Female,Research & Development,Manager,Life Sciences,11329.82,18,3,8,8,7,1,5,4,4,4,1,3,No,Travel_Rarely,1
+EMP-1300,Employee 1300,46,Male,Research & Development,Research Director,Human Resources,10769.26,9,3,11,11,2,2,0,1,4,2,3,3,No,Travel_Rarely,0
+EMP-1301,Employee 1301,41,Male,Research & Development,Manufacturing Director,Human Resources,10888.54,15,3,5,5,4,1,5,2,2,3,4,3,Yes,Travel_Rarely,1
+EMP-1302,Employee 1302,48,Male,Research & Development,Research Director,Other,14287.98,2,2,15,3,3,3,3,4,2,4,3,4,Yes,Travel_Rarely,1
+EMP-1303,Employee 1303,34,Male,Sales,Sales Representative,Other,3475.52,1,2,6,6,3,0,6,3,3,4,3,3,Yes,Travel_Rarely,0
+EMP-1304,Employee 1304,51,Female,Research & Development,Manager,Technical Degree,16803.22,1,0,23,1,1,0,1,1,1,3,3,3,No,Travel_Rarely,0
+EMP-1305,Employee 1305,29,Male,Research & Development,Research Scientist,Life Sciences,7512.0,30,0,11,6,0,3,3,3,2,3,3,3,No,Travel_Rarely,0
+EMP-1306,Employee 1306,38,Female,Sales,Sales Representative,Other,7386.22,6,2,17,13,0,2,3,1,1,4,3,3,Yes,Non-Travel,1
+EMP-1307,Employee 1307,49,Male,Sales,Sales Executive,Other,8065.27,17,2,19,6,0,0,2,3,1,1,3,3,Yes,Travel_Rarely,1
+EMP-1308,Employee 1308,18,Male,Research & Development,Manufacturing Director,Marketing,10842.7,5,4,0,0,0,0,0,3,2,3,1,3,No,Travel_Rarely,0
+EMP-1309,Employee 1309,36,Male,Sales,Manager,Life Sciences,12944.99,6,1,17,6,3,3,6,3,3,3,2,3,No,Travel_Rarely,1
+EMP-1310,Employee 1310,50,Male,Research & Development,Healthcare Representative,Other,8595.13,8,2,18,1,1,0,1,2,2,3,4,3,Yes,Travel_Rarely,0
+EMP-1311,Employee 1311,36,Female,Research & Development,Manufacturing Director,Other,10646.97,1,5,12,2,0,0,2,2,3,3,1,3,No,Travel_Rarely,0
+EMP-1312,Employee 1312,38,Female,Research & Development,Research Scientist,Marketing,7464.66,11,3,16,6,0,0,4,1,4,4,3,3,No,Travel_Frequently,0
+EMP-1313,Employee 1313,29,Male,Research & Development,Healthcare Representative,Life Sciences,6297.19,1,3,11,3,3,0,3,3,4,2,3,3,No,Non-Travel,0
+EMP-1314,Employee 1314,57,Male,Research & Development,Manager,Life Sciences,15226.69,9,4,15,8,0,5,6,3,3,2,3,3,No,Travel_Rarely,0
+EMP-1315,Employee 1315,25,Male,Research & Development,Manufacturing Director,Life Sciences,9139.88,1,1,7,7,4,3,2,1,4,3,2,3,No,Travel_Frequently,0
+EMP-1316,Employee 1316,42,Male,Research & Development,Manufacturing Director,Medical,7872.75,7,4,0,0,0,0,0,3,1,4,3,3,No,Travel_Rarely,0
+EMP-1317,Employee 1317,39,Male,Human Resources,Manager,Other,12939.22,16,5,16,7,1,0,0,4,3,4,2,4,No,Travel_Rarely,0
+EMP-1318,Employee 1318,47,Male,Sales,Sales Representative,Human Resources,5184.97,17,7,10,0,0,0,0,3,4,3,3,3,No,Travel_Rarely,0
+EMP-1319,Employee 1319,45,Female,Sales,Manager,Medical,13796.23,30,1,13,11,0,5,7,2,1,3,3,4,No,Travel_Rarely,1
+EMP-1320,Employee 1320,22,Male,Research & Development,Healthcare Representative,Other,3151.34,13,0,4,4,4,4,1,1,4,1,2,3,No,Travel_Rarely,0
+EMP-1321,Employee 1321,42,Male,Research & Development,Healthcare Representative,Technical Degree,8598.77,1,3,17,5,2,0,5,4,1,3,3,3,No,Non-Travel,1
+EMP-1322,Employee 1322,53,Male,Sales,Sales Representative,Technical Degree,7235.67,7,1,14,5,5,1,5,3,1,3,2,3,No,Travel_Rarely,0
+EMP-1323,Employee 1323,51,Male,Research & Development,Manager,Other,11073.11,3,2,9,4,2,3,2,4,2,4,4,3,Yes,Travel_Rarely,0
+EMP-1324,Employee 1324,43,Female,Research & Development,Manager,Medical,13980.55,17,4,16,11,5,3,1,4,1,4,4,4,Yes,Travel_Rarely,0
+EMP-1325,Employee 1325,50,Male,Research & Development,Manufacturing Director,Technical Degree,8912.69,1,0,5,0,0,0,0,3,4,3,4,4,No,Travel_Rarely,0
+EMP-1326,Employee 1326,45,Male,Sales,Sales Representative,Medical,6053.6,4,7,14,0,0,0,0,2,3,4,2,3,No,Travel_Rarely,1
+EMP-1327,Employee 1327,60,Male,Human Resources,Manager,Other,16028.67,2,1,23,3,2,3,3,4,4,3,3,3,No,Travel_Rarely,0
+EMP-1328,Employee 1328,36,Male,Research & Development,Research Scientist,Marketing,7428.2,14,2,13,0,0,0,0,2,2,4,3,3,No,Travel_Rarely,0
+EMP-1329,Employee 1329,18,Female,Sales,Sales Representative,Marketing,2148.35,4,2,0,0,0,0,0,1,1,4,4,3,No,Travel_Frequently,1
+EMP-1330,Employee 1330,42,Female,Research & Development,Laboratory Technician,Other,8386.49,5,2,14,0,0,0,0,1,3,2,2,3,No,Travel_Rarely,0
+EMP-1331,Employee 1331,18,Male,Research & Development,Laboratory Technician,Human Resources,2260.57,12,2,0,0,0,0,0,3,2,4,3,4,No,Travel_Frequently,1
+EMP-1332,Employee 1332,58,Female,Research & Development,Research Director,Human Resources,8565.62,3,4,3,3,3,0,3,3,1,4,3,3,Yes,Travel_Rarely,0
+EMP-1333,Employee 1333,37,Male,Research & Development,Research Scientist,Marketing,6073.24,16,2,14,3,3,0,3,4,4,1,2,3,No,Travel_Rarely,0
+EMP-1334,Employee 1334,18,Male,Research & Development,Manager,Medical,8164.37,4,1,0,0,0,0,0,1,3,4,3,3,No,Travel_Rarely,0
+EMP-1335,Employee 1335,45,Male,Research & Development,Laboratory Technician,Human Resources,2676.26,11,2,5,4,0,0,0,3,2,3,3,3,No,Travel_Rarely,0
+EMP-1336,Employee 1336,46,Male,Research & Development,Laboratory Technician,Human Resources,9296.32,30,6,18,5,4,1,0,1,4,3,3,3,Yes,Travel_Rarely,0
+EMP-1337,Employee 1337,35,Male,Research & Development,Manufacturing Director,Life Sciences,10097.02,3,1,6,2,2,2,0,4,3,3,2,3,No,Travel_Rarely,0
+EMP-1338,Employee 1338,33,Female,Sales,Sales Executive,Medical,5698.94,7,1,8,3,0,3,3,2,4,3,2,3,No,Travel_Rarely,0
+EMP-1339,Employee 1339,27,Male,Research & Development,Manager,Marketing,8573.02,4,0,1,0,0,0,0,3,3,1,2,3,No,Travel_Rarely,0
+EMP-1340,Employee 1340,38,Male,Sales,Sales Executive,Life Sciences,6077.16,15,6,10,1,1,1,1,3,3,3,3,3,No,Travel_Rarely,0
+EMP-1341,Employee 1341,43,Female,Research & Development,Laboratory Technician,Marketing,9361.86,11,1,17,9,0,3,6,4,4,3,4,4,No,Travel_Rarely,0
+EMP-1342,Employee 1342,43,Male,Research & Development,Manager,Medical,19861.25,19,1,25,9,4,1,7,3,3,3,2,3,No,Travel_Rarely,0
+EMP-1343,Employee 1343,34,Male,Research & Development,Research Scientist,Medical,8619.51,3,3,16,1,1,0,1,1,3,4,3,3,No,Travel_Rarely,0
+EMP-1344,Employee 1344,36,Male,Research & Development,Laboratory Technician,Human Resources,4476.09,3,3,4,0,0,0,0,4,4,3,4,3,No,Travel_Rarely,0
+EMP-1345,Employee 1345,26,Male,Sales,Sales Representative,Technical Degree,2486.65,13,3,0,0,0,0,0,1,2,3,3,3,No,Travel_Rarely,0
+EMP-1346,Employee 1346,19,Male,Human Resources,Manager,Technical Degree,8403.55,5,2,1,1,1,0,0,1,3,3,4,3,No,Travel_Rarely,1
+EMP-1347,Employee 1347,37,Female,Research & Development,Research Scientist,Life Sciences,5597.26,30,1,6,6,5,0,5,1,4,1,4,3,No,Travel_Rarely,1
+EMP-1348,Employee 1348,23,Male,Human Resources,Human Resources,Life Sciences,4339.86,1,2,5,5,1,2,4,3,4,3,2,3,No,Travel_Frequently,1
+EMP-1349,Employee 1349,24,Female,Research & Development,Research Scientist,Medical,2976.95,16,3,6,0,0,0,0,3,4,3,3,3,Yes,Travel_Rarely,0
+EMP-1350,Employee 1350,33,Female,Research & Development,Research Scientist,Other,5989.73,3,0,12,8,2,1,7,2,3,2,3,3,No,Travel_Rarely,0
+EMP-1351,Employee 1351,38,Male,Research & Development,Healthcare Representative,Human Resources,4137.51,11,4,2,2,2,2,2,3,4,2,3,4,No,Travel_Rarely,0
+EMP-1352,Employee 1352,20,Female,Sales,Sales Representative,Human Resources,2000.0,3,0,2,2,2,1,2,1,3,3,3,3,Yes,Non-Travel,0
+EMP-1353,Employee 1353,38,Male,Research & Development,Research Scientist,Technical Degree,6273.06,4,2,12,0,0,0,0,1,1,2,3,3,No,Travel_Rarely,0
+EMP-1354,Employee 1354,30,Male,Research & Development,Laboratory Technician,Life Sciences,6539.21,24,1,12,6,5,1,6,4,2,2,3,3,No,Travel_Rarely,1
+EMP-1355,Employee 1355,56,Male,Research & Development,Manager,Medical,15782.22,8,1,17,8,1,2,5,2,4,3,1,3,Yes,Travel_Rarely,0
+EMP-1356,Employee 1356,42,Female,Research & Development,Research Director,Other,15646.45,1,1,17,11,1,4,0,1,1,2,2,3,Yes,Travel_Rarely,1
+EMP-1357,Employee 1357,38,Female,Research & Development,Manager,Medical,10322.34,1,1,4,4,4,3,3,4,1,3,3,3,No,Travel_Rarely,0
+EMP-1358,Employee 1358,23,Female,Sales,Sales Representative,Other,4730.77,1,0,5,5,4,2,4,1,3,3,3,3,No,Travel_Rarely,0
+EMP-1359,Employee 1359,45,Male,Research & Development,Manager,Other,12882.8,1,4,7,5,5,0,0,4,4,3,3,3,Yes,Travel_Rarely,0
+EMP-1360,Employee 1360,21,Female,Research & Development,Research Scientist,Technical Degree,3551.83,24,3,3,3,3,0,3,4,3,3,3,3,No,Travel_Rarely,0
+EMP-1361,Employee 1361,53,Female,Research & Development,Manager,Other,13281.23,6,2,15,3,3,2,3,4,4,2,3,3,No,Travel_Frequently,0
+EMP-1362,Employee 1362,40,Male,Sales,Sales Executive,Technical Degree,3049.61,1,1,8,4,4,2,4,2,4,4,2,3,No,Travel_Rarely,0
+EMP-1363,Employee 1363,32,Male,Sales,Sales Representative,Human Resources,3123.21,1,2,3,3,0,3,3,1,3,1,3,3,No,Travel_Frequently,0
+EMP-1364,Employee 1364,30,Male,Sales,Manager,Human Resources,13602.89,11,4,12,12,5,1,5,4,4,3,3,3,No,Travel_Rarely,0
+EMP-1365,Employee 1365,31,Female,Research & Development,Manufacturing Director,Other,11637.78,17,1,8,8,4,0,2,3,2,3,2,3,No,Travel_Rarely,0
+EMP-1366,Employee 1366,40,Male,Research & Development,Research Scientist,Life Sciences,4535.18,1,5,10,0,0,0,0,4,1,4,2,3,No,Travel_Rarely,0
+EMP-1367,Employee 1367,46,Male,Research & Development,Laboratory Technician,Technical Degree,9952.88,4,3,21,5,4,5,4,3,3,2,3,4,Yes,Non-Travel,0
+EMP-1368,Employee 1368,28,Female,Sales,Manager,Technical Degree,10078.95,30,3,9,1,1,1,1,2,3,2,2,3,No,Travel_Rarely,1
+EMP-1369,Employee 1369,19,Female,Research & Development,Healthcare Representative,Medical,2402.38,4,2,1,1,1,1,0,3,3,3,3,3,Yes,Travel_Rarely,1
+EMP-1370,Employee 1370,40,Male,Research & Development,Research Scientist,Human Resources,8643.4,4,4,18,12,7,0,5,3,4,2,3,4,No,Travel_Rarely,0
+EMP-1371,Employee 1371,47,Female,Research & Development,Laboratory Technician,Medical,6523.55,14,2,10,7,1,3,6,3,2,3,3,3,No,Travel_Frequently,0
+EMP-1372,Employee 1372,44,Male,Sales,Sales Executive,Other,9386.51,6,1,18,6,4,0,5,2,1,3,2,3,No,Travel_Rarely,0
+EMP-1373,Employee 1373,36,Female,Research & Development,Laboratory Technician,Technical Degree,6837.61,26,3,11,5,4,3,4,2,2,2,3,3,No,Travel_Rarely,1
+EMP-1374,Employee 1374,28,Female,Research & Development,Laboratory Technician,Medical,5342.96,4,0,10,4,0,0,4,3,2,3,3,3,No,Travel_Rarely,0
+EMP-1375,Employee 1375,50,Male,Research & Development,Laboratory Technician,Medical,8408.36,11,1,18,6,1,0,2,2,2,2,3,3,No,Travel_Rarely,0
+EMP-1376,Employee 1376,37,Male,Sales,Sales Representative,Technical Degree,10870.09,7,3,19,3,3,1,3,3,3,3,3,3,No,Travel_Rarely,0
+EMP-1377,Employee 1377,25,Female,Research & Development,Manufacturing Director,Life Sciences,12015.42,2,0,7,7,7,0,0,4,1,3,2,3,Yes,Travel_Rarely,0
+EMP-1378,Employee 1378,39,Female,Sales,Manager,Medical,9477.55,14,0,3,3,3,0,2,2,4,3,3,3,No,Travel_Rarely,0
+EMP-1379,Employee 1379,34,Male,Sales,Sales Executive,Technical Degree,10024.04,1,1,16,15,0,1,4,4,2,3,3,3,No,Travel_Rarely,0
+EMP-1380,Employee 1380,45,Male,Sales,Sales Representative,Other,3369.67,5,2,0,0,0,0,0,3,3,3,1,3,No,Travel_Rarely,0
+EMP-1381,Employee 1381,35,Male,Research & Development,Research Director,Technical Degree,11198.36,9,4,13,3,3,3,3,2,2,4,2,3,Yes,Travel_Frequently,0
+EMP-1382,Employee 1382,43,Male,Research & Development,Manager,Human Resources,8719.23,11,1,7,1,0,1,1,2,4,3,4,4,Yes,Travel_Rarely,1
+EMP-1383,Employee 1383,36,Male,Research & Development,Manager,Other,11391.58,1,2,7,5,2,0,4,1,3,1,3,3,Yes,Non-Travel,0
+EMP-1384,Employee 1384,39,Male,Research & Development,Manufacturing Director,Human Resources,12293.96,11,5,5,5,5,3,5,3,4,1,3,3,Yes,Non-Travel,0
+EMP-1385,Employee 1385,42,Male,Research & Development,Manufacturing Director,Technical Degree,12580.29,1,3,14,3,3,2,3,1,4,3,3,3,No,Travel_Rarely,0
+EMP-1386,Employee 1386,23,Female,Research & Development,Manufacturing Director,Human Resources,10573.71,13,3,5,5,4,3,3,3,4,3,3,3,No,Travel_Rarely,0
+EMP-1387,Employee 1387,36,Male,Research & Development,Healthcare Representative,Human Resources,8892.66,3,5,15,5,0,1,0,2,2,4,3,4,Yes,Travel_Rarely,1
+EMP-1388,Employee 1388,43,Female,Sales,Sales Representative,Medical,8982.44,4,1,16,7,3,1,7,3,4,4,2,3,Yes,Travel_Rarely,0
+EMP-1389,Employee 1389,42,Female,Human Resources,Manager,Medical,9087.08,3,2,2,0,0,0,0,1,1,2,2,3,No,Travel_Rarely,0
+EMP-1390,Employee 1390,42,Female,Research & Development,Laboratory Technician,Technical Degree,8571.36,4,3,20,1,1,1,1,3,3,2,2,3,No,Travel_Frequently,0
+EMP-1391,Employee 1391,34,Male,Research & Development,Manager,Marketing,13459.09,7,1,16,3,3,3,3,3,4,3,4,3,No,Travel_Rarely,0
+EMP-1392,Employee 1392,37,Female,Sales,Sales Executive,Marketing,5124.83,8,1,6,4,3,3,3,4,2,3,3,3,No,Travel_Rarely,1
+EMP-1393,Employee 1393,33,Female,Human Resources,Manager,Other,11777.71,15,2,10,2,2,2,2,1,4,3,3,3,No,Travel_Rarely,0
+EMP-1394,Employee 1394,49,Male,Research & Development,Manufacturing Director,Technical Degree,11547.82,9,1,11,0,0,0,0,4,3,3,2,3,Yes,Travel_Frequently,0
+EMP-1395,Employee 1395,27,Male,Research & Development,Research Director,Life Sciences,8662.17,1,1,0,0,0,0,0,2,1,2,3,3,No,Travel_Frequently,0
+EMP-1396,Employee 1396,41,Female,Sales,Sales Executive,Marketing,4311.97,2,3,6,5,5,0,4,3,3,1,1,3,No,Travel_Rarely,0
+EMP-1397,Employee 1397,36,Female,Research & Development,Healthcare Representative,Medical,2972.54,2,2,5,2,2,0,2,3,4,3,2,3,No,Travel_Rarely,0
+EMP-1398,Employee 1398,40,Female,Research & Development,Manufacturing Director,Medical,11755.41,6,1,12,4,4,1,1,1,3,4,3,3,No,Travel_Rarely,0
+EMP-1399,Employee 1399,45,Male,Sales,Sales Representative,Other,3887.11,8,3,5,3,3,0,3,1,3,2,1,3,Yes,Travel_Rarely,1
+EMP-1400,Employee 1400,42,Female,Research & Development,Manager,Human Resources,13026.13,1,2,14,11,0,4,7,4,3,3,2,3,No,Travel_Rarely,0
+EMP-1401,Employee 1401,21,Female,Research & Development,Manager,Marketing,10162.48,4,3,3,3,0,0,3,2,4,3,3,3,Yes,Travel_Frequently,0
+EMP-1402,Employee 1402,19,Female,Research & Development,Manufacturing Director,Human Resources,10635.15,8,1,0,0,0,0,0,3,4,4,3,3,No,Travel_Frequently,0
+EMP-1403,Employee 1403,28,Male,Sales,Sales Executive,Marketing,6717.66,8,5,10,10,4,2,7,3,2,3,1,3,Yes,Travel_Rarely,0
+EMP-1404,Employee 1404,33,Male,Research & Development,Healthcare Representative,Other,9185.26,8,4,12,8,3,3,2,2,2,3,3,3,Yes,Travel_Rarely,1
+EMP-1405,Employee 1405,50,Male,Sales,Sales Executive,Medical,10315.77,2,2,19,19,2,0,4,2,3,3,2,4,No,Travel_Rarely,0
+EMP-1406,Employee 1406,46,Female,Research & Development,Manufacturing Director,Life Sciences,11976.02,1,3,10,9,2,0,8,4,3,4,2,3,No,Travel_Rarely,0
+EMP-1407,Employee 1407,29,Male,Sales,Sales Representative,Life Sciences,4832.6,16,3,6,0,0,0,0,2,1,3,3,3,Yes,Travel_Rarely,0
+EMP-1408,Employee 1408,35,Female,Research & Development,Healthcare Representative,Life Sciences,7256.03,3,3,13,1,1,1,1,4,2,3,3,4,Yes,Travel_Rarely,0
+EMP-1409,Employee 1409,35,Female,Research & Development,Healthcare Representative,Human Resources,9603.71,1,5,15,2,2,0,0,3,4,4,3,3,No,Travel_Rarely,0
+EMP-1410,Employee 1410,45,Male,Human Resources,Manager,Other,9973.46,1,2,6,6,4,4,5,1,3,4,2,4,No,Travel_Rarely,0
+EMP-1411,Employee 1411,53,Male,Research & Development,Manager,Other,14480.85,6,2,17,0,0,0,0,3,1,1,3,3,No,Travel_Rarely,0
+EMP-1412,Employee 1412,50,Male,Research & Development,Research Scientist,Medical,4675.9,9,2,8,6,2,0,6,1,3,3,3,3,No,Travel_Frequently,0
+EMP-1413,Employee 1413,33,Male,Research & Development,Laboratory Technician,Other,6050.38,5,3,9,9,5,1,0,1,3,3,2,3,No,Travel_Rarely,0
+EMP-1414,Employee 1414,27,Male,Human Resources,Human Resources,Human Resources,5546.71,5,4,9,6,4,0,0,3,3,3,2,3,No,Travel_Frequently,0
+EMP-1415,Employee 1415,47,Female,Research & Development,Manufacturing Director,Life Sciences,12294.18,11,0,15,11,0,1,2,3,3,2,4,3,Yes,Travel_Rarely,0
+EMP-1416,Employee 1416,46,Male,Sales,Manager,Technical Degree,17221.15,7,1,28,16,3,1,13,3,4,2,2,3,Yes,Travel_Rarely,0
+EMP-1417,Employee 1417,45,Male,Research & Development,Manager,Marketing,12596.6,3,1,11,11,2,4,3,4,3,4,4,3,Yes,Travel_Frequently,0
+EMP-1418,Employee 1418,22,Female,Research & Development,Healthcare Representative,Human Resources,4405.34,4,2,4,0,0,0,0,4,2,3,2,3,No,Travel_Rarely,0
+EMP-1419,Employee 1419,27,Male,Sales,Sales Executive,Life Sciences,4623.08,2,1,9,9,9,0,0,1,4,4,4,3,No,Travel_Rarely,1
+EMP-1420,Employee 1420,30,Male,Research & Development,Research Scientist,Technical Degree,6737.0,20,1,12,0,0,0,0,3,3,3,2,3,No,Travel_Rarely,0
+EMP-1421,Employee 1421,26,Female,Sales,Sales Executive,Technical Degree,2000.0,1,4,2,2,0,0,0,2,4,1,3,3,No,Travel_Rarely,1
+EMP-1422,Employee 1422,38,Male,Sales,Manager,Technical Degree,12348.23,3,1,13,11,4,5,9,3,3,1,3,3,No,Travel_Rarely,0
+EMP-1423,Employee 1423,34,Male,Research & Development,Manager,Other,11848.69,1,2,16,3,0,0,3,2,4,3,2,3,No,Travel_Rarely,0
+EMP-1424,Employee 1424,27,Female,Research & Development,Laboratory Technician,Marketing,6006.73,6,0,9,9,5,4,0,3,3,3,3,3,No,Travel_Rarely,0
+EMP-1425,Employee 1425,43,Male,Sales,Sales Executive,Technical Degree,5457.95,1,6,8,5,3,0,3,3,4,2,2,3,No,Travel_Rarely,0
+EMP-1426,Employee 1426,18,Male,Sales,Sales Executive,Technical Degree,2000.0,6,2,0,0,0,0,0,4,1,3,2,3,No,Travel_Rarely,0
+EMP-1427,Employee 1427,52,Female,Sales,Manager,Marketing,10046.48,1,1,8,8,3,1,6,2,4,3,3,3,No,Travel_Rarely,0
+EMP-1428,Employee 1428,32,Female,Research & Development,Laboratory Technician,Marketing,2583.78,30,1,0,0,0,0,0,2,3,1,3,3,Yes,Travel_Rarely,1
+EMP-1429,Employee 1429,36,Male,Research & Development,Laboratory Technician,Life Sciences,2000.0,2,2,0,0,0,0,0,2,3,3,3,3,No,Travel_Frequently,1
+EMP-1430,Employee 1430,25,Male,Sales,Sales Representative,Life Sciences,6004.07,1,1,7,4,4,1,4,1,2,3,2,3,No,Travel_Rarely,0
+EMP-1431,Employee 1431,28,Female,Sales,Sales Representative,Other,4274.66,11,2,3,0,0,0,0,4,4,3,3,3,No,Travel_Rarely,0
+EMP-1432,Employee 1432,41,Female,Sales,Manager,Other,15012.86,2,0,18,8,3,0,6,2,3,4,3,3,Yes,Travel_Rarely,0
+EMP-1433,Employee 1433,25,Male,Sales,Sales Executive,Medical,4579.41,1,3,7,1,1,0,1,3,3,3,4,3,No,Travel_Rarely,0
+EMP-1434,Employee 1434,32,Male,Research & Development,Research Director,Medical,12834.84,1,4,14,6,0,0,3,3,3,3,3,3,No,Travel_Rarely,0
+EMP-1435,Employee 1435,40,Male,Research & Development,Manufacturing Director,Medical,14233.6,2,2,22,7,5,2,5,1,2,4,3,3,No,Non-Travel,0
+EMP-1436,Employee 1436,48,Female,Research & Development,Manager,Life Sciences,12605.03,1,1,10,3,3,3,1,2,4,3,2,3,Yes,Travel_Rarely,0
+EMP-1437,Employee 1437,38,Male,Research & Development,Laboratory Technician,Life Sciences,4337.07,2,2,11,10,4,0,6,2,3,3,1,4,No,Travel_Rarely,0
+EMP-1438,Employee 1438,35,Female,Research & Development,Manager,Technical Degree,12035.68,7,2,13,4,4,2,4,2,2,3,3,3,Yes,Non-Travel,1
+EMP-1439,Employee 1439,31,Female,Human Resources,Manager,Human Resources,8836.41,9,1,2,2,2,1,2,2,3,1,4,3,No,Travel_Rarely,1
+EMP-1440,Employee 1440,41,Male,Sales,Sales Representative,Human Resources,4341.36,26,3,8,6,4,0,5,3,4,3,3,3,No,Travel_Rarely,1
+EMP-1441,Employee 1441,37,Female,Sales,Manager,Marketing,11626.86,7,4,10,10,10,6,1,2,4,3,3,3,No,Travel_Rarely,1
+EMP-1442,Employee 1442,19,Female,Research & Development,Laboratory Technician,Life Sciences,3392.21,3,1,1,1,0,1,1,3,3,3,3,3,Yes,Travel_Rarely,0
+EMP-1443,Employee 1443,29,Male,Sales,Manager,Other,9594.97,5,2,0,0,0,0,0,3,4,3,3,3,No,Travel_Frequently,0
+EMP-1444,Employee 1444,38,Female,Research & Development,Research Director,Life Sciences,15344.97,19,4,19,3,0,1,3,4,3,1,3,3,No,Travel_Rarely,0
+EMP-1445,Employee 1445,40,Female,Research & Development,Manager,Human Resources,12120.15,30,1,13,12,2,2,5,3,4,3,4,3,Yes,Travel_Rarely,0
+EMP-1446,Employee 1446,40,Male,Sales,Manager,Medical,9469.3,1,2,4,4,0,3,1,3,3,3,3,3,Yes,Non-Travel,0
+EMP-1447,Employee 1447,36,Female,Research & Development,Manufacturing Director,Life Sciences,13597.97,1,0,16,6,0,0,6,4,3,3,3,4,Yes,Travel_Rarely,0
+EMP-1448,Employee 1448,35,Male,Human Resources,Human Resources,Other,8905.34,30,5,14,13,12,2,0,3,4,2,1,3,No,Non-Travel,0
+EMP-1449,Employee 1449,44,Male,Research & Development,Research Director,Medical,9567.58,9,2,4,4,3,2,3,1,4,4,3,3,No,Travel_Rarely,0
+EMP-1450,Employee 1450,51,Male,Research & Development,Manufacturing Director,Medical,14309.32,24,1,11,5,5,0,1,4,2,3,3,3,No,Travel_Rarely,0
+EMP-1451,Employee 1451,31,Male,Research & Development,Research Scientist,Marketing,6075.71,9,2,13,5,2,0,3,4,4,1,2,4,No,Travel_Rarely,1
+EMP-1452,Employee 1452,27,Male,Human Resources,Human Resources,Life Sciences,3828.67,1,2,9,5,5,1,3,2,1,3,1,3,No,Travel_Frequently,1
+EMP-1453,Employee 1453,25,Male,Sales,Sales Executive,Human Resources,2000.0,20,1,7,7,6,2,2,3,4,4,4,3,No,Travel_Rarely,0
+EMP-1454,Employee 1454,47,Male,Sales,Sales Representative,Technical Degree,2000.0,8,0,0,0,0,0,0,3,3,3,3,3,No,Travel_Rarely,0
+EMP-1455,Employee 1455,39,Female,Research & Development,Manager,Other,14018.38,1,1,14,0,0,0,0,2,4,3,2,4,Yes,Travel_Rarely,0
+EMP-1456,Employee 1456,44,Male,Research & Development,Manufacturing Director,Human Resources,11958.04,16,4,8,1,0,0,1,4,3,1,4,3,No,Travel_Rarely,0
+EMP-1457,Employee 1457,31,Female,Research & Development,Research Director,Medical,9692.93,4,2,4,4,2,0,2,2,3,1,3,3,Yes,Non-Travel,0
+EMP-1458,Employee 1458,32,Male,Sales,Sales Executive,Other,7547.89,3,1,9,7,2,2,4,3,3,2,3,3,Yes,Travel_Frequently,1
+EMP-1459,Employee 1459,46,Female,Sales,Sales Executive,Life Sciences,8512.96,10,2,14,11,5,0,5,4,2,4,3,3,No,Travel_Rarely,0
+EMP-1460,Employee 1460,38,Male,Research & Development,Healthcare Representative,Human Resources,4431.53,7,2,4,0,0,0,0,3,1,3,3,3,No,Non-Travel,0
+EMP-1461,Employee 1461,29,Male,Sales,Sales Executive,Human Resources,3863.59,8,0,2,2,2,0,2,1,4,3,4,3,Yes,Travel_Rarely,0
+EMP-1462,Employee 1462,30,Male,Research & Development,Research Scientist,Marketing,7771.16,7,2,10,8,4,0,3,1,3,1,2,3,No,Travel_Frequently,1
+EMP-1463,Employee 1463,37,Male,Research & Development,Manager,Life Sciences,15377.18,1,2,19,3,2,3,3,3,1,3,4,3,Yes,Travel_Rarely,0
+EMP-1464,Employee 1464,26,Female,Research & Development,Healthcare Representative,Medical,6040.9,10,2,8,5,0,2,5,2,3,2,3,3,Yes,Travel_Rarely,1
+EMP-1465,Employee 1465,41,Male,Research & Development,Manufacturing Director,Marketing,13974.21,1,1,13,1,1,1,0,1,4,3,3,3,No,Non-Travel,0
+EMP-1466,Employee 1466,33,Male,Sales,Sales Executive,Other,6655.86,11,1,10,9,6,1,0,4,4,1,3,3,Yes,Travel_Rarely,0
+EMP-1467,Employee 1467,40,Male,Research & Development,Laboratory Technician,Human Resources,7785.87,13,2,13,6,5,3,3,4,3,3,4,3,No,Travel_Rarely,0
+EMP-1468,Employee 1468,32,Female,Research & Development,Laboratory Technician,Technical Degree,6292.53,4,5,14,1,0,1,1,3,2,3,3,4,Yes,Travel_Frequently,1
+EMP-1469,Employee 1469,41,Female,Research & Development,Manufacturing Director,Other,11048.82,13,4,10,10,0,0,7,1,3,3,3,3,No,Travel_Rarely,0
+EMP-1470,Employee 1470,31,Male,Research & Development,Laboratory Technician,Marketing,5380.36,1,1,7,5,5,1,5,3,3,3,2,3,No,Travel_Rarely,0
+EMP-1471,Employee 1471,53,Male,Sales,Manager,Marketing,9409.29,9,2,0,0,0,0,0,2,1,4,3,3,Yes,Travel_Frequently,0
+EMP-1472,Employee 1472,47,Male,Research & Development,Manufacturing Director,Marketing,13252.94,1,2,15,5,4,0,0,3,1,4,2,3,No,Travel_Frequently,1
+EMP-1473,Employee 1473,33,Male,Research & Development,Laboratory Technician,Medical,2000.0,2,2,0,0,0,0,0,4,2,3,2,3,No,Travel_Frequently,0
+EMP-1474,Employee 1474,36,Male,Sales,Manager,Marketing,15237.24,5,2,18,8,5,4,5,2,4,1,2,3,No,Non-Travel,0
+EMP-1475,Employee 1475,42,Male,Sales,Sales Representative,Other,6031.65,30,1,11,6,0,1,2,3,3,3,4,3,No,Travel_Rarely,1
+EMP-1476,Employee 1476,46,Male,Sales,Sales Executive,Human Resources,8422.61,3,1,13,11,4,0,2,4,3,3,3,3,No,Travel_Rarely,0
+EMP-1477,Employee 1477,23,Female,Sales,Manager,Human Resources,10483.21,7,4,4,4,4,0,4,4,2,3,3,4,No,Travel_Rarely,0
+EMP-1478,Employee 1478,29,Male,Research & Development,Manager,Life Sciences,8682.85,19,2,0,0,0,0,0,3,4,2,3,3,Yes,Travel_Rarely,1
+EMP-1479,Employee 1479,37,Male,Sales,Sales Executive,Other,5077.31,9,2,10,10,6,1,10,4,1,2,3,4,No,Travel_Rarely,0
+EMP-1480,Employee 1480,47,Female,Research & Development,Research Scientist,Human Resources,6989.35,1,1,12,4,4,0,3,3,4,2,3,3,No,Travel_Rarely,0
+EMP-1481,Employee 1481,50,Male,Sales,Sales Executive,Life Sciences,2937.99,4,3,0,0,0,0,0,2,4,3,3,3,No,Travel_Rarely,0
+EMP-1482,Employee 1482,28,Male,Research & Development,Healthcare Representative,Human Resources,4964.51,15,1,10,8,0,4,5,2,3,2,3,3,Yes,Travel_Rarely,1
+EMP-1483,Employee 1483,52,Female,Research & Development,Manufacturing Director,Marketing,11979.81,1,0,10,10,4,0,1,1,3,3,2,3,No,Travel_Rarely,0
+EMP-1484,Employee 1484,43,Female,Research & Development,Research Scientist,Life Sciences,6474.69,22,7,10,10,5,0,2,4,3,1,4,3,No,Travel_Rarely,0
+EMP-1485,Employee 1485,28,Female,Research & Development,Manufacturing Director,Medical,12057.36,3,3,10,7,6,2,7,4,4,3,3,3,Yes,Travel_Rarely,0
+EMP-1486,Employee 1486,48,Male,Research & Development,Manufacturing Director,Medical,15391.85,6,4,16,4,0,3,1,1,3,3,3,3,No,Travel_Rarely,0
+EMP-1487,Employee 1487,43,Male,Research & Development,Research Scientist,Technical Degree,6362.77,3,1,13,0,0,0,0,4,2,3,3,3,No,Travel_Rarely,0
+EMP-1488,Employee 1488,32,Male,Human Resources,Human Resources,Life Sciences,3913.03,15,1,8,5,3,2,5,1,1,3,3,3,No,Travel_Rarely,0
+EMP-1489,Employee 1489,33,Male,Research & Development,Manager,Technical Degree,13118.93,30,3,12,0,0,0,0,2,2,3,3,3,Yes,Travel_Rarely,1
+EMP-1490,Employee 1490,36,Female,Research & Development,Manager,Marketing,11751.43,6,2,11,7,6,5,1,4,1,3,3,3,No,Travel_Rarely,0
+EMP-1491,Employee 1491,18,Male,Human Resources,Manager,Medical,9284.09,7,2,0,0,0,0,0,2,4,3,3,3,No,Travel_Frequently,0
+EMP-1492,Employee 1492,58,Male,Research & Development,Manager,Technical Degree,10856.63,11,4,8,3,3,0,1,4,2,3,3,3,No,Travel_Rarely,0
+EMP-1493,Employee 1493,47,Male,Research & Development,Research Scientist,Human Resources,4843.68,12,0,4,4,4,2,1,3,2,3,3,3,No,Travel_Rarely,0
+EMP-1494,Employee 1494,36,Female,Sales,Manager,Technical Degree,11523.34,14,0,6,0,0,0,0,2,1,3,3,3,No,Travel_Rarely,1
+EMP-1495,Employee 1495,51,Male,Sales,Manager,Marketing,13030.99,6,4,15,5,2,4,0,3,4,1,2,4,Yes,Travel_Rarely,0
+EMP-1496,Employee 1496,40,Male,Research & Development,Research Director,Medical,13766.04,2,2,18,7,4,2,7,3,4,3,4,3,Yes,Travel_Rarely,0
+EMP-1497,Employee 1497,49,Male,Research & Development,Manager,Other,12669.86,30,1,11,5,5,4,1,2,4,2,3,3,Yes,Travel_Rarely,0
+EMP-1498,Employee 1498,45,Male,Research & Development,Research Director,Technical Degree,8016.92,6,5,2,2,2,2,2,1,2,3,4,3,No,Travel_Rarely,0
+EMP-1499,Employee 1499,30,Male,Sales,Sales Executive,Marketing,3792.15,13,2,3,3,3,1,3,2,4,4,3,3,No,Travel_Rarely,0
+EMP-1500,Employee 1500,30,Male,Research & Development,Manufacturing Director,Marketing,12116.41,13,2,12,12,4,0,8,4,3,4,3,4,No,Travel_Rarely,0

@@ -1,0 +1,51 @@
+EmployeeID,FullName,Age,Gender,Department,JobRole,EducationField,MonthlyIncome,DistanceFromHome,NumCompaniesWorked,TotalWorkingYears,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager,JobSatisfaction,EnvironmentSatisfaction,WorkLifeBalance,JobInvolvement,OverTime,BusinessTravel
+CC-AGENT-101,Layla Al-Mansoor,37.0,Male,CallCenter - Customer Care,Technical Support Representative,Other,3409.44,24,2,19.0,13,0,0,1,2,2,1,2,No,Non-Travel
+CC-AGENT-102,Rami Suleiman,37.0,Male,Research & Development,Technical Support Representative,Other,7186.85,9,3,7.0,5,0,0,3,1,3,3,3,Yes,Travel_Frequently
+CC-AGENT-103,Rami Mahmoud,27.0,Female,CallCenter - Tech Support,Research Scientist,Marketing,11986.98,20,6,19.0,6,5,0,0,2,3,1,2,Yes,Travel_Rarely
+CC-AGENT-104,Ziad Salem,43.0,Male,CallCenter - Billing & Sales,Customer Service Specialist,Medical,10108.07,23,2,20.0,5,4,5,1,2,4,4,3,Yes,Travel_Frequently
+CC-AGENT-105,Amr Darwish,23.0,Male,Research & Development,Call Center Agent,Marketing,6933.74,3,4,19.0,10,3,7,6,4,2,3,2,Yes,Travel_Frequently
+CC-AGENT-106,Mariam Mahmoud,36.0,Female,CallCenter - Financial Support,Sales Representative,Marketing,4787.98,5,8,3.0,0,0,0,0,4,1,4,4,No,Travel_Frequently
+CC-AGENT-107,Ziad Mahmoud,20.0,Male,Sales,Research Scientist,Marketing,11269.47,11,2,10.0,6,1,3,0,3,2,1,3,Yes,Non-Travel
+CC-AGENT-108,Dina Ghanem,30.0,Male,CallCenter - Financial Support,Customer Service Specialist,Technical Degree,2429.83,12,5,8.0,0,0,0,0,4,1,2,2,No,Travel_Frequently
+CC-AGENT-109,Nour Nasser,53.0,Female,CallCenter - Customer Care,Research Scientist,Other,10340.44,23,5,13.0,10,10,5,7,4,1,2,2,Yes,Travel_Rarely
+CC-AGENT-110,Omar Suleiman,55.0,Male,CallCenter - Financial Support,Technical Support Representative,Life Sciences,,21,1,8.0,1,0,1,0,2,3,4,2,Yes,Travel_Frequently
+CC-AGENT-111,Kareem Suleiman,50.0,Male,Research & Development,Sales Representative,Technical Degree,4446.84,4,7,12.0,6,3,3,6,1,1,1,4,No,Non-Travel
+CC-AGENT-112,Hana Hassan,32.0,Female,CallCenter - Customer Care,Sales Representative,Medical,5486.83,8,2,15.0,3,0,0,0,2,2,4,4,No,Non-Travel
+CC-AGENT-113,Faris Al-Mansoor,30.0,Female,CallCenter - Tech Support,Sales Representative,Marketing,13132.91,26,8,10.0,6,5,5,6,4,2,2,3,Yes,Non-Travel
+CC-AGENT-114,Kareem Abadi,54.0,Male,Sales,Customer Service Specialist,Life Sciences,2791.68,16,3,2.0,2,0,0,0,1,2,4,1,Yes,Travel_Frequently
+CC-AGENT-115,Reem Al-Mansoor,25.0,Female,Sales,Research Scientist,Human Resources,8368.84,9,4,22.0,10,3,4,6,2,3,4,3,Yes,Non-Travel
+CC-AGENT-116,Rami Suleiman,56.0,Male,CallCenter - Tech Support,Research Scientist,Medical,8169.44,5,6,3.0,1,1,1,0,4,3,1,3,Yes,Non-Travel
+CC-AGENT-117,Ziad El-Sayed,26.0,Male,CallCenter - Billing & Sales,Customer Service Specialist,Human Resources,4685.43,11,4,22.0,8,8,7,4,1,1,4,3,Yes,Non-Travel
+CC-AGENT-118,Amr Ghanem,28.0,Female,CallCenter - Customer Care,Sales Representative,Human Resources,10526.88,18,1,4.0,0,0,0,0,2,4,2,1,No,Travel_Rarely
+CC-AGENT-119,Sarah Ibrahim,33.0,Male,Sales,Call Center Agent,Marketing,11405.37,29,7,20.0,4,1,1,1,4,1,2,3,No,Travel_Frequently
+CC-AGENT-120,Hana Nasser,30.0,Male,CallCenter - VIP Services,Call Center Agent,Technical Degree,4824.72,27,8,12.0,4,1,1,0,2,4,3,3,Yes,Travel_Rarely
+CC-AGENT-121,Dina Khoury,52.0,Female,Sales,Research Scientist,Marketing,13283.0,4,5,6.0,4,2,0,0,4,3,3,4,Yes,Travel_Rarely
+CC-AGENT-122,Kareem Hassan,36.0,Male,Sales,,Life Sciences,8335.06,26,4,12.0,6,0,5,2,3,1,3,3,No,Travel_Rarely
+CC-AGENT-123,Faris Abadi,38.0,Male,CallCenter - Customer Care,Sales Representative,Other,13296.29,22,3,20.0,9,6,8,0,3,3,2,4,No,Travel_Rarely
+CC-AGENT-124,Rami Salem,33.0,Female,Research & Development,Technical Support Representative,Other,3200.59,17,6,3.0,1,1,0,0,2,1,1,2,No,Travel_Frequently
+CC-AGENT-125,Khaled Salem,46.0,Male,Sales,Sales Representative,Technical Degree,6915.9,5,1,25.0,3,3,1,1,4,1,2,1,No,Non-Travel
+CC-AGENT-126,Rami Khoury,53.0,Female,Research & Development,Sales Representative,Human Resources,11817.08,29,7,18.0,14,2,7,7,3,2,3,4,Yes,Travel_Rarely
+CC-AGENT-127,Rami El-Sayed,38.0,Male,CallCenter - Billing & Sales,Customer Service Specialist,Marketing,12737.72,3,3,5.0,1,1,0,0,1,4,4,3,No,Travel_Rarely
+CC-AGENT-128,Sarah Hassan,46.0,Female,Research & Development,Research Scientist,Other,2430.48,29,7,16.0,0,0,0,0,4,2,4,2,No,Travel_Rarely
+CC-AGENT-129,Yasmin Al-Mansoor,44.0,Female,Sales,Sales Representative,Other,4147.53,15,3,20.0,0,0,0,0,4,2,4,2,Yes,Travel_Rarely
+CC-AGENT-130,Faris Ibrahim,33.0,Female,CallCenter - Billing & Sales,Customer Service Specialist,Technical Degree,5483.43,27,7,9.0,1,1,0,0,3,2,1,1,Yes,Non-Travel
+CC-AGENT-131,Tariq Darwish,21.0,Male,CallCenter - Customer Care,Technical Support Representative,Technical Degree,10099.61,19,4,15.0,8,5,2,1,2,3,1,1,No,Travel_Frequently
+CC-AGENT-132,Faris Zaki,32.0,Male,CallCenter - Financial Support,Technical Support Representative,Life Sciences,10426.88,10,2,19.0,1,1,1,1,1,3,1,4,No,Non-Travel
+CC-AGENT-133,Lina Ibrahim,49.0,Male,CallCenter - VIP Services,Technical Support Representative,Other,8356.61,21,5,20.0,15,7,6,4,3,2,1,3,No,Non-Travel
+CC-AGENT-134,Rami Suleiman,44.0,Female,CallCenter - Tech Support,Sales Representative,Marketing,4345.71,7,6,9.0,5,2,4,5,3,1,2,1,Yes,Travel_Frequently
+CC-AGENT-135,Lina Salem,,Male,Sales,Sales Representative,Other,10599.74,15,1,3.0,2,0,1,2,2,3,3,4,No,Travel_Rarely
+CC-AGENT-136,Mariam Ibrahim,42.0,Female,CallCenter - Billing & Sales,Customer Service Specialist,Marketing,4920.35,24,4,11.0,1,0,0,0,4,3,3,1,Yes,Travel_Rarely
+CC-AGENT-137,Hana Ibrahim,31.0,Female,CallCenter - Tech Support,Research Scientist,Medical,5436.87,2,5,23.0,4,3,0,0,3,4,4,4,No,Non-Travel
+CC-AGENT-138,Sarah Nasser,50.0,Male,Research & Development,Call Center Agent,Technical Degree,8002.61,19,1,5.0,1,1,0,0,1,4,2,4,No,Travel_Rarely
+CC-AGENT-139,Maya Darwish,57.0,Female,CallCenter - Billing & Sales,Research Scientist,Human Resources,2910.72,24,2,25.0,6,5,1,2,1,2,2,2,Yes,Non-Travel
+CC-AGENT-140,Omar Zaki,48.0,Female,CallCenter - Billing & Sales,Call Center Agent,Medical,5599.64,10,8,3.0,1,1,0,1,1,2,2,3,Yes,Non-Travel
+CC-AGENT-141,Sarah Farouk,39.0,Female,CallCenter - VIP Services,Call Center Agent,Technical Degree,10326.4,23,7,9.0,8,8,7,7,1,1,4,3,,Non-Travel
+CC-AGENT-142,Khaled Hassan,56.0,Male,Research & Development,Customer Service Specialist,Human Resources,2674.73,25,3,16.0,14,4,2,6,4,1,4,3,No,Travel_Rarely
+CC-AGENT-143,Amr Khoury,26.0,Male,CallCenter - Billing & Sales,Sales Representative,Other,8046.53,22,7,25.0,1,1,0,1,3,3,1,4,Yes,Travel_Frequently
+CC-AGENT-144,Mariam Salem,46.0,Male,CallCenter - Customer Care,Research Scientist,Marketing,9547.08,16,8,25.0,1,0,1,0,3,4,4,1,Yes,Travel_Frequently
+CC-AGENT-145,Reem Ghanem,35.0,Male,CallCenter - Billing & Sales,Research Scientist,Life Sciences,8716.57,3,4,4.0,3,0,1,3,3,3,4,4,No,Non-Travel
+CC-AGENT-146,Rami Mahmoud,29.0,Female,CallCenter - Customer Care,Research Scientist,Human Resources,11006.25,5,2,9.0,6,2,6,4,3,1,3,3,No,Non-Travel
+CC-AGENT-147,Rami Mahmoud,50.0,Female,CallCenter - Billing & Sales,Research Scientist,Human Resources,6651.08,11,4,23.0,7,6,3,6,1,3,4,4,No,Travel_Frequently
+CC-AGENT-148,Youssef Salem,22.0,Male,CallCenter - Financial Support,Research Scientist,Marketing,12462.46,28,8,,4,3,0,1,4,2,1,4,No,Travel_Rarely
+CC-AGENT-149,Reem Abadi,45.0,Male,Research & Development,Customer Service Specialist,Other,12340.24,13,6,21.0,15,8,0,1,2,3,2,1,No,Non-Travel
+CC-AGENT-150,Layla Salem,30.0,Female,CallCenter - Tech Support,Call Center Agent,Marketing,11594.49,10,6,12.0,6,1,1,4,4,2,2,2,Yes,Travel_Frequently

@@ -1,0 +1,15 @@
+{
+  "accuracy": 0.7533,
+  "precision": 0.4925,
+  "recall": 0.4521,
+  "f1_score": 0.4714,
+  "roc_auc": 0.7067,
+  "confusion_matrix": {
+    "tn": 193,
+    "fp": 34,
+    "fn": 40,
+    "tp": 33
+  },
+  "total_test_samples": 300,
+  "model_type": "RandomForestClassifier"
+}

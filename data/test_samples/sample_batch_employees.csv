@@ -1,0 +1,4 @@
+employee_id,full_name,age,gender,department,job_role,education_field,monthly_income,distance_from_home,num_companies_worked,total_working_years,years_at_company,years_in_current_role,years_since_last_promotion,years_with_curr_manager,environment_satisfaction,job_satisfaction,work_life_balance,job_involvement,performance_rating,overtime,business_travel
+EMP-TEST-9999,Alexander Wright,34,Male,Research & Development,Research Scientist,Life Sciences,3800.0,22,4,8,3,2,3,1,1,1,1,2,3,Yes,Travel_Frequently
+EMP-TEST-8888,Sophia Martinez,45,Female,Sales,Sales Executive,Marketing,12500.0,4,2,18,10,7,1,6,4,4,3,4,4,No,Travel_Rarely
+EMP-TEST-7777,Marcus Vance,29,Male,Human Resources,Human Resources,Human Resources,4200.0,18,3,5,2,1,2,1,2,2,2,2,3,Yes,Travel_Frequently
